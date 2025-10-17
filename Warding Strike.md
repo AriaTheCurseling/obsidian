@@ -1,3 +1,4 @@
+#common #attack 
 *You interrupt an opponents action with a defensive attack.*
 
 Certain features let you perform a warding strike as a reaction when an opponent makes a triggering action that meets specific criteria. 
