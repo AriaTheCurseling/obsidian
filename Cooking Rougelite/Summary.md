@@ -10,7 +10,7 @@ kinds of actions:
 - portion
 - stir
 
-
+tiles can be open or closed - this blocks aura abilities
 
 
 

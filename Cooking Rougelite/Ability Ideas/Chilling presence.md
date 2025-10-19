@@ -1,0 +1,1 @@
+Food doesn't burn near you, but cooks slower.
