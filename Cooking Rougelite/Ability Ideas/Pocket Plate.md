@@ -1,1 +1,3 @@
+Intended for [[Server]]
+
 While carrying a plate, you can pick up a second plate. When holding two plates you can only put food onto the second plate you picked up.
