@@ -1,1 +1,1 @@
-Tables will accept starters, sides and desserts they haven't ordered. The dish must be 
+Tables will accept starters, sides and desserts they haven't ordered. The dish must be delivered in the order customers would normally order them. Customers have a chance of tipping based on the value of your gifts.
