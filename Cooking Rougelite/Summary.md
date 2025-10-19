@@ -8,6 +8,7 @@ kinds of actions:
 - roll
 - freeze
 - portion
+- stir
 
 
 

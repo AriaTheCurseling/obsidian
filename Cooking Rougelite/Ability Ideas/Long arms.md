@@ -1,0 +1,1 @@
+You can pick up items across an empty counter.

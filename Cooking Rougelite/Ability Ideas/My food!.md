@@ -1,0 +1,1 @@
+Food items you place down are affected by your abilities after being moved via automated means.
