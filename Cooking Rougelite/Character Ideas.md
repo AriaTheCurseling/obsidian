@@ -1,1 +1,1 @@
-A [[Server]] perk could be [[pocket plate]]:
+A [[Server]] perk could be [[pocket plate]]: the ability to pick up a second plate. only the last plate picked up can be added to.
