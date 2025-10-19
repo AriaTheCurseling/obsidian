@@ -1,0 +1,1 @@
+This strategy is about growth and making money
