@@ -7,6 +7,7 @@ kinds of actions:
 - cook
 - roll
 - freeze
+- portion
 
 
 
