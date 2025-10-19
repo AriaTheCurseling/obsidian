@@ -1,0 +1,1 @@
+When you burn food it is vaporized.

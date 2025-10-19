@@ -1,0 +1,1 @@
+Anything you put on a stove that cannot be cooked will burn.
