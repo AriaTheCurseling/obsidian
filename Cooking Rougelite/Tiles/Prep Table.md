@@ -1,0 +1,1 @@
+Can store 4 of the same ingredient. 

@@ -1,0 +1,1 @@
+You can move through physical obstacles, picking up items takes time. All interactions are slower. 

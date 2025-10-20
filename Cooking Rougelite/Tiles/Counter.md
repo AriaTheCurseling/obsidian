@@ -1,0 +1,1 @@
+Allows for cutting, portioning and rolling. 
