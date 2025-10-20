@@ -9,6 +9,8 @@ kinds of actions:
 - freeze
 - portion
 - stir
+- clean
+- water
 
 tiles can be open or closed - this blocks aura abilities
 

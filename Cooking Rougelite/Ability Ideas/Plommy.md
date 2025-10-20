@@ -1,0 +1,1 @@
+interact with a plant to copy its properties. you can provide this plant at any time

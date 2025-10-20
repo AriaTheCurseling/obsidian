@@ -1,0 +1,1 @@
+your hand do not get [[Dirty hands|dirty]]. you can clean with bare hands. 

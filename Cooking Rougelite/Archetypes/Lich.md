@@ -1,0 +1,1 @@
+Has a soulbound tile. gets modifications to their tile and abilities to swap hands or otherwise interact with their tile at a distance. 
