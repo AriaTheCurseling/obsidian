@@ -1,0 +1,1 @@
+Customers sometimes leave leftovers on their plates.

@@ -1,3 +1,3 @@
 upgraded [[Sink]]
 
-Can dispose of food. 
+Can dispose of food and [[Leftovers]]
