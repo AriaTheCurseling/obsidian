@@ -1,0 +1,1 @@
+You pick up items when finishing interacting with them.
