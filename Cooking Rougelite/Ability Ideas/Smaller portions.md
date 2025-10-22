@@ -1,1 +1,1 @@
-You can take twice 
+You can take twice as many [[Portioning|portions]] from an item that can be portioned
