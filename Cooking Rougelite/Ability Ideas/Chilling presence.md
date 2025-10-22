@@ -1,1 +1,1 @@
-Food doesn't [[burn]] near you, but [[Cooks]] slower.
+Food doesn't [[Burning|burn]] near you, but [[Cooking|cooks]] slower.

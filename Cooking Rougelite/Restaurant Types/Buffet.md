@@ -1,6 +1,6 @@
-Customers grab [[Plates|plates]] and serve themselves. You are payed per customer, regardless of how much they eat. 
+Customers grab [[Plates|plates]] and serve themselves. You are paid per customer, regardless of how much they eat. 
 
-Needs [[tables]] for seating and [[serving tables]] for customers. Has [[Plates|plates]] that need to be cleaned. 
+Needs [[Tables|tables]] for seating and [[serving tables]] for customers. Has [[Plates|plates]] that need to be cleaned. 
 
 
 

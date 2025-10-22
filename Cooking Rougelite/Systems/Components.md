@@ -13,4 +13,4 @@ upgrades a [[Prep Table]] to a [[Frozen Prep Table]]
 
 
 
-Players can gain component benefits through 
+Players can gain component benefits through [[Cyborg]]
