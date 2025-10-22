@@ -1,1 +1,1 @@
-Food you pick up needs to be washed. You can wash your hands to remove this condition.
+Food you pick up needs to be washed. You can wash your hands in a [[Sink]] to remove this condition.

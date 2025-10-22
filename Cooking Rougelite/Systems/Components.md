@@ -9,3 +9,8 @@ upgrades a [[Prep Table]] to a [[Heated Prep Table]]
 upgrades a [[Sink]] to a [[Murder Sink]]
 #### [[Cooling Component]]
 upgrades a [[Prep Table]] to a [[Frozen Prep Table]]
+
+
+
+
+Players can gain component benefits through 
