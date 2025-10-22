@@ -1,0 +1,1 @@
+Other players can move through you when you're standing still

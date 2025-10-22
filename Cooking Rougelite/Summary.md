@@ -14,5 +14,10 @@ kinds of actions:
 
 tiles can be open or closed - this blocks aura abilities
 
+What stats should players have?
 
+Movespeed
+Cutting speed
+Cleaning speed
 
+Likeability? increasing
