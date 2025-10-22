@@ -1,0 +1,1 @@
+Attempting to [[Cooking|cook]] certain items will burn them instead.
