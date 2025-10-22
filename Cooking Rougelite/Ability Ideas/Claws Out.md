@@ -1,0 +1,1 @@
+You cut [[ingredients]] twice as fast. Ingredients are slowly cut while you're holding them.
