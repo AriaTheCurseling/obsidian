@@ -1,1 +1,1 @@
-You cut [[ingredients]] twice as fast and are slowly cut while you're holding them.
+You [[cutting|cut]] [[ingredients]] twice as fast and slowly cut them while you're holding them.

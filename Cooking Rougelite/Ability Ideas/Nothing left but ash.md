@@ -1,1 +1,1 @@
-When you [[burn]] food it is vaporized.
+When you [[Burning|burn]] food it is vaporized.
