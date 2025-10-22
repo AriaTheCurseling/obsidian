@@ -1,1 +1,0 @@
-Custermers can have allergies. All ingredients touched since last washing hands count against allergies. 
