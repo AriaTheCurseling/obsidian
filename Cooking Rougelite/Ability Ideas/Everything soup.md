@@ -1,1 +1,1 @@
-Everything can be chopped until it turns to soup.
+Everything can be [[Cutting|chopped]] until it turns to soup.

@@ -1,1 +1,1 @@
-Anything you put on a stove that cannot be cooked will burn.
+Anything you try to [[cooking|cook]] that cannot be cooked will [[burning|burn]].

@@ -1,3 +1,3 @@
 requires [[Hotswap]]
 
-You can utilize components to upgrade yourself.
+You can utilize [[components]] to upgrade yourself.

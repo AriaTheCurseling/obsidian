@@ -1,1 +1,1 @@
-You can interact with a plate to arrange the ingredients in a pleasing manner. Increases tip chance. 
+You can interact with a plate to arrange the ingredients in a pleasing manner. Increases [[tipping|tip]] chance. 
