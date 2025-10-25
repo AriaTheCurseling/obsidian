@@ -1,0 +1,1 @@
+Put in money to gain interest, smash to collect.
