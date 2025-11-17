@@ -1,0 +1,1 @@
+Make comparators prefer the inventory furthest away
