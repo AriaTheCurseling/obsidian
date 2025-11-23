@@ -3,4 +3,5 @@ Cauldron
 Potions
 Pots/Sherds/armor trims
 Bundle - carry more bundles/sherds
-Dripstone - 
+Dripstone - potion brewing
+Crystals - 
