@@ -1,1 +1,2 @@
 Soul Powder
+Blaze Mace

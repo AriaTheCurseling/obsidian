@@ -1,6 +1,6 @@
 Candles - rituals?
 Cauldron
 Potions
-Pots/Sherds
+Pots/Sherds/armor trims
 Bundle - carry more bundles/sherds
 Dripstone - 
