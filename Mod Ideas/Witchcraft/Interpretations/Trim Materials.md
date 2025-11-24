@@ -1,5 +1,4 @@
 ###### [![](https://minecraft.wiki/images/ItemSprite_amethyst-shard.png?80d2b)](https://minecraft.wiki/w/Amethyst_Shard "Amethyst Shard")[Amethyst Shard](https://minecraft.wiki/w/Amethyst_Shard "Amethyst Shard")
- ???
 ######  [![](https://minecraft.wiki/images/ItemSprite_copper-ingot.png?5f2ee)](https://minecraft.wiki/w/Copper_Ingot "Copper Ingot")[Copper Ingot](https://minecraft.wiki/w/Copper_Ingot "Copper Ingot")
 ######  [![](https://minecraft.wiki/images/ItemSprite_diamond.png?8f019)](https://minecraft.wiki/w/Diamond "Diamond")[Diamond](https://minecraft.wiki/w/Diamond "Diamond")
 ######  [![](https://minecraft.wiki/images/ItemSprite_emerald.png?14ced)](https://minecraft.wiki/w/Emerald "Emerald")[Emerald](https://minecraft.wiki/w/Emerald "Emerald")
@@ -7,6 +6,7 @@
 - Mining efficiency
 - Enchantability
 - Fragile
+- ?Curing
 ######  [![](https://minecraft.wiki/images/ItemSprite_iron-ingot.png?02bdf)](https://minecraft.wiki/w/Iron_Ingot "Iron Ingot")[Iron Ingot](https://minecraft.wiki/w/Iron_Ingot "Iron Ingot")
 ######  [![](https://minecraft.wiki/images/ItemSprite_lapis-lazuli.png?27ec1)](https://minecraft.wiki/w/Lapis_Lazuli "Lapis Lazuli")[Lapis Lazuli](https://minecraft.wiki/w/Lapis_Lazuli "Lapis Lazuli")
 ######  [![](https://minecraft.wiki/images/ItemSprite_nether-quartz.png?8915b)](https://minecraft.wiki/w/Nether_Quartz "Nether Quartz")[Nether Quartz](https://minecraft.wiki/w/Nether_Quartz "Nether Quartz")
