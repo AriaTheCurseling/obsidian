@@ -6,6 +6,7 @@
 ######  [![](https://minecraft.wiki/images/ItemSprite_gold-ingot.png?612cb)](https://minecraft.wiki/w/Gold_Ingot "Gold Ingot")[Gold Ingot](https://minecraft.wiki/w/Gold_Ingot "Gold Ingot")
 - Mining efficiency
 - Enchantability
+- Fragile
 ######  [![](https://minecraft.wiki/images/ItemSprite_iron-ingot.png?02bdf)](https://minecraft.wiki/w/Iron_Ingot "Iron Ingot")[Iron Ingot](https://minecraft.wiki/w/Iron_Ingot "Iron Ingot")
 ######  [![](https://minecraft.wiki/images/ItemSprite_lapis-lazuli.png?27ec1)](https://minecraft.wiki/w/Lapis_Lazuli "Lapis Lazuli")[Lapis Lazuli](https://minecraft.wiki/w/Lapis_Lazuli "Lapis Lazuli")
 ######  [![](https://minecraft.wiki/images/ItemSprite_nether-quartz.png?8915b)](https://minecraft.wiki/w/Nether_Quartz "Nether Quartz")[Nether Quartz](https://minecraft.wiki/w/Nether_Quartz "Nether Quartz")
