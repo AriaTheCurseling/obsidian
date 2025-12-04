@@ -9,6 +9,15 @@ has k independent hash functions and m bits
 
 the chance an individual bit is not set is (1-1/m)^(kn) which is approximately e^(-kn/m)
 
-the probability k bits is set is (1-p)^k = ( 1 - e^(-kn/m) )^k 
+the false positive rate is given by the the probability k bits is in set is (1-p)^k = ( 1 - e^(-kn/m) )^k 
 
 optimal k = ln2*(m/n)
+
+
+using m = ceil(n * lg(1/error) / ln 2) and k = ceil (lg 1 / error)
+
+
+
+
+
+( 1 - e^(-lg(1/error)n/m) ) * (1/error)
