@@ -7,8 +7,6 @@ A bloom filter will always correctly identify members, but can falsely claim non
 
 has k independent hash functions and m bits
 
-the chance an individual bit is not set is (1-1/m)^kn
+the chance an individual bit is not set is (1-1/m)^(kn) which is approximately e^(-kn/m)
 
-
-
-
+the probability k bits is set is (1-p)
