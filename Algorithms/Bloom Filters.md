@@ -20,4 +20,4 @@ using m = ceil(n * lg(1/error) / ln 2) and k = ceil (lg 1 / error)
 
 
 
-( 1 - e^(-lg(1/error)n/m) ) * (1/error)
+( 0.5 ) ^ lg(1/error)
