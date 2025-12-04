@@ -13,11 +13,4 @@ the false positive rate is given by the the probability k bits is in set is (1-p
 
 optimal k = ln2*(m/n)
 
-
-using m = ceil(n * lg(1/error) / ln 2) and k = ceil (lg 1 / error)
-
-
-
-
-
-( 0.5 ) ^ lg(1/error)
+using m = ceil(n * lg(1/error) / ln 2) and k = ceil (lg 1 / error) we can set the error
