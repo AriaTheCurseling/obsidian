@@ -9,4 +9,6 @@ has k independent hash functions and m bits
 
 the chance an individual bit is not set is (1-1/m)^(kn) which is approximately e^(-kn/m)
 
-the probability k bits is set is (1-p)
+the probability k bits is set is (1-p)^k = ( 1 - e^(-kn/m) )^k 
+
+optimal k = ln2*(m/n)
