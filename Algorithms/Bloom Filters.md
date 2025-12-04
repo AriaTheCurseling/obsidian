@@ -19,5 +19,5 @@ using m = ceil(n * lg(1/error) / ln 2) and k = ceil (lg 1 / error) we can set th
 
 
 
-can be combined by bitwise or
-can vhe
+union by bitwise or
+intersection more complicated but possible 
