@@ -13,3 +13,5 @@ amount of samles is n * p
 stored in n * n * p
 expected vertices closer than sampled vertex order of 1/p (geometric distribution)
 strored in n/p
+
+set p to sqrt(n) and stored in n sqrt n
