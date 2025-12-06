@@ -11,4 +11,6 @@ set own id = 2 * bit_index + bit_value
 when reaching 6 colors use P3C
 
 Randomized path coloring
-all non-stopped nodes send
+all non-stopped nodes pick a color
+share colors
+if new color is different than neighbors, stop
