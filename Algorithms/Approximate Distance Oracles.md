@@ -17,10 +17,13 @@ strored in n/p
 set p to sqrt(n) and stored in n sqrt n
 
 
+recursively applying algorithm to previous sample
 
 Each vertex:
 closest stored in 1/p for every layer, total k/p
 last layer size expected np^k-1
 
 total size nk/p + nnp^k-1
+using p=n^-1/k
+we get kn^(1+1/k)
 
