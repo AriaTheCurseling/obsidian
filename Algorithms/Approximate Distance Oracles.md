@@ -1,3 +1,5 @@
+Given an undirected graph G with non-negative edge weights, we want a data structure that answers queries for δ(u, v) for vertices u, v, where δ(u, v) is the shortest path distance in G between u and v.
+
 Estimate distances at a certain stretch
 
 Given a graph G(E, V)
