@@ -18,4 +18,6 @@ Infusion
 Expertise
 - deal more damage/break similar objects faster
 
-Buff mob ()
+Buff mob (breeding)
+- increase a stat
+- give them enchantments
