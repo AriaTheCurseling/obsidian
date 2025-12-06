@@ -9,6 +9,8 @@ for each vertex store the closest sampled vertex
 
 randomly sample vertices
 
-amount of sam
+amount of samles is n * p
+stored in n * n * p
+
 
 
