@@ -22,6 +22,7 @@ recursively applying algorithm to previous sample
 Each vertex:
 closest stored in 1/p for every layer, total k/p
 last layer size expected np^k-1
+each layer closest vertex
 
 total size nk/p + nnp^k-1
 using p=n^-1/k
