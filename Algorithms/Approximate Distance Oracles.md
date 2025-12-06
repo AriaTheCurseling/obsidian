@@ -18,14 +18,9 @@ set p to sqrt(n) and stored in n sqrt n
 
 
 
-Layer 1:
-samples stored in nnp
-closest stored in n/p
-Layer 2:
-samples stored in nnpp
-closest stored in np/p
+Each vertex:
+closest stored in 1/p for every layer, total k/p
+last layer size expected np^k-1
 
-
-n+n^2/p^2  = n/p+n^2 * p
-
+total size nk/p + nnp^k-1
 
