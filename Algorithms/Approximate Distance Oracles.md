@@ -15,3 +15,12 @@ expected vertices closer than sampled vertex order of 1/p (geometric distributio
 strored in n/p
 
 set p to sqrt(n) and stored in n sqrt n
+
+
+
+Layer 1:
+samples stored in nnp
+closest stored in n/p
+Layer 2:
+samples stored in 
+
