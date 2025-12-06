@@ -22,5 +22,10 @@ Layer 1:
 samples stored in nnp
 closest stored in n/p
 Layer 2:
-samples stored in 
+samples stored in nnpp
+closest stored in np/p
+
+
+n+n^2/p^2  = n/p+n^2 * p
+
 
