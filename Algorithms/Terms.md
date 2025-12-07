@@ -1,0 +1,1 @@
+2 uniform hash function - independent and uniform
