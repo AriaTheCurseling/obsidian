@@ -1,4 +1,5 @@
-Selection problem - Reservoir sampling
+Selection problem
+Reservoir sampling
 - we want to select a random element with uniform probability from a stream
 
 Select each element with chance 1/n, replacing previous selection, where n is number of seen elements
@@ -17,3 +18,10 @@ Tidemark algorithm
 - choose a 2-universal hash function
 - keep track of max(count_trailing_zeros(hash(x))) as z
 - return 2^(z+1/2)
+!! learn the bounds
+
+Approximate counting problem
+
+Morris counter
+
+
