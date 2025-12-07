@@ -11,9 +11,11 @@ stop
 
 Breadth-First Search
 reply accept to random wave source
-if all accepted children have acknowledged send acknowledge 
+if all accepted children have acknowledged send acknowledge to parent
 
 Electing a leader
 - one node should output 1, all others 0
 bfs but store root id instead of stopping
 redo if smaller id is sent
+
+All-Pairs Shortest Path Problem
