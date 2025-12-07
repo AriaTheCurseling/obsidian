@@ -19,6 +19,15 @@ Range Upgrade
 Use log n countMin sketches, each hashing in bigger groups (ie, ignoring 1 extra significant bit)
 
 
+Heavy hitters problem
+CountMin Sketch + min-heap + counter m
 
+add each element in stream to sketch
+check if element frequency is above m/k
+if so, add to min-heap
+remove lowest value in heap if its below m/k
+
+space k * log 1/δ
+time 
 
 
