@@ -28,6 +28,6 @@ Morris counter
 - output 2^x - 1
 
 Morris counter (space inneficient)
-- initialize x as 1
-- with probability 1/x bitshift x << 1
-- output x - 1
+- initialize c as 1
+- with probability 1/c bitshift c << 1
+- output c - 1
