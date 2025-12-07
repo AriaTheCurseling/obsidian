@@ -36,4 +36,4 @@ let C_i be c after i tokens
 output after i tokens is C_i - 1
 Z_i is 1 when C_i would increase
 E\[Z_i | C_i] = 1 / C_i
-
+C_i+1 = C_i * (1+Z_i)
