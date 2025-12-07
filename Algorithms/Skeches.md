@@ -1,4 +1,4 @@
-
+!! read up on the math
 
 Frequency Estimation problem
 - Preprocess on a stream S, how do we efficiently store element count?
@@ -15,11 +15,11 @@ space O(lg(1/δ)/ε)
 time  O(lg(1/δ))
 !! read up on calculations
 
-Range Upgrade
+##### Range Upgrade
 Use log n countMin sketches, each hashing in bigger groups (ie, ignoring 1 extra significant bit)
 
 
-Heavy hitters problem in the cash register model
+#### Heavy hitters problem in the cash register model
 CountMin Sketch + min-heap + counter m
 
 add each element in stream to sketch
@@ -31,5 +31,9 @@ space k * log 1/δ
 time 1/δ + log k
 
 
-Heavy hitters problem in the turnstile model
+#### Heavy hitters problem in the turnstile model
 Use log n countMin sketches with intervals
+
+Space: k · lg 1/δ · lg n
+Process Time: log n · lg 1/δ
+Query time: k · log n · lg 1 δ
