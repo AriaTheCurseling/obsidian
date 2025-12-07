@@ -10,9 +10,10 @@ set distance to round nun
 stop
 
 Breadth-First Search
-Wave but send own id
-reply ack to random wave source
+reply accept to random wave source
+if all accepted children have acknowledged send acknowledge 
 
 Electing a leader
 - one node should output 1, all others 0
-bfs bbut store root id instead of stopping
+bfs but store root id instead of stopping
+redo if smaller id is sent
