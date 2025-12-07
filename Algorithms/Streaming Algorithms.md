@@ -1,4 +1,5 @@
+Selection problem
+- we want to select a random element with uniform probability from a stream
 
+Select each element with chance 1/n, replacing previous selection, where n is number of seen elements
 
-
-Select random element through random(0, n) == 0, where n is number of seen elements
