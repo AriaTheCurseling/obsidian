@@ -19,7 +19,7 @@ Range Upgrade
 Use log n countMin sketches, each hashing in bigger groups (ie, ignoring 1 extra significant bit)
 
 
-Heavy hitters problem
+Heavy hitters problem in the cash register model
 CountMin Sketch + min-heap + counter m
 
 add each element in stream to sketch
@@ -28,6 +28,6 @@ if so, add to min-heap
 remove lowest value in heap if its below m/k
 
 space k * log 1/δ
-time 
+time 1/δ + log k
 
 
