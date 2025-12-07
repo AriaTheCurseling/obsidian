@@ -23,5 +23,11 @@ Tidemark algorithm
 Approximate counting problem
 
 Morris counter
+- initialize x as 0
+- with probability 2^-x increment x
+- output 2^x - 1
 
-
+Morris counter (space inneficient)
+- initialize x as 1
+- with probability 1/x bitshift x << 1
+- output x - 1
