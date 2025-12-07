@@ -12,3 +12,8 @@ for each element either
 - decrement all counters and remove 0 values
 
 Distinct elements problem
+
+Tidemark algorithm
+- choose a 2-universal hash function
+- keep track of max(count_trailing_zeros(hash(x))) as z
+- return 2^(z+1/2)

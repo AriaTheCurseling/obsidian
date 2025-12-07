@@ -1,1 +1,1 @@
-2 uniform hash function - independent and uniform
+2-universal hash function - independent and uniform
