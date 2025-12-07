@@ -12,3 +12,7 @@ stop
 Breadth-First Search
 Wave but send own id
 reply ack to random wave source
+
+Electing a leader
+- one node should output 1, all others 0
+bfs bbut store root id instead of stopping
