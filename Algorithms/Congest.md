@@ -19,3 +19,5 @@ bfs but store root id instead of stopping
 redo if smaller id is sent
 
 All-Pairs Shortest Path Problem
+Elect leader
+perform BFS ub Euler tour order
