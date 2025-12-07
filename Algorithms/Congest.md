@@ -20,4 +20,7 @@ redo if smaller id is sent
 
 All-Pairs Shortest Path Problem
 Elect leader
-perform BFS ub Euler tour order
+Give leader token
+2 step algorithm:
+- tokenholder starts bfs wave
+- pass token in euler tour order
