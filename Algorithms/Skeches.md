@@ -1,6 +1,6 @@
 !! read up on the math
 
-Frequency Estimation problem
+#### Frequency Estimation problem
 - Preprocess on a stream S, how do we efficiently store element count?
 
 CountMin Sketch
