@@ -31,3 +31,5 @@ space k * log 1/δ
 time 1/δ + log k
 
 
+Heavy hitters problem in the turnstile model
+Use log n countMin sketches with intervals
