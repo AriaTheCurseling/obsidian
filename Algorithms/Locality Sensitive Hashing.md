@@ -22,4 +22,4 @@ P\[h(x) = h(y)] = (1-d(x, z)/b)^k
 probability that atleast one hash collide
 1 - (1 - (1-d(x, z)/b)^k)^L 
 1 - (1 - (1-p^k)^L 
-1 - e^(Lp^k) 
+1 - e^(Lp^k)
