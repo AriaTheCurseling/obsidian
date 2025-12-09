@@ -3,8 +3,11 @@ delta δ
 epsilon ε
 tree of dyadic intervals - intervals doubling in size
 
-Tidemark Problem
-Morris Counter
+Misra-Gries - Frequent Stream Algorithm
+Tidemark Problem - Unique Stream Algorithm
+Morris Counter - Count Stream Algorithm
+Reservoir Sampling - Selection Stream Algorithm
+
 CountMin Sketch
 
 Bloom Filter - Participation Algorithm
