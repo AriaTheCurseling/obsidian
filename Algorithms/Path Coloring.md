@@ -15,7 +15,11 @@ all non-stopped nodes pick a color
 share colors
 if new color is different than neighbors, stop
 
-we want 
+we want probability that all nodes have stopped = 1 - 1/n^C
+this means probability that a node has not stopped must be 1/n^(C+1)
+(2/3)^k = 1/n^(C+1)
+k log(2/3) = -(C+1) log n
+
 
 k = (C + 1)log3/2 n
 1 - 1/n^C chance of finished
