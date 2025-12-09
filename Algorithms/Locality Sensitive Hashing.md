@@ -1,9 +1,10 @@
 !!! Learn
 
 Hamming distance
+b is byte count
 
-p1 = 1 - r/d
-p2 = 1 - cr/d
+p1 = 1 - r/b
+p2 = 1 - cr/b
 
 k is number of bits hashed
 L is number of hash functions (independently selecting bits)
@@ -16,4 +17,7 @@ insertion time kL
 query time L(k+d)
 
 probability that x and z collides given d(x,z) <= r
-P\[h(x) = h(y)] = (1-d(x, y)/b)^k
+probability that 1 hash collides
+P\[h(x) = h(y)] = (1-d(x, z)/b)^k 
+probability that all hashes collide
+1 - (1 - (1-d(x, z)/b)^k)^L 
