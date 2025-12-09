@@ -16,3 +16,4 @@ share colors
 if new color is different than neighbors, stop
 k = (C + 1)log3/2 n
 1 - 1/n^C chance of finished
+!! read up on math
