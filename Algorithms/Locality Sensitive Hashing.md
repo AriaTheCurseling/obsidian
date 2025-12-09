@@ -19,5 +19,7 @@ query time L(k+d)
 probability that x and z collides given d(x,z) <= r
 probability that 1 hash collides
 P\[h(x) = h(y)] = (1-d(x, z)/b)^k 
-probability that all hashes collide
+probability that atleast one hash collide
 1 - (1 - (1-d(x, z)/b)^k)^L 
+1 - (1 - (1-p^k)^L 
+1 - e^(Lp^k) 
