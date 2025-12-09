@@ -9,9 +9,10 @@ Tidemark Problem
 Morris Counter
 CountMin Sketch
 
-P3C - Path 3 Color
-faster deterministic path coloring
-Randomized Path Coloring
+P3C | Path 3 Color - Path Algorithm
+faster deterministic path coloring - Path Algorithm
+Randomized Path Coloring - Path Algorithm
 
-Single-Source Shortest 
+Single-Source Shortest Path - Graph Algorithm
 
+Electing a leader - Graph Algorithm
