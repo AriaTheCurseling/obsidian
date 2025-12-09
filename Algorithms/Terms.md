@@ -9,6 +9,10 @@ Tidemark Problem
 Morris Counter
 CountMin Sketch
 
+Bloom Filter - Algorithm
+
+Thorup-Zwick approximate distance oracle - Graph Algorithm
+
 P3C | Path 3 Color - Path Algorithm
 faster deterministic path coloring - Path Algorithm
 Randomized Path Coloring - Path Algorithm
