@@ -29,3 +29,7 @@ All Pairs Shortest Path - Graph Introspection Distance Algorithm
 Euler Tour - Tree Walking Algorithm
 
 Randomized graph coloring - Graph Color Algorithm
+
+!! Graph Connectivity Streaming - 
+!! Graph Bipartiteness Streaming -  
+!! t-Spanner Edge Streaming       - 
