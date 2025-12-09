@@ -32,3 +32,9 @@ if no, split the cluster
 
 Data structure
 log n lvls, each storing 
+
+
+
+update time log^2 n
+Query time log n
+space m + n log n
