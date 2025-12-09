@@ -1,6 +1,8 @@
 2-universal hash function - independent and uniform
 delta δ
 epsilon ε
+rho ρ
+
 tree of dyadic intervals - intervals doubling in size
 
 t-spanner = subbgraph that satisfies d_t(x, y) <= t * d(x, y)
