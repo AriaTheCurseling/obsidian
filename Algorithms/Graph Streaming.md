@@ -29,3 +29,5 @@ subgraph = {}
 
 for each edge:
 if d(x, y) >= t + 1 append edge to subgraph
+
+space n^(1+2/t) log n bits
