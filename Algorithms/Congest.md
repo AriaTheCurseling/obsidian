@@ -1,4 +1,4 @@
-A computer network given bby a graph computes properties about itself.
+A computer network given by a graph computes properties about itself.
 node id's in 0 .. n^d messages in 0 .. n^c where d is node count
 
 Single-Source Shortest Path Distances
@@ -9,8 +9,11 @@ send message
 set distance to round nun
 stop
 
+time diam(G)
+
 Breadth-First Search
-reply accept to random wave source
+wave with addition:
+reply accept to 1 wave source
 if all accepted children have acknowledged send acknowledge to parent
 
 Electing a leader

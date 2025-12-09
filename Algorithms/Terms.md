@@ -13,6 +13,7 @@ P3C | Path 3 Color - Path Algorithm
 faster deterministic path coloring - Path Algorithm
 Randomized Path Coloring - Path Algorithm
 
+Breadth-First Search - Graph Algorithm
 Single-Source Shortest Path - Graph Algorithm
 
 Electing a leader - Graph Algorithm
