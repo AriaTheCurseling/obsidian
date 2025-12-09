@@ -12,8 +12,14 @@ broadcast sorted list over 1/epsilon rounds using a broadcast tree
 
 convergecast intervals
 
+central decides which machines are responsible for each interval (broadcast intervals)
+
+randomly distribute to correct computers
+
+recurse on each subproblem
 
 
+with probability 1-n^-10 it is solved in 1/epsilon^2 
 
 
 Sorting problem
