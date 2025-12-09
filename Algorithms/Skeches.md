@@ -22,6 +22,8 @@ Use log n countMin sketches, each hashing in bigger groups (ie, ignoring 1 extra
 #### Heavy hitters problem in the cash register model
 CountMin Sketch + min-heap + counter m
 
+ε = 1/(2k) <<< important
+
 add each element in stream to sketch
 check if element frequency is above m/k
 if so, add to min-heap
