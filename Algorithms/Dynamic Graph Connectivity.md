@@ -9,3 +9,5 @@ query time log n
 update time log^2 n
 
 0 <= l(e) <= log n
+
+let G_i be the subgraph containing edges level >= i
