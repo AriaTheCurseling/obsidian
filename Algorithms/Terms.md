@@ -40,3 +40,5 @@ Broadcast Tree
 Converge-Cast Tree
 ! MPC Sort
 ! MPC Minimum Spanning Forest
+
+!!! Dynamic Graph Connectivity
