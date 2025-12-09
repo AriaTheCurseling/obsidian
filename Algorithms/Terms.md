@@ -10,13 +10,13 @@ t-spanner = subbgraph that satisfies d_t(x, y) <= t * d(x, y)
 Locality Sensitive Hashing
 
 Misra-Gries - Frequent Stream Algorithm
-!! Tidemark Problem - Unique Count Stream Algorithm
+! Tidemark Problem - Unique Count Stream Algorithm
 Morris Counter - Count Stream Algorithm
 Reservoir Sampling - Selection Stream Algorithm
 
-!! CountMin Sketch - Occurrence Count Stream Algorithm
-!! Cash Register Model - Frequent Stream Algorithm
-!! Turnstile Model - Frequent Stream Algorithm
+! CountMin Sketch - Occurrence Count Stream Algorithm
+! Cash Register Model - Frequent Stream Algorithm
+! Turnstile Model - Frequent Stream Algorithm
 
 Bloom Filter - Participation Algorithm
 
