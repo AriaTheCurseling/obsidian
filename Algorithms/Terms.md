@@ -17,3 +17,4 @@ Breadth-First Search - Graph Algorithm
 Single-Source Shortest Path - Graph Algorithm
 
 Electing a leader - Graph Algorithm
+All
