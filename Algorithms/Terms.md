@@ -36,13 +36,13 @@ Euler Tour - Tree Walking Algorithm
 
 Randomized graph coloring - Graph Color Algorithm
 
-! Graph Connectivity Streaming - 
-! Graph Bipartiteness Streaming -  
-!! t-Spanner Edge Streaming       - 
+Graph Connectivity Streaming - 
+Graph Bipartiteness Streaming -  
+! t-Spanner Edge Streaming       - 
 
 Broadcast Tree
 Converge-Cast Tree
 ! MPC Sort
 ! MPC Minimum Spanning Forest
 
-!!! Dynamic Graph Connectivity
+!! Dynamic Graph Connectivity
