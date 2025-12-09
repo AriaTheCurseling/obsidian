@@ -17,4 +17,5 @@ Breadth-First Search - Graph Algorithm
 Single-Source Shortest Path - Graph Algorithm
 
 Electing a leader - Graph Algorithm
-All
+All Pairs Shortest Path - Graph Algorithm
+Euler Tour - Tree Walking Algorithm
