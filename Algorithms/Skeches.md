@@ -36,6 +36,8 @@ time 1/δ + log k
 #### Heavy hitters problem in the turnstile model
 Use log n countMin sketches with intervals
 
+ε = 1/(2k) <<< important
+
 Space: k · lg 1/δ · lg n
 Process Time: log n · lg 1/δ
-Query time: k · log n · lg 1 δ
+Query time: k · log n · lg 1/δ
