@@ -28,4 +28,4 @@ t-Spanner Edge Property
 subgraph = {}
 
 for each edge:
-if d(x, y) > t
+if d(x, y) >= t + 1 append edge to subgraph
