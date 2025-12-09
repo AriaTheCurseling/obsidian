@@ -17,11 +17,10 @@ if new color is different than neighbors, stop
 
 we want probability that all nodes have stopped = 1 - 1/n^C
 this means probability that a node has not stopped must be 1/n^(C+1)
-(2/3)^k = 1/n^(C+1)
+(2/3)^k = n^-(C+1)
 k log(2/3) = -(C+1) log n
+k = -(C+1) log n / log(2/3)
+k = (C+1) log n / log(3/2)
 
-
-k = (C + 1)log3/2 n
-1 - 1/n^C chance of finished
 !! read up on math
 
