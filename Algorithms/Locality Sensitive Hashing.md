@@ -14,3 +14,6 @@ L = ceil(2n^ρ)
 
 insertion time kL
 query time L(k+d)
+
+probability that x and z collides given d(x,z) <= r
+P\[h(x) = h(y)] = (1-d(x, y)/b)^k
