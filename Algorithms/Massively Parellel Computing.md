@@ -18,7 +18,6 @@ randomly distribute to correct computers
 
 recurse on each subproblem
 
-
 with probability 1-n^-10 it is solved in 1/epsilon^2 
 
 

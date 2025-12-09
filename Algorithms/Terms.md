@@ -36,5 +36,5 @@ Randomized graph coloring - Graph Color Algorithm
 
 Broadcast Tree
 Converge-Cast Tree
-!! MPC Sort
-!! MPC Minimum Spanning Forest
+! MPC Sort
+! MPC Minimum Spanning Forest
