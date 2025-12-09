@@ -3,23 +3,24 @@ delta δ
 epsilon ε
 tree of dyadic intervals - intervals doubling in size
 
-
-
 Tidemark Problem
 Morris Counter
 CountMin Sketch
 
-Bloom Filter - Algorithm
+Bloom Filter - Participation Algorithm
 
-Thorup-Zwick approximate distance oracle - Graph Algorithm
+approximate distance oracle - Graph Distance Algorithm
+Thorup-Zwick approximate distance oracle - Graph Distance Algorithm
 
-P3C | Path 3 Color - Path Algorithm
-faster deterministic path coloring - Path Algorithm
-Randomized Path Coloring - Path Algorithm
+P3C | Path 3 Color - Path Color Algorithm
+faster deterministic path coloring - Path Color Algorithm
+Randomized Path Coloring - Path Color Algorithm
 
-Breadth-First Search - Graph Algorithm
-Single-Source Shortest Path - Graph Algorithm
+Breadth-First Search - Graph Introspection Distance  Algorithm
+Single-Source Shortest Path - Graph Introspection Distance Algorithm
 
-Electing a leader - Graph Algorithm
-All Pairs Shortest Path - Graph Algorithm
+Electing a leader - Graph Introspection Algorithm
+All Pairs Shortest Path - Graph Introspection Distance Algorithm
 Euler Tour - Tree Walking Algorithm
+
+Randomized graph coloring - Graph Color Algorithm
