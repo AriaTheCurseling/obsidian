@@ -3,6 +3,8 @@ delta δ
 epsilon ε
 tree of dyadic intervals - intervals doubling in size
 
+t-spanner = subbgraph that satisfies d_t(x, y) <= t * d(x, y)
+
 Misra-Gries - Frequent Stream Algorithm
 !! Tidemark Problem - Unique Count Stream Algorithm
 Morris Counter - Count Stream Algorithm
@@ -30,8 +32,8 @@ Euler Tour - Tree Walking Algorithm
 
 Randomized graph coloring - Graph Color Algorithm
 
-!! Graph Connectivity Streaming - 
-!! Graph Bipartiteness Streaming -  
+! Graph Connectivity Streaming - 
+! Graph Bipartiteness Streaming -  
 !! t-Spanner Edge Streaming       - 
 
 Broadcast Tree

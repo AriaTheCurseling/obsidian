@@ -23,4 +23,9 @@ For each edge:
 Size n,  or n log n bits
 
 Distance Problem
-!! t-Spanner Edge Property
+t-Spanner Edge Property
+
+subgraph = {}
+
+for each edge:
+if d(x, y) > t
