@@ -12,6 +12,10 @@ for each element either
 - create counter at 1
 - decrement all counters and remove 0 values
 
+Decrements at most occur every k elements
+at most m/k decrements can occur
+if m/k + 1 elements exist then counter will end at >1
+
 Distinct elements problem
 
 Tidemark algorithm
