@@ -27,6 +27,7 @@ last layer size expected np^k-1
 each layer closest vertex
 
 total size nk/p + nnp^k-1
-using p=n^-1/k
+! where do we get p?
+using p=n^-1/k <<< important
 we get kn^(1+1/k)
 
