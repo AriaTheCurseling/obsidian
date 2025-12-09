@@ -1,3 +1,11 @@
+Input is n elements stored arbitratily in M = Cn/S machines.
+Each machine has S = n^epsilon memory
+C >= 2, epsilon > 0
+
+
+Quicksort algorithm
+select pivots with probability p = (n^epsilon/2)/2n
+
 Sorting problem
 variant of quicksort
 probibalistic
