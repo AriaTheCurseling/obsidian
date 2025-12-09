@@ -23,3 +23,8 @@ M is the graph with (i+1)-clusters as vertices and level i edges as edges ie M_i
 check if u and v are connected in M
 if no, split the cluster
 if i > 0, recurse on i-1
+
+
+
+Data structure
+log n lvls, each storing 
