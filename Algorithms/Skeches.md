@@ -13,7 +13,7 @@ upper bound on estimate is true value + εm with probability δ
 
 space O(lg(1/δ)/ε)
 time  O(lg(1/δ))
-!! read up on calculations
+!! read up on calculations HARD
 
 ##### Range Upgrade
 Use log n countMin sketches, each hashing in bigger groups (ie, ignoring 1 extra significant bit)
