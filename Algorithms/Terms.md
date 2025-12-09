@@ -34,7 +34,7 @@ Randomized graph coloring - Graph Color Algorithm
 !! Graph Bipartiteness Streaming -  
 !! t-Spanner Edge Streaming       - 
 
-!! Broadcast Tree
-!! Converge-Cast Tree
+Broadcast Tree
+Converge-Cast Tree
 !! MPC Sort
 !! MPC Minimum Spanning Forest

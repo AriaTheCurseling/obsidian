@@ -4,7 +4,17 @@ C >= 2, epsilon > 0
 
 
 Quicksort algorithm
-select pivots with probability p = (n^epsilon/2)/2n
+select pivots with probability p = (n^epsilon/2)/2n, with high probability less than n^epsilon/2 elements
+
+gather all elements in 1 machine and sort
+
+broadcast sorted list over 1/epsilon rounds using a broadcast tree
+
+convergecast intervals
+
+
+
+
 
 Sorting problem
 variant of quicksort
