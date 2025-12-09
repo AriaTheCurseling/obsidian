@@ -2,7 +2,7 @@ Input is n elements stored arbitratily in M = Cn/S machines.
 Each machine has S = n^epsilon memory
 C >= 2, epsilon > 0
 
-
+Sorting problem
 Quicksort algorithm
 select pivots with probability p = (n^epsilon/2)/2n, with high probability less than n^epsilon/2 elements
 
@@ -22,18 +22,8 @@ recurse on each subproblem
 with probability 1-n^-10 it is solved in 1/epsilon^2 
 
 
-Sorting problem
-variant of quicksort
-probibalistic
 
-send random elements to 1 computer
-it sorts those and returns their order 
-count how many elements in between each sorted element
-sum counts
-??? 
-profit
-
-Minimal Spanning Forest
+Minimal Spanning Forest Problem
 E' = E
 recursively
 - fit E' into as few nodes as possible
