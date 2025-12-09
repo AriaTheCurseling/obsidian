@@ -7,6 +7,8 @@ tree of dyadic intervals - intervals doubling in size
 
 t-spanner = subbgraph that satisfies d_t(x, y) <= t * d(x, y)
 
+Locality Sensitive Hashing
+
 Misra-Gries - Frequent Stream Algorithm
 !! Tidemark Problem - Unique Count Stream Algorithm
 Morris Counter - Count Stream Algorithm

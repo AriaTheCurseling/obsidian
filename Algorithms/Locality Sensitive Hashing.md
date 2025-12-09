@@ -25,5 +25,7 @@ probability that atleast one hash collide
 1 - e^(Lp^k)
 
 Jaccard Similarity
+choose random elements to hash (so no different from hamming)
 
-
+Angular Distance
+Sim hash, choose random vectors, compare and use sign as bit value
