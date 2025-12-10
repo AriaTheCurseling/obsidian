@@ -22,5 +22,5 @@ k log(2/3) = -(C+1) log n
 k = -(C+1) log n / log(2/3)
 k = (C+1) log n / log(3/2)
 
-!! read up on math
+! read up on math
 
