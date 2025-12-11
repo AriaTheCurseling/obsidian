@@ -1,5 +1,6 @@
 !!! Learn
 
+delta-Probabilistic c-Approximate r-Near Neighbor
 Hamming distance
 b is byte count
 
