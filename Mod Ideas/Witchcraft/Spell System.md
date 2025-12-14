@@ -28,7 +28,8 @@ Expertise
 Buff mob (breeding)
 - increase a stat
 - give them enchantments
-
+Wind Burst
+- Wind charge effect
 
 
 
