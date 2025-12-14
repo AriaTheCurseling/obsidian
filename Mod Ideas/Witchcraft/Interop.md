@@ -7,10 +7,10 @@ Dripstone - potion brewing
 Crystals - 
 Trim Materials -
 Allays -
-
-
+Enchantments -
 
 #### Feels magical
 Allays
 Crystals
 Potions
+Enchantments
