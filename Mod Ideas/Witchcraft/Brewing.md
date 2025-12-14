@@ -17,11 +17,11 @@ Quick notes
 - Purification
   - evaporations seems doable
   - Crystalization would be cool
-  - filtration hard but doable
+  - filtration hard but doable - meh
   - liquid-liquid extraction works with cauldron levels
-  - Adsorption *liquid charcoal*
-  - Electrolysis *listen, lighning bolt alchemy*
-  - Bioleaching *honerable mention, basicly loot bugs*
+  - Adsorption *liquid charcoal* - charcoal catalyst
+  - Electrolysis *listen, lightning bolt alchemy*
+  - Bioleaching *honerable mention, basicly loot bugs* - silverfish?
   - Sublimation not that applicable, but cool *solid to gas skipping liquid*
 - Titration *dripstones are perfect!!!*
 - Stirring
@@ -40,3 +40,7 @@ Curent cauldron interactions:
 
 Cool mod things
 - alchemia (cool cauldron)
+
+Items
+- Lava bottles - material?
+- Powdered snow bottles - material?
