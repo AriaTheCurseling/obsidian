@@ -2,12 +2,18 @@
 
 
 
+XP information
+source  - what created
+position - where created
+? bounds
+? type - player interaction, broken
+
 ### Manipulation
 Absorb xp
 Filter xp
 
 ### Effects
-Revive mob
+Revive mob - Spawn
 - cost 1 xp per health
 Control mob
 
