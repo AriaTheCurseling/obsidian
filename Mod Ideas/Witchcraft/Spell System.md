@@ -5,7 +5,7 @@
 ### XP information
 source  - what created
 position - where created
-? Direction
+? direction
 ? bounds
 ? type - player interaction, broken
 
@@ -28,3 +28,10 @@ Expertise
 Buff mob (breeding)
 - increase a stat
 - give them enchantments
+
+
+
+
+### Block Placing
+shift position
+extend area
