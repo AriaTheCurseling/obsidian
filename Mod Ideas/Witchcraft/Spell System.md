@@ -2,9 +2,10 @@
 
 
 
-XP information
+### XP information
 source  - what created
 position - where created
+? Direction
 ? bounds
 ? type - player interaction, broken
 
