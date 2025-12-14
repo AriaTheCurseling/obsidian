@@ -8,3 +8,9 @@ Crystals -
 Trim Materials -
 Allays -
 
+
+
+#### Feels magical
+Allays
+Crystals
+Potions
