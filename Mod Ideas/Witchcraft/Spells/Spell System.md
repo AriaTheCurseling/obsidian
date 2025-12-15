@@ -4,13 +4,16 @@
 
 ### XP information
 source  - what created
+- Specific entity
+- Entity type
+- Block type
 position - where created
 ? direction
 ? bounds
 ? type - player interaction, broken
 
 
-?? 1 piece of information per xp (iota), so each orb randomly holds some information about the thing that dropped it, 
+??Idea:: 1 piece of information per xp (iota), so each orb randomly holds some information about the thing that dropped it, a rank 2 orb can hold 3 xp so 3 pieces of information
 ### Manipulation
 Absorb xp
 Filter xp
