@@ -9,10 +9,13 @@ position - where created
 ? bounds
 ? type - player interaction, broken
 
+
+?? 1 piece of information per xp (iota), so each orb randomly holds some information about the thing that dropped it, 
 ### Manipulation
 Absorb xp
 Filter xp
 
+merge xp
 ### Effects
 Revive mob - Spawn
 - cost 1 xp per health
