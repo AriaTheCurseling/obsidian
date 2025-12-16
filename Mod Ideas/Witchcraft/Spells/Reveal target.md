@@ -1,0 +1,2 @@
+get target
+reveal
