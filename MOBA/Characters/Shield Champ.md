@@ -1,0 +1,2 @@
+Directional shielding
+Reduce everyt

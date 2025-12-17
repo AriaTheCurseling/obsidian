@@ -8,3 +8,5 @@ ways to soften CC
 - reducing severity - reduce a stun to a root
 - breakfree abilities - allow some abilities to be activated at reduced effectiveness to remove the effect
 - passthrough abilities - allow limited action that doesn't break the CC
+
+Tanking through abilities
