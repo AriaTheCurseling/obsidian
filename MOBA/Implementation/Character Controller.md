@@ -12,3 +12,4 @@ The different interactions:
 - concurrent - they do not care about each other
 
 if a suspends b then a blocks b
+
