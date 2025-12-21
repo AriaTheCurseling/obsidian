@@ -13,3 +13,11 @@ The different interactions:
 
 if a suspends b then a blocks b
 
+
+Minimal version
+queue is 1 element
+current is 1 element
+suspended is 1 element
+
+
+
