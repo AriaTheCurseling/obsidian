@@ -10,4 +10,5 @@ That leaves the question, can a stat system be constructed that breaks the maxim
 
 milestones - unlock abilities as stats increase
 opposition - opposing stats decrease each other
-drawbacks - add detrimental effects to stats 
+drawbacks - add detrimental effects to stats
+nonlinearity - 
