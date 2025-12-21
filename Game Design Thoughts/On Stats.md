@@ -13,6 +13,10 @@ drawbacks - add detrimental effects to stats
 opposition - opposing stats decrease each other
 diminishing - each increase in stat does less
 
+#### Drawback Stats
+Impact
+- Increases effect
+- Increase windup
 
 
 
