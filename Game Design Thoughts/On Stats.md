@@ -6,3 +6,5 @@ However, this simplicity also tends to resolve to a distinct lack of depth. whic
 
 Often, this problem is solved by tying stats together with abilities. you still have an optimal stat to maximize, but now you have a qualitative component to complicate your choice, you need to weight the ability against the stats and think of which is worth more.
 
+That leaves the question, can a stat system be constructed that breaks the maximizer mindset on its own?
+
