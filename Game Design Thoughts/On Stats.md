@@ -9,3 +9,5 @@ Often, this problem is solved by tying stats together with abilities. you still 
 That leaves the question, can a stat system be constructed that breaks the maximizer mindset on its own?
 
 milestones - unlock abilities as stats increase
+opposition - opposing stats decrease each other
+drawbacks - add detrimental effects to stats 
