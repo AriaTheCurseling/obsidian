@@ -18,5 +18,7 @@ Impact
 - Increases effect
 - Increase windup
 
-
+nimble
+- increase movespeed
+- 
 
