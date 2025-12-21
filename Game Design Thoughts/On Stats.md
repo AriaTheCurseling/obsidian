@@ -12,3 +12,7 @@ milestones - unlock abilities as stats increase
 drawbacks - add detrimental effects to stats
 opposition - opposing stats decrease each other
 diminishing - each increase in stat does less
+
+
+
+
