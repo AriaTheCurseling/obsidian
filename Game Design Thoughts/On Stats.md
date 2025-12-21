@@ -14,11 +14,11 @@ opposition - opposing stats decrease each other
 diminishing - each increase in stat does less
 
 #### Drawback Stats
-Impact
-- Increases effect
-- Increase windup
+Impact/might
+- moderately improves effect
+- slightly worsens windup
 
 nimble
-- increase movespeed
-- 
+- moderately improves speed
+- slightly worsens self cc
 
