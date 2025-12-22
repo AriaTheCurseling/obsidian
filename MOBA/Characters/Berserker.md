@@ -12,16 +12,13 @@ exhilerated = bruiser
 
 Serene:
 Q: Qi blast - Range
-W:
+W: Take
 E: 
 
 
 Wrath
-deal damage
-reduce dmg taken
-heal
 Q: Ubercut - CC
-W: 
+W: Steadfast - Brief dmg reduction and CC resist
 E: Kick - Knockback
 
 Joy
@@ -36,3 +33,11 @@ Q: Stranglehold - cc using enemy as shield
 W:
 E:
 
+
+
+W - Take the hit
+Briefly gain CC resist.
+
+
+serene: target projectile or spell target enemy is chaneling hits you instead. 
+wrath:
