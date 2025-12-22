@@ -21,7 +21,6 @@
 >>\[**Enraged**] knocks the opponent back
 >>\[**Overjoyed**] dashes through the punch
 >>\[**Exhilarated**] knocks back and dashes
-
 ##### W - Take the hit / Hardened Body
 >Briefly gain CC resist.
 > 
