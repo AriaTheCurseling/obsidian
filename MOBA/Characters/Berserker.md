@@ -25,24 +25,19 @@
 ##### W - Take the hit / Hardened Body
 >Briefly gain CC resist.
 > 
->Depending on her mood she:
+>Depending on her mood she also:
 >>\[**Serene**] forces target ability to hit her
 >>\[**Enraged**] reduces incoming damage
 >>\[**Overjoyed**] dashes and intercepts projectiles
->>\[**Exhilarated**] both joy and wrath effects
+>>\[**Exhilarated**] dashes and intercepts projectiles, reducing their damage
 ##### E - Fancy Footwork 
 >Dash a tiny distance 
 > 
 >Depending on her mood she:
 >>\[**Serene**] suspends other abilities
 >>\[**Enraged**] 3 small zigzag dashes
->>\[**Overjoyed**] swaps position with enemy
->>\[**Exhilarated**] both joy and wrath effects
-
-serene 
-wrath 
-joy swap position with target (rotating both champs 180 degrees)
-exhilarated is jagged and swaps 3 times
+>>\[**Overjoyed**] swaps position with enemy and turns them around
+>>\[**Exhilarated**] 3 small zigzag swaps turning them each time
 
 
 
