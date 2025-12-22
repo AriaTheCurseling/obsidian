@@ -15,13 +15,13 @@ If she is neither she is **Serene**
 Using an ability when **Enraged**, **Overjoyed** or **Exhilarated** consumes 50 of the relevant emotion.
 
 ##### Q - One Inch Punch
-Deals dmg and applies onhit
-
-Mood Effects
-> serene launches the punch at range
-wrath knocks the opponent back
-joy follows through with a dash
-exhilaration knocks back and dashes
+> Deals dmg and applies onhit
+> 
+> When she is
+ - **Serene** she launches the punch at range
+ - wrath knocks the opponent back
+>> when **Overjoyed** follows through with a dash
+>> when **Exhilarated** she knocks back and dashes
 
 ##### W - Take the hit / Hardened Body
 Briefly gain CC resist.
