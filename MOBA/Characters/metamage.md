@@ -2,7 +2,8 @@
 Cycle through metamagic enhancements on each ability cast.
 
 Hastened - reduces cast time
-Precise
+Precise - smaller hitbox, extra range
+
 
 
 [Q] Metabolt:
