@@ -1,8 +1,10 @@
 Passive - Fuelled by Emotion
 
-The berserker builds 
+The berserker's motions fuels her abilities, granting them special effects. 
 
-berserker gains joy when hitting enemies and being buffed, gains wrath when getting hit by enemies
+She gains wrath when she is damaged, debuffed or stuns, stack
+
+, and gains joy when she deals damage, or is healed or buffed. Each resource stack separately up to 100, and she is **Enraged** when her
 
 
 She is **Serene** when low on emotion, **Wrathfull** when wrath is high, **Joyfull** when joy is high and **Exhilarated**
