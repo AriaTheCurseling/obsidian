@@ -8,7 +8,12 @@ serene = mage
 exhilerated = bruiser
 
 Serene:
-Q: qi blast
+Q: qi blast - Range
+
+
+
+Wrath
+Q: Ubbercut - CC
 
 
 
