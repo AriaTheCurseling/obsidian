@@ -16,6 +16,7 @@ E:
 Wrath
 deal damage
 reduce dmg taken
+heal
 Q: Ubercut - CC
 W:
 E:
