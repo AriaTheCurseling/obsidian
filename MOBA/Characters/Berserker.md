@@ -14,15 +14,20 @@ E:
 
 
 Wrath
+deal damage
+reduce dmg taken
 Q: Ubercut - CC
 W:
 E:
 
 Joy
+increase dmg taken
 Q: Palm strike - 
 W:
-E
+E:
 
-
-
+Exhileration
+Q:
+W:
+E:
 
