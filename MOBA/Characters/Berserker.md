@@ -22,7 +22,7 @@ reduce dmg taken
 heal
 Q: Ubercut - CC
 W: 
-E:
+E: Kick - Knockback
 
 Joy
 increase dmg taken
