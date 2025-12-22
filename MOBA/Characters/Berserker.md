@@ -7,17 +7,14 @@ Wrath gives attackspeed and armor
 
 She is **Serene** when low on emotion, **Wrathfull** when wrath is high, **Joyfull** when joy is high and **Exhilarated**
 
-serene = mage
-exhilerated = bruiser
-
 
 Q - One Inch Punch
 Deals dmg and applies onhit
 
 serene launches the punch at range
 wrath knocks the opponent back
-joy
-exhileration
+joy follows through with a dash
+exhileration knocks back and dashes
 
 W - Take the hit / Hardened Body
 Briefly gain CC resist.
