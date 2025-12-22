@@ -1,4 +1,4 @@
-[Passive] Metamagic:
+\[Passive] Metamagic:
 Cycle through metamagic enhancements on each ability cast.
 
 Hastened - reduces cast time
@@ -6,15 +6,15 @@ Precise - smaller hitbox, extra range
 
 
 
-[Q] Metabolt:
+\[Q] Metabolt:
 Shoots a magical bolt that inflicts a debuff on the enemy equivalent to the metamagic used to cast it. 
 
-[W] Diserning gaze:
+\[W] Diserning gaze:
 Look at an enemy studying their every move. If they use an ability while being watched then this ability can be reactivated to replicate the ability cast.
 
-[E] 
+\[E] 
 
-[R] Grand Spell:
+\[R] Grand Spell:
 You next spell is cast as a grand spell. 
 
 
