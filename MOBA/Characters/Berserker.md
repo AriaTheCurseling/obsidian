@@ -13,7 +13,7 @@ exhilerated = bruiser
 Serene:
 Q: Qi blast - Range
 W:
-E:
+E: 
 
 
 Wrath
@@ -28,7 +28,7 @@ Joy
 increase dmg taken
 cc reduction
 Q: Palm strike - 
-W:
+W: Dash
 E:
 
 Exhileration
