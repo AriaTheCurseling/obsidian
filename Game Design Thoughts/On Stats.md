@@ -22,3 +22,6 @@ nimble
 - moderately improves speed
 - slightly worsens self cc
 
+precision
+- smaller hitbox
+- longer range
