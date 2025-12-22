@@ -17,19 +17,25 @@ Using an ability when **Enraged**, **Overjoyed** or **Exhilarated** consumes 50 
 ##### Q - One Inch Punch
 > Deals dmg and applies onhit
 > 
-> When she is
- - **Serene** she launches the punch at range
- - wrath knocks the opponent back
->> when **Overjoyed** follows through with a dash
->> when **Exhilarated** she knocks back and dashes
+> Depending on her mood she:
+>>\[**Serene**] launches the punch at range
+>>\[**Enraged**] knocks the opponent back
+>>\[**Overjoyed**] dashes through the punch
+>>\[**Exhilarated**] knocks back and dashes
 
 ##### W - Take the hit / Hardened Body
-Briefly gain CC resist.
+> Briefly gain CC resist.
+> 
+> Depending on her mood she:
+>>\[**Serene**] forces target ability to hit her
+>>\[**Enraged**] reduces inc damage
+>>\[**Overjoyed**] dashes and intercepts projectiles
+>>\[**Exhilarated**] knocks back and dashes
 
-serene forces target ability to hit you
-wrath additionally grants dmg resist
-joy dashes and intercepts projectiles
-exhilarated is both joy and wrath effects
+serene 
+wrath
+joy 
+exhilarated is 
 
 ##### E - Fancy Footwork 
 Dash a tiny distance 
