@@ -10,29 +10,6 @@ She is **Serene** when low on emotion, **Wrathfull** when wrath is high, **Joyfu
 serene = mage
 exhilerated = bruiser
 
-Serene:
-Q: Qi blast - Range
-W: Take
-E: 
-
-
-Wrath
-Q: Ubercut - CC
-W: Steadfast - Brief dmg reduction and CC resist
-E: Kick - Knockback
-
-Joy
-increase dmg taken
-cc reduction
-Q: Blocking Palm - projectile blocking dash
-W:  - dash swapping position
-E: 
-
-Exhileration
-Q: Stranglehold - cc using enemy as shield
-W:
-E:
-
 
 Q - One Inch Punch
 Deals dmg and applies onhit
@@ -51,7 +28,9 @@ joy dashes and intercepts projectiles
 exhilerated is both joy and wrath effects
 
 E - Fancy Footwork 
+Dash a tiny distance 
 
-
-
+serene suspends other abilities
+wrath dash is jagged, kicking 3 times
 joy swap position with target (rotating both champs 180 degrees)
+exhilerated is jagged and swaps 3 times
