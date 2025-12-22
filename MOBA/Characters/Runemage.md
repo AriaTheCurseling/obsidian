@@ -3,4 +3,4 @@
 
 
 \[W] Rune Trap
-Place down a rune
+Place down a rune trap
