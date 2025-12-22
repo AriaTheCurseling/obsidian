@@ -16,6 +16,10 @@ Wrath
 Q: Ubbercut - CC
 
 
+Joy
+Q: 
+
+
 
 
 
