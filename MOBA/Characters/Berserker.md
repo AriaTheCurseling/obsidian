@@ -1,13 +1,17 @@
 Passive - Fuelled by Emotion
 
-The berserker's motions fuels her abilities, granting them special effects. 
+The berserker's motions fuels her abilities, granting them special effects according to her mood. 
 
-She gains wrath when she is damaged, debuffed or stuns, stack
+She gains wrath when she is damaged, debuffed or stuns, and gains joy when she deals damage, or is healed or buffed. 
 
-, and gains joy when she deals damage, or is healed or buffed. Each resource stack separately up to 100, and she is **Enraged** when her
+Each emotion can build up to 100. 
 
+At half 
 
-She is **Serene** when low on emotion, **Wrathfull** when wrath is high, **Joyfull** when joy is high and **Exhilarated**
+She is **Enraged** when her **Wrath** is half full, **Overjoyed** when her **Joy** is atleast 50, **Exhilarated** when both are are atleast 50. 
+
+Using an ability when **Enraged**, **Overjoyed** or **Exhilarated** consumes 50 of the relevant emotion.
+
 
 
 Q - One Inch Punch
