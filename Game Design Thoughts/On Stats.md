@@ -21,7 +21,11 @@ Impact/might
 nimble
 - moderately improves speed
 - slightly worsens self cc
+- minesculely smaller hitbox
 
 precision
 - smaller hitbox
 - longer range
+
+Mettle
+- slightly reduce cc
