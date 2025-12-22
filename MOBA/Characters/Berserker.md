@@ -27,12 +27,12 @@ E: Kick - Knockback
 Joy
 increase dmg taken
 cc reduction
-Q: Palm strike - 
-W: Dash
-E:
+Q: Catch - projectile blocking dash
+W: Throw - dash swapping position
+E: Chase - movespeed
 
 Exhileration
-Q:
+Q: Stranglehold - cc using enemy as shield
 W:
 E:
 
