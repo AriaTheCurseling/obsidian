@@ -21,14 +21,14 @@
 >>\[**Enraged**] knocks the opponent back
 >>\[**Overjoyed**] dashes through the punch
 >>\[**Exhilarated**] knocks back and dashes
-##### W - Take the hit / Hardened Body
+##### W - Hardened Body / Take the Hit
 >Briefly gain CC resist.
 > 
 >Depending on her mood she also:
 >>\[**Serene**] forces target ability to hit her
 >>\[**Enraged**] reduces incoming damage
->>\[**Overjoyed**] dashes and intercepts projectiles
->>\[**Exhilarated**] dashes and intercepts projectiles, reducing their damage
+>>\[**Overjoyed**] intercepts projectiles around her
+>>\[**Exhilarated**] intercepts projectiles and reduces their damage
 ##### E - Fancy Footwork 
 >Dash a tiny distance 
 > 
