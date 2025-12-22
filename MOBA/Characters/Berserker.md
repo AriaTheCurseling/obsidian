@@ -34,10 +34,24 @@ W:
 E:
 
 
+Q - One Inch Punch
+Deals dmg and applies onhit
 
-W - Take the hit
+serene launches the punch at range
+wrath knocks the opponent back
+joy
+exhileration
+
+W - Take the hit / Hardened Body
 Briefly gain CC resist.
 
+serene forces target ability to hit you
+wrath additionally grants dmg resist
+joy dashes and intercepts projectiles
+exhilerated is both joy and wrath effects
 
-serene: target projectile or spell target enemy is chaneling hits you instead. 
-wrath:
+E - Fancy Footwork 
+
+
+
+joy swap position with target (rotating both champs 180 degrees)
