@@ -1,6 +1,10 @@
 [Passive] Metamagic:
 Cycle through metamagic enhancements on each ability cast.
 
+Hastened - reduces cast time
+Precise
+
+
 [Q] Metabolt:
 Shoots a magical bolt that inflicts a debuff on the enemy equivalent to the metamagic used to cast it. 
 
