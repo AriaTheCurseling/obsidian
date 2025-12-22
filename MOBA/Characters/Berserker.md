@@ -8,7 +8,7 @@ serene = mage
 exhilerated = bruiser
 
 Serene:
-
+Q: qi blast
 
 
 
