@@ -1,9 +1,11 @@
 Each player chooses a city card and an advisor
 Each player has a deck.
 
-You gain influence to win the game
 
-Whenever an edict is used it gains 1 popularity. You may use popularity on edicts you own to pay costs. 
+
+Whenever an edict is used it gains 1 popularity. Edicts may grant influence when above a certain popularity. 
+
+Influence is used to pay for
 
 
 
