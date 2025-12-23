@@ -1,0 +1,1 @@
+Reloads when standing still, but can shoot on the move
