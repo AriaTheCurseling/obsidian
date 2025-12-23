@@ -3,6 +3,9 @@ Each player has a deck.
 
 You gain influence to win the game
 
+Whenever an edict is used it gains 1 popularity. You may use popularity on edicts you own to pay costs. 
+
+
 
 Events - something happened
 Edicts - can oppose each other
