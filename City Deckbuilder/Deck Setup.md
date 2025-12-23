@@ -10,3 +10,21 @@ Edicts - can oppose each other
 
 
 
+
+
+things
+points
+
+
+
+
+
+
+
+
+
+
+
+
+
+
