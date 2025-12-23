@@ -8,7 +8,6 @@ Events - something happened
 Edicts - can oppose each other
 
 
-
 events
 Remove the most popular edict
 Remove the least popular edict
@@ -16,8 +15,10 @@ Swap the popularity of the most popular and least popular edicts
 
 
 Modifiers
-flip word meaning
-adjust meaning by one
+flip targeting
+insert 2nd in targeting
+
+
 
 
 
