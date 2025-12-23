@@ -3,7 +3,12 @@ Items can be dropped into a boiling cauldron to brew potion, some items are abso
 
 
 
-
+example recipe
+> 3 bottles of water
+> heat until boiling
+> 2 pinches of sugar
+> stir until dissolved  - speed 1, 
+> 
 
 
 
