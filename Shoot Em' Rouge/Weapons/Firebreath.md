@@ -1,0 +1,1 @@
+Periodically activates, slowing the character as they breathe in deeply, then releases a stream of fire in the direction they are facing. 
