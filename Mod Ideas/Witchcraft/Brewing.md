@@ -9,8 +9,8 @@ example recipe
 > 2 pinches of sugar
 > stir until dissolved  - hyper potion: short duration speed then slow
 > wait until it cools
-> add coal and wait for x - continuously reduces both speed and slow duration
-> 
+> add coal and wait for x - continuously reduces both speed and slow duration (more coal is faster)
+> fill bottles with potion
 
 
 
