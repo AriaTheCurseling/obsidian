@@ -7,7 +7,9 @@ example recipe
 > 3 bottles of water
 > heat until boiling
 > 2 pinches of sugar
-> stir until dissolved  - speed 1, 
+> stir until dissolved  - hyper potion: short duration speed then slow
+> wait until it cools
+> add coal and wait for x - continuously reduces both speed and slow duration
 > 
 
 
