@@ -1,0 +1,1 @@
+Adds poercing to adjacent items

@@ -1,0 +1,1 @@
+picks stuff up for you, resets traps and stuff
