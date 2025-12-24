@@ -1,1 +1,1 @@
-Spaw
+Spawns stones with swords in them, collect to become a whirlwind of death

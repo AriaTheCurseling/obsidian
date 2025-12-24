@@ -1,1 +1,1 @@
-Adds poercing to adjacent items
+Adds piercing to adjacent items
