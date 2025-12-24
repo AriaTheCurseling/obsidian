@@ -1,0 +1,1 @@
+Spreads its adjecency bonus globally

@@ -1,0 +1,1 @@
+Makes another weapon tackle enemies

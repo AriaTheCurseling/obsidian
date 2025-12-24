@@ -1,0 +1,1 @@
+Multiple of them, slightly seeking, adds "explode on death" effect to enemies hit
