@@ -1,12 +1,9 @@
 
 
-##### Q - Swarm
-Shoot a slow moving swarm in the target direction. Deal damage.
+##### W - Detach
+Detach a part of your body, separating it from your body and removing a capability from yourself. The bodypart retains the capability, and can be commanded using the normal buttons. It is reattached if it gets too far from the main body.
 
-Hitting your turret briefly empowers it, letting you recast to shoot a long range shot from the turret
-Hitting your pylon speeds up and slightly redirects the swarm
-##### W - Construct/Canibalize/Detach
-Detach a part of your body, removing a capability you have to place
+Damage is shared between the main body and the body part, but CC is not.
 
 Weapon - Place down a turret, replacing your auto attack
 Vision - Place down a ward, replacing your vision
