@@ -5,5 +5,5 @@
 ##### W - Construct
 
 turret
-pillar
+pylon
 ?????
