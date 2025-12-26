@@ -1,8 +1,12 @@
 
 
 ##### Q - Swarm
+Shoot a slow moving swarm in the target direction. Deal damage.
 
-Shoot a slow moving swarm in the target direction.
+Hitting your turret briefly empowers it, letting you recast to shoot a long range shot from the turret
+Hitting your pylon speeds up and slightly redirects the swarm
+
+
 ##### W - Construct
 
 turret - it shoots, can be destroyed, takes reduced aoe dmg
