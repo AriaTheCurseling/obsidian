@@ -15,10 +15,12 @@ mine - long range, slow cast, interrupted by walking into zone
 
 
 ---
-Q - Turret
-place down a turret
 
-recast to
+
+W - Turret
+place down a turret replacing your auto attack with the ability to command your turret.
+
+
 
 
 
