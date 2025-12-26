@@ -8,17 +8,10 @@ Hitting your pylon speeds up and slightly redirects the swarm
 ##### W - Construct/Canibalize/Detach
 can build one of each at a time.
 
-Detach Gun
-> Removes your gun, placing it onto the ground as a turret.
-> 
-> While the turret survives, you cannot auto attack. 
-> instead your auto attack commands control the turret.
-> Picks up
+Weapon - Place down a turret, replacing your auto attack
+Vision - Place down a ward, replacing your vision
+Movement - Place down a mine, replacing your movement
 
-turret - removes your auto attack, attacks for you
-?pylon - small hitbox totem that slows projectiles and dashes briefly on hit
-mine - removes your movement, the mine follows movement commands
-##### E - 
 
 
 ---
