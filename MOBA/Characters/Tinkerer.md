@@ -12,3 +12,14 @@ turret - it shoots, can be destroyed, takes reduced aoe dmg
 pylon - small hitbox totem that slows projectiles and dashes briefly on hit
 mine - long range, slow cast, interrupted by walking into zone
 ##### E - 
+
+
+---
+Q - Turret
+place down a turret
+
+recast to
+
+
+
+
