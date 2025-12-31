@@ -1,0 +1,1 @@
+Slowly walks towards the player
