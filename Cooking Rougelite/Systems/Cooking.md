@@ -1,5 +1,5 @@
 
 Food Item
 - name
-- 3d shower
-- 
+- 2d icon
+- 3d
