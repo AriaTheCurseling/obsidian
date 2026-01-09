@@ -1,1 +1,1 @@
-Food doesn't [[Burning|burn]] near you, but [[Cooking|cooks]] slower.
+Food doesn't [[Burning|burn]] near you, but [[Cooking Rougelite/Item Tranformations/Cooking|cooks]] slower.

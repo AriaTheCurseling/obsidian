@@ -1,1 +1,1 @@
-Anything you try to [[cooking|cook]] that cannot be cooked will [[burning|burn]].
+Anything you try to [[Cooking Rougelite/Item Tranformations/Cooking|cook]] that cannot be cooked will [[burning|burn]].
