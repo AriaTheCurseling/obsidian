@@ -1,0 +1,1 @@
+Charges when stationary, grants move speed while charged.

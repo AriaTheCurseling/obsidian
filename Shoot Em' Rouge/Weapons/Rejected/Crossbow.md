@@ -1,4 +1,4 @@
-Reloads when standing still, but can shoot on the move. 
+Reloads when standing still, but can shoot on the move.  < BAD
 
 Comes with piercing.
 
