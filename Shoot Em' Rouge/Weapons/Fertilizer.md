@@ -1,0 +1,1 @@
+Spawns bushes around you.
