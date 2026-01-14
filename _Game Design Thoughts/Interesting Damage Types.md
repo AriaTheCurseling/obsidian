@@ -8,3 +8,10 @@ Poison
 
 Fire
 - Burns away max health in addition to doing damage
+- Excess healing can restore max health at high extra cost
+
+Chip
+- Marks a portion of health as chipped, but requires a heavy hit to actually deal the damage
+
+Heavy
+- 
