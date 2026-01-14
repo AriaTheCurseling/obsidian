@@ -14,4 +14,4 @@ Chip
 - Marks a portion of health as chipped, but requires a heavy hit to actually deal the damage
 
 Heavy
-- 
+- Makes chip damage permanent
