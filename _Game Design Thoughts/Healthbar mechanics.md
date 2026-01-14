@@ -4,10 +4,12 @@ Reduce max hp
 Add barriers to healing
 Damage over time
 Excecute
+Phantom - fake damage
+Hidden - Real damage but no visual
 
 Positive:
 Shield (temporary health)
-Locks ()
+Locks (limit damage taken in 1 hit)
 
 
 Poison - DOT, Removed by healing
