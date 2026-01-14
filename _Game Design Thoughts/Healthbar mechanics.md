@@ -12,6 +12,11 @@ Shield (temporary health)
 Locks (limit damage taken in 1 hit)
 
 
+Rot - Damage Amplification, Spreads
+- Rots part of the healthbar
+- Rotting health is half as effective (takes double damage)
+- 
+
 Poison - DOT, Removed by healing
 - Poisons the top of the health bar
 - Slowly deals damage based on amount of poison
