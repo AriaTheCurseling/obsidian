@@ -1,7 +1,10 @@
 
 Wants
 - Heavy interactivity
-- [[Limited Equipment]]
+- Limited Equipment
+	- 1 primary swappable equipment
+	- 1 secondary utility equipment
+	- 1 tertiary mining equipment
 
 Restrictions
 - Everything underground
