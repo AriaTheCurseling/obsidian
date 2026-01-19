@@ -1,4 +1,4 @@
-1 swappable primary equipment
-1 per level secondary equipment
-1 constant mining tool
+1 primary swappable equipment
+1 secondary utility  equipment
+1 tertiary mining equipment
 
