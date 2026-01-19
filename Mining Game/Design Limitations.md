@@ -1,6 +1,7 @@
 
 Wants
 - Heavy interactivity
+- [[Limited Equipment]]
 
 Restrictions
 - Everything underground
@@ -10,6 +11,10 @@ Restrictions
 
 Future Wants
 - 5 - player
+
+
+
+
 
 
 
