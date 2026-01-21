@@ -12,7 +12,6 @@ Sensors detect things about the world around the mob and store it in Memories
 The AI only cares about memories
 
 
-
 GOAP:
 Defined cost of actions
 Full world knowledge      -> Memories & Senses
@@ -24,6 +23,21 @@ Goal Priority                     -> goal fulfilment
 	Allows for better planning
 	Probably with some secondary priority
 
+
+
+Examples
+
+Goal - **Nourished**
+Action - Eat
+	Condition - Have food
+	Result - Nourished up
+
+Action - Collect
+	Condition - Location matches
+	Result - Collect item
+
+Action - Move
+	Result - Change location
 
 
 
