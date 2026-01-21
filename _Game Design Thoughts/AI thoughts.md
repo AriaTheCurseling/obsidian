@@ -36,7 +36,7 @@ Action - Eat
 Action - Collect
 	Condition - Nearby, Memory of item
 	Result - Gain item
-	Knowledge - Is he
+	Knowledge - Is heavy, Hurts to touch
 
 Action - Move
 	Result - Change location
