@@ -30,11 +30,13 @@ Examples
 Goal - **Nourished**
 Action - Eat
 	Condition - Have food
-	Result - Nourished up
+	Result - Nourished up, have less food
+	Knowledge - Nourishment gained from food item, is poisoned, is edible
 
 Action - Collect
-	Condition - Location matches
-	Result - Collect item
+	Condition - Nearby, Memory of item
+	Result - Gain item
+	Knowledge - Is he
 
 Action - Move
 	Result - Change location
