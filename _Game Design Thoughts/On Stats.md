@@ -45,3 +45,5 @@ at full capacity stability will attempt to stop the entire knockback. as capacit
 
 hitting 0 induces some negative status effect. drasticly reduced efficiency while in air
 
+##### Exhaustion
+
