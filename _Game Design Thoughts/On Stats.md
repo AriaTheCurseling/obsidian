@@ -33,7 +33,9 @@ Mettle
 
 
 
-
+Lithe
+evation and sprint up
+knockback resist down
 
 
 ##### Stability
