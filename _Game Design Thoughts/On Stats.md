@@ -31,3 +31,17 @@ Mettle
 - slightly reduce cc
 - slight cast progress during cc
 
+
+
+
+
+
+##### Stability
+resource with max and regen
+
+stability is consumed to reduce knockback against the entity. Continuous knockback fights against the regen. 
+
+at full capacity stability will attempt to stop the entire knockback. as capacity lowers so does the percentage ofa knockback stability will cancel (down to x% of knockback when 0% stability)
+
+hitting 0 induces some negative status effect. drasticly reduced efficiency while in air
+
