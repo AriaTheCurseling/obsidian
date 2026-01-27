@@ -46,4 +46,8 @@ at full capacity stability will attempt to stop the entire knockback. as capacit
 hitting 0 induces some negative status effect. drasticly reduced efficiency while in air
 
 ##### Exhaustion
+A way to tie all resources together by making regeneration cause exhaustion, the more exhausted a character is the slower their other stats regenerate. 
 
+the faster another bar regenerates the more its effected by exhaustion, health usually regenerates slowly (if it regenerates at all) so exhaustion has little effect, stamina regenerates fast so is highly affected by exhaustion. 
+
+can easily be automaticly calculated by using a time to fully regen metric
