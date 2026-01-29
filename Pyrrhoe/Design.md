@@ -13,4 +13,14 @@ Selling point
 
 
 Environments
-- Lantern (
+- Lantern (+light -ignite)
+- Torch ()
+- Furnace
+- Engine (movement)
+- Small fire (burn)
+- Embers (trap, ignite)
+- Blaze (burn, ignite, harm)
+- Campfire (warmt, safety, cooking)
+- Fireplace (warmth, safety)
+- Grill (cooking)
+
