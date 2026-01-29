@@ -23,4 +23,9 @@ Environments
 - Campfire (warmt, safety, cooking)
 - Fireplace (warmth, safety)
 - Grill (cooking)
+- flamethrower
+- pyre
+
+
+
 
