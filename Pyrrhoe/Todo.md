@@ -1,0 +1,11 @@
+- Swappable Weapon System
+- Spells
+	- Candle Attack
+	- Motor Dash
+- Flammable Object
+- Health System
+- Enemies
+	- Random Guy
+	- Lantern Dude
+	- Fire Breather
+	- Guy With Flammable Cape
