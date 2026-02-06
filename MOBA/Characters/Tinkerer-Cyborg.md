@@ -8,6 +8,11 @@ Detach a module making up your body, loosing its function by placing it in the w
 Weapon - Replace auto attacks with a turret. Attach grants attack speed and damage.
 Vision - Replace vision with a true sight ward. Attach grants true sight and blind and dodge resist.
 Movement - Replace movement with a mine. Attach grants movement speed and slow resist
+
+Disarms - Turret
+Blinds - True Sight
+Roots 
+
 ##### E - Interference Module
 Shoots a projectile capable of interfering with enemy abilities. The projectile moves slower while in contact with enemy abilities, pushing them in the direction of travel.
 
