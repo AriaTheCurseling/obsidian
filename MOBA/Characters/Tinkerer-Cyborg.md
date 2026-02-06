@@ -2,10 +2,14 @@
 Tinkerers abilities can attach to allies and other modules, providing them with a shield and an additional benefit while the shield persists (last module attached is destroyed first).
 ##### Q - 
 s
-##### W - Detach / Reconfigure
-Detach a module, removing a vital function to place it elsewhere. Costs health.
+##### W - Modular Detach
+Detach a module making up your body, displacing its functionality. Each module can be commanded as it  
 
-Weapon - 
+Weapon - Replace your auto attack with a turret. Attach boost ally autos
+Vision - 
+Movement - 
+
+Attaches for movement speed and slow resist
 
 Detach a part of your body, separating it from your body and removing a capability from yourself. The bodypart retains the capability, and can be commanded using the normal buttons. It is reattached if it gets too far from the main body.
 
