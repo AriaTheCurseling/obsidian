@@ -1,7 +1,7 @@
 ##### Passive - Modular Attachments
 Tinkerers abilities can attach to allies and other modules, providing them with a shield and an additional benefit while the shield persists (last module attached is destroyed first).
 ##### Q - Forced Vulnerability
-Shoot a projectile that
+Shoot a projectile that deals damage on hit and then attaches to the enemy, granting them a shield. If the shield is destroyed before the module detaches, the enemy takes massive damage.
 ##### W - Reconfigure
 Detach a module making up your body, loosing its function by placing it in the world. Unless its attached to an ally it can be controlled as normal and reattaches if you get too distant. Modules can be CC'd and cost health to deploy.
 
