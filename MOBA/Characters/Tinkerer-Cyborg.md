@@ -12,7 +12,9 @@ Movement - Place down a mine, replacing your movement
 
 ? - Can attach to ally. Damage is done to part before ally (CC is shared with ally)
 ##### E - Interference Module
-Shoots a projectile capable of interfering with enemy abilities. The projectile moves slower while in contact with enemy abilities, pushing them in the direction of travel-
+Shoots a projectile capable of interfering with enemy abilities. The projectile moves slower while in contact with enemy abilities, pushing them in the direction of travel.
+
+
 
 
 Hitting a projectile pushes it back
