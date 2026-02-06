@@ -1,4 +1,6 @@
-
-- Convert inventory to use interfaces
-- Make IInteractable interface
-- Make item combination database
+- ~~Setup Interfaces~~
+- ~~Convert inventory to use interfaces~~
+- Make place code work
+- ~~Make IInteractable interface~~
+- ~~Make item combination database~~
+- Make item merging work
