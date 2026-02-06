@@ -11,8 +11,9 @@ Vision - Place down a ward, replacing your vision
 Movement - Place down a mine, replacing your movement
 
 ? - Can attach to ally. Damage is done to part before ally (CC is shared with ally)
-##### E - 
-s
+##### E - Reconfigure / Make-Shift
+Weapon - Melee hit
+
 
 
 ---
