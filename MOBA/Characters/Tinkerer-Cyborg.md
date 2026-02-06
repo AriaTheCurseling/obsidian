@@ -3,6 +3,10 @@ Tinkerers abilities can attach to allies and other modules, providing them with 
 ##### Q - 
 s
 ##### W - Detach / Reconfigure
+Detach a module, removing a vital function to place it elsewhere. Costs health.
+
+Weapon - 
+
 Detach a part of your body, separating it from your body and removing a capability from yourself. The bodypart retains the capability, and can be commanded using the normal buttons. It is reattached if it gets too far from the main body.
 
 Damage is shared between the main body and the body part, but CC is not.
@@ -10,6 +14,8 @@ Damage is shared between the main body and the body part, but CC is not.
 Weapon - Place down a turret, replacing your auto attack
 Vision - Place down a ward, replacing your vision
 Movement - Place down a mine, replacing your movement
+
+Attach - Shield scales with health, boosts 
 
 ? - Can attach to ally. Damage is done to part before ally (CC is shared with ally)
 ##### E - Interference Module
