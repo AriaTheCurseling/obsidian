@@ -1,5 +1,5 @@
 ##### Passive - Modular
-Tinkerers abilities can
+Tinkerers abilities can attach to allies, providing them with 
 ##### Q - 
 s
 ##### W - Detach / Reconfigure
