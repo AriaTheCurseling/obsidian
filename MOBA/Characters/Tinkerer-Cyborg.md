@@ -14,6 +14,9 @@ Movement - Place down a mine, replacing your movement
 ##### E - Interference Field
 Shoots a projectile
 
+Hitting a projectile 
+Hitting an ally gives them a shield 
+
 
 
 ---
