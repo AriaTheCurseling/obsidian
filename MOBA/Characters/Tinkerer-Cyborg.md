@@ -3,29 +3,15 @@ Tinkerers abilities can attach to allies and other modules, providing them with 
 ##### Q - 
 s
 ##### W - Modular Detach
-Detach a module making up your body, displacing its functionality. Each module can be commanded as it  
+Detach a module making up your body, loosing its function by placing it in the world. Unless its attached to an ally it reattaches if you get too distant and can be controlled as normal. Modules can be CC'd and cost health to deploy.
 
-Weapon - Replace your auto attack with a turret. Attach boost ally autos
-Vision - 
-Movement - 
-
-Attaches for movement speed and slow resist
-
-Detach a part of your body, separating it from your body and removing a capability from yourself. The bodypart retains the capability, and can be commanded using the normal buttons. It is reattached if it gets too far from the main body.
-
-Damage is shared between the main body and the body part, but CC is not.
-
-Weapon - Place down a turret, replacing your auto attack
-Vision - Place down a ward, replacing your vision
-Movement - Place down a mine, replacing your movement
-
-Attach - Shield scales with health, boosts 
-
-? - Can attach to ally. Damage is done to part before ally (CC is shared with ally)
+Weapon - Replace auto attacks with a turret. Attach grants attack speed and damage.
+Vision - Replace vision with a true sight ward. Attach grants true sight and blind and dodge resist.
+Movement - Replace movement with a mine. Attach grants movement speed and slow resist
 ##### E - Interference Module
 Shoots a projectile capable of interfering with enemy abilities. The projectile moves slower while in contact with enemy abilities, pushing them in the direction of travel.
 
-Attach - Projectiles hitting the ally are destroyed (the still apply full effect)
+Attach - Projectiles hitting the ally are destroyed (they still apply full effect, but cannot pierce)
 
 
 
