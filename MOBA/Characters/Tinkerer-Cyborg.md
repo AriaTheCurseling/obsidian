@@ -1,7 +1,8 @@
-##### Passive
+##### Passive - Modular
+Tinkerers abilities can
 ##### Q - 
 s
-##### W - Detach / Deconfigure
+##### W - Detach / Reconfigure
 Detach a part of your body, separating it from your body and removing a capability from yourself. The bodypart retains the capability, and can be commanded using the normal buttons. It is reattached if it gets too far from the main body.
 
 Damage is shared between the main body and the body part, but CC is not.
