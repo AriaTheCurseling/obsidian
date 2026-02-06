@@ -1,9 +1,9 @@
 ##### Passive - Modular Attachments
 Tinkerers abilities can attach to allies and other modules, providing them with a shield and an additional benefit while the shield persists (last module attached is destroyed first).
-##### Q - 
+##### Q - Function interrupt
 s
-##### W - Modular Detach
-Detach a module making up your body, loosing its function by placing it in the world. Unless its attached to an ally it reattaches if you get too distant and can be controlled as normal. Modules can be CC'd and cost health to deploy.
+##### W - Reconfigure
+Detach a module making up your body, loosing its function by placing it in the world. Unless its attached to an ally it can be controlled as normal and reattaches if you get too distant. Modules can be CC'd and cost health to deploy.
 
 Weapon - Replace auto attacks with a turret. Attach grants attack speed and damage.
 Vision - Replace vision with a true sight ward. Attach grants true sight and blind and dodge resist.
