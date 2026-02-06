@@ -1,5 +1,5 @@
-##### Passive - Modular
-Tinkerers abilities can attach to allies, providing them with 
+##### Passive - Modular Attachments
+Tinkerers abilities can attach to allies and other modules, providing them with a shield and an additional benefit while the shield persists (last module attached is destroyed first).
 ##### Q - 
 s
 ##### W - Detach / Reconfigure
@@ -15,11 +15,7 @@ Movement - Place down a mine, replacing your movement
 ##### E - Interference Module
 Shoots a projectile capable of interfering with enemy abilities. The projectile moves slower while in contact with enemy abilities, pushing them in the direction of travel.
 
-
-
-
-Hitting a projectile pushes it back
-Hitting an ally gives them a shield 
+Attach - Projectiles hitting the ally are destroyed (the still apply full effect)
 
 
 
