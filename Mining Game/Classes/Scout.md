@@ -1,1 +1,5 @@
-Grappling hook
+
+Core Abilities:
+> Grappling hook self
+> Grappling hook others
+
