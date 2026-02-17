@@ -19,8 +19,10 @@ strategies:
 Minimal product:
 - Conveyor belts
 - carrot field - produces carrots and rabbits
-- rabbit - jumps 2, eats carrots
-- crusher - destroys resources and enemies
+- rabbit - jumps 1, eats carrots, catch and release
+- peeler - kills rabbits and turns carrots into peeled carrots
+- releaser
+- sell point
 
 
 
