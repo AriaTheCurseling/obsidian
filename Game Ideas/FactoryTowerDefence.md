@@ -20,6 +20,9 @@ Minimal product:
 - Conveyor belts
 - 1 resource location
 
+rock quarry
 
-rock quary
 
+
+rabbit
+- jump 2
