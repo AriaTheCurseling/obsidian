@@ -18,11 +18,10 @@ strategies:
 
 Minimal product:
 - Conveyor belts
-- 1 resource location
+- carrot field - produces carrots and rabbits
+- rabbit - jumps 2, eats carrots
+- crusher - destroys resources and enemies
 
-rock quarry
 
 
 
-rabbit
-- jump 2
