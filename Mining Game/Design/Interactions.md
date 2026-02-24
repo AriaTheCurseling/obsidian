@@ -1,0 +1,5 @@
+
+
+mine
+pick up
+repair
