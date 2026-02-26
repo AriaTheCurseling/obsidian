@@ -13,3 +13,13 @@ Deckbuilding dice battle roguelike
 - each card applies an effect to a die
 - a die can only have 1 effect, when a new effect is applied the old is cancelled
 - Effects can either specify a number value, use the current die value, or force a reroll
+
+We Forgot The Factory
+- Only conveyors, resources and environment
+- Buildable things:
+	- Conveyors
+	- ?Schedulers (even, most, paired, least...)
+- Resource properties
+	- Mergable
+	- Split
+	- ...
