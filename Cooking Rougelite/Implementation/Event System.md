@@ -10,7 +10,6 @@ then check for triggers
 then check for ways to resolve it
 - sort by amount of conditions?
 
-
 trash can resolution
 - slot1 is trash
 - slot2 is item
@@ -25,9 +24,13 @@ take item
 - slot2 is item
 
 merge
-- slot1
+- slot1 is item
+- slot2 is item
+- slot1 and slot2 are mergeable
 
-
+swap
+- slot1 is item
+- slot2 is item
 
 
 
