@@ -3,8 +3,11 @@
 - handheld saw - treechop
 - copper oxidication for create stuffs
 
-
+Fluids
+> - Fluids flow downwards unassisted
+> 	- Use fluid pressure
+> - Produce power with gravity
 
 Backtanks
-> - setting to release power instead
-> - Allow placing
+> - Add setting to release power instead
+> - Let them use bauble slot 
