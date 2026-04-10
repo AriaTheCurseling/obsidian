@@ -2,6 +2,7 @@
 - handheld saw - treechop
 - copper oxidication for create stuffs
 - flywheels as batteries
+- Grindstone drain connect any side
 
 Fluid pipes
 > - Fluids flow downwards unassisted
