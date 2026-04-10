@@ -1,13 +1,14 @@
-- Handheld drill and saw speedup with backtank
 - Handheld drill - 3 x 3 mining
 - handheld saw - treechop
 - copper oxidication for create stuffs
+- flywheels as batteries
 
-Fluids
+Fluid pipes
 > - Fluids flow downwards unassisted
-> 	- Use fluid pressure
-> - Produce power with gravity
+> 	- Use fluid pressure (2 blocks horizontal per vertical block)
+> - Pumps produce power with gravity
 
 Backtanks
 > - Add setting to release power instead
 > - Let them use bauble slot 
+> - Empower handheld tools (drill and saw)
