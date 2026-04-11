@@ -1,8 +1,8 @@
-- Handheld drill - 3 x 3 mining
-- handheld saw - treechop
 - copper oxidication for create stuffs
 - flywheels as batteries
 - Grindstone drain connect any side
+
+- Access toolbox in offhand
 
 Fluid pipes
 > - Fluids flow downwards unassisted
