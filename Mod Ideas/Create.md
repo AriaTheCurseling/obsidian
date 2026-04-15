@@ -10,6 +10,6 @@ Fluid pipes
 > - Pumps produce power with gravity
 
 Backtanks
-> - Add setting to release power instead
-> - Let them use bauble slot 
+> x Add setting to release power instead
+> x Let them use bauble slot 
 > - Empower handheld tools (drill and saw)
