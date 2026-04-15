@@ -4,6 +4,7 @@
 
 - Access toolbox in offhand
 - Soggy cardboard armor
+- Colored cardboard armor
 
 Fluid pipes
 > - Fluids flow downwards unassisted
