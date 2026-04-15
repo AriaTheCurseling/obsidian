@@ -3,6 +3,7 @@
 - Grindstone drain connect any side
 
 - Access toolbox in offhand
+- Soggy cardboard armor
 
 Fluid pipes
 > - Fluids flow downwards unassisted
