@@ -29,4 +29,6 @@ Mechanics
 > 
 > instead
 > producers have static torque
-> consumers have stress and produce torque = -speed 
+> consumers have stress and produce torque = -stress * speed
+> momentum += net torque
+> speed = momentum / inertia
