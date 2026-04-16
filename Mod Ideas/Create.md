@@ -15,3 +15,7 @@ Backtanks
 > x Add setting to release power instead
 > x Let them use bauble slot 
 > - Empower handheld tools (drill and saw)
+
+The great Orray
+> Create magic mod
+> Generates secret
