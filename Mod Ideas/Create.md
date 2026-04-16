@@ -36,5 +36,6 @@ Mechanics
 > consumers have stress and produce torque -= stress * speed
 > momentum += net torque
 > speed = momentum / inertia
-
-speed += torque / stress
+> 
+> results in:
+> speed += torque / stress - speed
