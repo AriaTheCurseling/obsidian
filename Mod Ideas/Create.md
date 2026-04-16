@@ -21,3 +21,12 @@ The Great Orrery
 > Generates a dimension of gears
 > Special goggles let you see through the veil
 > Special gears can interlace through dimensions
+
+Mechanics
+> current: 
+> speed and stress
+> cost speed x stress
+> 
+> instead
+> producers have static torque
+> consumers have stress and produce torque = -speed 
