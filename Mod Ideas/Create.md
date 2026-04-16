@@ -21,6 +21,11 @@ The Great Orrery
 > Generates a dimension of gears
 > Special goggles let you see through the veil
 > Special gears can interlace through dimensions
+> 
+> chunk effects
+> - Change biome
+> - Creative flight
+
 
 Mechanics
 > current: 
