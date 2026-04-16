@@ -16,6 +16,8 @@ Backtanks
 > x Let them use bauble slot 
 > - Empower handheld tools (drill and saw)
 
-The great Orray
+The Great Orrery
 > Create magic mod
-> Generates secret
+> Generates a dimension of gears
+> Special goggles let you see through the veil
+> Special gears can interlace through dimensions
