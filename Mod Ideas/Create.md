@@ -24,6 +24,8 @@ The Great Orrery
 > 
 > chunk effects
 > - Change biome
+> - Change weather
+> - Change time
 > - Creative flight
 > - Affect random ticks
 > - Firespread
