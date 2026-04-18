@@ -5,6 +5,7 @@
 - Access toolbox in offhand
 - Soggy cardboard armor
 - Colored cardboard armor
+- Stop handheld drill and saw from using hunger
 
 Fluid pipes
 > - Fluids flow downwards unassisted
