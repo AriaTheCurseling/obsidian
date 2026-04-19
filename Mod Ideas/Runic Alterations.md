@@ -5,6 +5,10 @@ Interactions (first draft):
 > - Wearer / holder
 > - Durability
 > - Use
+> - Damage
+> - Potion Effects / Status Effects
 
 
 
+Keywords
+> - Causality
