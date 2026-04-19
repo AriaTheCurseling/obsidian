@@ -15,6 +15,7 @@ so, two types of trigger runes, static and dynamic ie, "are things like this" an
 Amplifiers (First Draft):
 > Increases other runes effect
 > - Consume (adds active cost to rune condition, example: consumes durability for effect)
+> - Surge (convert cost into chance, to trigger effects at lower engi)
 
 Keywords
 > - Causality
@@ -47,3 +48,6 @@ Recreating Vanilla enchantments:
 > 	- runes: "Fire" "Damage" "Healing"
 > - Flame
 > 	- runes: "Use" "Fire"
+> - 
+> - Thorns
+> 	- "surge" "damage" "someone" "attack" "me" "consume" "durability"
