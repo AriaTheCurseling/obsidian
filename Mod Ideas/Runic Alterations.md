@@ -16,3 +16,11 @@ Amplifiers (First Draft):
 
 Keywords
 > - Causality
+
+
+
+Recreating Vanilla enchantments:
+> - Aqua Affinity
+> 	- runes: "mining" "breath"
+> 	- faster mining when breath decreasing
+> 	- more brea
