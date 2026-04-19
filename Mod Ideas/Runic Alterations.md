@@ -55,3 +55,25 @@ Recreating Vanilla enchantments:
 > - 
 > - Thorns
 > 	- "surge" "damage" "someone" "attack" "me" "consume" "durability"
+
+
+
+Scenarios:
+
+Player hits mob with sword
+
+Data:
+Player, Mob, Sword
+Mob, Player, Sword
+
+Attack Fire
+
+
+
+
+
+
+
+
+
+
