@@ -47,7 +47,7 @@ Recreating Vanilla enchantments:
 > - Feather Falling
 > 	- runes: "falling" "damage" "healing"
 > - Fire Aspect
-> 	- runes: "Usage" "Fire"
+> 	- runes: "Attack" "Fire"
 > - Fire Protection
 > 	- runes: "Fire" "Damage" "Healing"
 > - Flame
@@ -68,7 +68,7 @@ Mob, Player, Sword
 
 Attack Fire
 
-
+Look wet fire
 
 
 
