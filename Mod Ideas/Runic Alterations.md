@@ -7,6 +7,8 @@ Interactions (first draft):
 > - Use
 > - Damage
 > - Potion Effects / Status Effects
+> - Right click effects (Make path, Make fire, Strip logs)
+> - Sneak
 
 so, two types of trigger runes, static and dynamic ie, "are things like this" and "is this thing happening". (state vs change) dmg is negative change of health...
 
@@ -40,3 +42,7 @@ Recreating Vanilla enchantments:
 > 	- runes: "falling" "damage" "healing"
 > - Fire Aspect
 > 	- runes: "Usage" "Fire"
+> - Fire Protection
+> 	- runes: "Fire" "Damage" "Healing"
+> - Flame
+> 	- runes: "Use" "Fire"
