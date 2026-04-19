@@ -31,4 +31,7 @@ Recreating Vanilla enchantments:
 > - Curse of Binding
 > 	- runes: "equipped"
 > - Curse of Vanishing
-> 	- runes: ""
+> 	- runes: "death" "destruction"
+> - Density
+> - Depth Strider
+> 	- runes: "speed" "water"
