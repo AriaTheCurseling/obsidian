@@ -7,6 +7,10 @@
 - Colored cardboard armor
 - Stop handheld drill and saw from using hunger
 
+- Package stickers
+- Sticker Filters
+- 
+
 Fluid pipes
 > - Fluids flow downwards unassisted
 > 	- Use fluid pressure (2 blocks horizontal per vertical block)
