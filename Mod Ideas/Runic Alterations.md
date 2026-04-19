@@ -9,6 +9,7 @@ Interactions (first draft):
 > - Potion Effects / Status Effects
 > - Right click effects (Make path, Make fire, Strip logs)
 > - Sneak
+> - Block Properties (Solid, Light Level, Transparent)
 
 so, two types of trigger runes, static and dynamic ie, "are things like this" and "is this thing happening". (state vs change) dmg is negative change of health...
 
