@@ -8,7 +8,11 @@ Interactions (first draft):
 > - Damage
 > - Potion Effects / Status Effects
 
-so, two types of trigger runes, static and dynamic ie, "are things like this" and "is this thing happening"
+so, two types of trigger runes, static and dynamic ie, "are things like this" and "is this thing happening". (state vs change) dmg is negative change of health...
+
+Amplifiers (First Draft):
+> Increases other runes effect
+> - Consume (adds active cost to rune condition, example: consumes durability for effect)
 
 Keywords
 > - Causality
