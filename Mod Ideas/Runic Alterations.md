@@ -21,6 +21,14 @@ Keywords
 
 Recreating Vanilla enchantments:
 > - Aqua Affinity
-> 	- runes: "mining" "breath"
+> 	- runes: "mining" "not" "breath"
 > 	- faster mining when breath decreasing
-> 	- more brea
+> 	- hard to breathe when fast mining
+> - Bane of Arthropods
+> - Blast Protection
+> - Breach
+> - Channeling
+> - Curse of Binding
+> 	- runes: "equipped"
+> - Curse of Vanishing
+> 	- runes: ""
