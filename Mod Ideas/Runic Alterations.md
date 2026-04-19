@@ -35,3 +35,8 @@ Recreating Vanilla enchantments:
 > - Density
 > - Depth Strider
 > 	- runes: "speed" "water"
+> - Efficiency
+> - Feather Falling
+> 	- runes: "falling" "damage" "healing"
+> - Fire Aspect
+> 	- runes: "Usage" "Fire"
