@@ -20,7 +20,7 @@ Amplifiers (First Draft):
 Keywords
 > - Causality
 > - Runic Echo (single rune enchantments echo effects)
-> - Runic inversion (combining two opposite runes)
+> - Runic inversion/inertia (combining two opposite runes)
 
 
 
