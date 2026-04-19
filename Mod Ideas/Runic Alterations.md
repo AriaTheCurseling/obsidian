@@ -18,6 +18,7 @@ Amplifiers (First Draft):
 
 Keywords
 > - Causality
+> - Runic Echo (single rune enchantments echo effects)
 
 
 
