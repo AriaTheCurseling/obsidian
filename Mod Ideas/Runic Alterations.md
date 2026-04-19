@@ -8,7 +8,7 @@ Interactions (first draft):
 > - Damage
 > - Potion Effects / Status Effects
 
-
+so, two types of trigger runes, static and dynamic ie, "are things like this" and "is this thing happening"
 
 Keywords
 > - Causality
