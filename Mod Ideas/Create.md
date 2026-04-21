@@ -16,6 +16,9 @@ Jetpacks
 > 	- Space is boost
 > - Work with wrench on chains
 > - Handheld tools cost fixes
+> 	- Use less air
+> 	- Dont use 
+> - Curio integration
 
 
 
