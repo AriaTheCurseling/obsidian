@@ -1,0 +1,1 @@
+Mana is a sponge for thought and feeling, thinking of mana as anything but *yours* is the surest way to block your own progress. Take pride in your work, in your spells or you may find your demise when your enemy decides the spell belongs to them.
