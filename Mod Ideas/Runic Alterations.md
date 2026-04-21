@@ -73,13 +73,17 @@ Look wet fire
 
 
 
-Design
-
-
-
+##### Design
 Runic Sentence
 > List of Runes
 > 
+
+Runic Observer
+> Keeps track of whenever something happens a rune would want to know about
+
+
+
+
 
 
 
