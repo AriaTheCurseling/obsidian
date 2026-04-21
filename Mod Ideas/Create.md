@@ -9,7 +9,15 @@
 
 - Package stickers
 - Sticker Filters
-- 
+
+
+Jetpacks
+> - Elytra mode
+> 	- Space is boost
+> - Work with wrench on chains
+> - Handheld tools cost fixes
+
+
 
 Fluid pipes
 > - Fluids flow downwards unassisted
