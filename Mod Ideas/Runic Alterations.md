@@ -80,6 +80,11 @@ Runic Sentence
 
 Runic Observer
 > Keeps track of whenever something happens a rune would want to know about
+> 
+> Each rune has rules for spreading observers
+> Base: Observe entity whose inventory we're in
+
+
 
 
 
