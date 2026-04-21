@@ -85,6 +85,23 @@ Runic Observer
 > Base: Observe entity whose inventory we're in
 
 
+Equip Attack Damage
+
+Observers:
+- Attack events on item holder
+- Damage events on item holder
+- Equip events on item holder
+
+
+
+
+
+
+
+
+
+
+
 
 
 
