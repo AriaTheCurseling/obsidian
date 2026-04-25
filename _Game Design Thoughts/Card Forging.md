@@ -8,3 +8,5 @@ targetable status effects !!!!
 - Steal!!!
 - Give
 - Move
+- mutate??
+- invert
