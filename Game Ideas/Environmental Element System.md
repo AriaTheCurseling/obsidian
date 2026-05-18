@@ -1,13 +1,14 @@
 
 missing
 - movement
+	- electricity
 - support
 - summons/tamer
 	- Hex
 - melee
 - long range
 
-
+Cinder
 
 
 
