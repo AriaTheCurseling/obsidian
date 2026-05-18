@@ -10,7 +10,7 @@ Tox
 > Coat - Stacking DOT, Pools when expiring
 > Pool - Sticky goo that slows movespeed
 > 
-> Foam - 
+> Foam - Soft foam to help you land, a "safe" from of tox
 > 
 > Spore - 
 > 
