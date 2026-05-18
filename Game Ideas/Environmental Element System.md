@@ -1,8 +1,12 @@
 
 missing
 - movement
+	- Magnetism
 	- electricity
 - support
+	- fire
+	- energy
+	- Battery
 - summons/tamer
 	- Hex
 - Environmental
