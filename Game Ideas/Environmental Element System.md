@@ -5,6 +5,7 @@ missing
 - support
 - summons/tamer
 	- Hex
+- Environmental
 - melee
 - long range
 
