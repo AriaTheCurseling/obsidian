@@ -8,7 +8,7 @@ Tox
 > Effects
 > Glop - Coats enemies hit, or Pools when hitting the ground
 > Coat - Stacking DOT, Pools when expiring
-> Pool - Sticky goo 
+> Pool - Sticky goo that slows movespeed
 > 
 > Combos
 > Seismic:
