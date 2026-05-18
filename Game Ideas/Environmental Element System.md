@@ -3,6 +3,7 @@ missing
 - movement
 - support
 - summons/tamer
+	- Hex
 - melee
 - long range
 
