@@ -33,7 +33,7 @@ Tox
 > 
 > Foam - Soft foam to help you land, a "safe" form of Tox
 > 
-> Spore - 
+> Spore - Toxic spores making
 > 
 > Combos
 > Seismic:
@@ -50,6 +50,9 @@ Quake
 > 
 > Effects
 > Hold - Stop somethings motion
+> Sand - A pit of quicksand
+> Rock - Leaves behind rocks
+> Soil - 
 > 
 > Combos
 > Tox:
