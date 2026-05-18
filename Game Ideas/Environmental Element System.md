@@ -10,6 +10,9 @@ Tox
 > Coat - Stacking DOT, Pools when expiring
 > Pool - Sticky goo that slows movespeed
 > 
+> Foam - 
+> 
+> Spore - 
 > 
 > Combos
 > Seismic:
