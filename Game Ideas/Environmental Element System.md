@@ -13,11 +13,9 @@ missing
 - melee
 - long range
 
-Cinder
-
-Dynamism
-Drive
-
+element ideas:
+- Metal - Weight - Magnet
+- Spider element?
 
 
 Tox
@@ -57,4 +55,5 @@ Quake
 > Combos
 > Tox:
 > - Makes Tox pools solidify into a soft squishy foam
+
 
