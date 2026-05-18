@@ -2,6 +2,7 @@
 missing
 - movement
 - support
+- summons/tamer
 
 
 
