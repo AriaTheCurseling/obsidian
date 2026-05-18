@@ -6,14 +6,16 @@ Tox
 > Area denial, mutual assured destruction, bombardment
 > 
 > Effects
-> Glops - Coats enemies hit, or creates a tox pool when hitting the ground
-> 
+> Glop - Coats enemies hit, or Pools when hitting the ground
+> Coat - Stacking DOT, Pools when expiring
+> Pool - Sticky goo 
 > 
 > Combos
 > Seismic:
 > - Toxin isolating us from the dangers of the earth, what could go wrong? 
 
 Quake
+> The mountain screams.
 > In the depths, the ground screams for release.
 > 
 > Identity
