@@ -10,6 +10,7 @@ Tox
 > Coat - Stacking DOT, Pools when expiring
 > Pool - Sticky goo that slows movespeed
 > 
+> 
 > Combos
 > Seismic:
 > - Toxin isolating us from the dangers of the earth, what could go wrong? 
