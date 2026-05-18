@@ -9,7 +9,7 @@ Tox
 > Seismic:
 > - Toxin isolating us from the dangers of the earth, what could go wrong? 
 
-Seismic
+Seismic "Quake"
 > In the depths, the ground screams for release.
 > 
 > Combos
