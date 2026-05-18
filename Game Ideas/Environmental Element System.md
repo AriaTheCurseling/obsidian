@@ -34,6 +34,9 @@ Quake
 > 
 > Rocks and sound
 > 
+> Effects
+> Hold - Stop somethings motion
+> 
 > Combos
 > Tox:
 > - Makes Tox pools solidify into a soft squishy foam
