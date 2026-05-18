@@ -33,7 +33,7 @@ Tox
 > 
 > Foam - Soft foam to help you land, a "safe" form of Tox
 > 
-> Spore - Toxic spores making
+> Spore - Toxic spores making enemies beserk
 > 
 > Combos
 > Seismic:
