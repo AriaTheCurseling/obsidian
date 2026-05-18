@@ -5,14 +5,15 @@ Tox
 > Identity
 > Area denial, mutual assured destruction, bombardment
 > 
-> Liquids and gasses
-> spores?
+> Effects
+> Glops - Coats enemies hit, or creates a tox pool when hitting the ground
+> 
 > 
 > Combos
 > Seismic:
 > - Toxin isolating us from the dangers of the earth, what could go wrong? 
 
-Seismic "Quake"
+Quake
 > In the depths, the ground screams for release.
 > 
 > Identity
@@ -23,3 +24,4 @@ Seismic "Quake"
 > Combos
 > Tox:
 > - Makes Tox pools solidify into a soft squishy foam
+
