@@ -56,4 +56,10 @@ Quake
 > Tox:
 > - Makes Tox pools solidify into a soft squishy foam
 
-
+Flux (working name)
+> 
+> 
+> 
+> Effects
+> Mote - A mote of ember
+> 
