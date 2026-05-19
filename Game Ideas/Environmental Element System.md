@@ -58,11 +58,12 @@ Quake
 
 Flux (working name)
 > 
-> 
+> Interplay between chaos and order
 > 
 > Effects
-> Mote - A mote of ember
+> Mote - freeflowing motes of hot ember, burns things
 > Snow - 
+> Wind - 
 > Net - 
 > 
 > 
