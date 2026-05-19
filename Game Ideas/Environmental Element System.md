@@ -22,6 +22,12 @@ element ideas:
 	- sleeping spells
 	- light or air asociations?
 	- trapping
+	- vulnerability
+- Crow
+	- Death and darkness
+	- Stealth
+	- Shadow
+	- Sight?
 
 
 Tox
