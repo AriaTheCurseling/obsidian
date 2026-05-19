@@ -29,6 +29,7 @@ element ideas:
 	- Shadow
 	- Sight?
 	- blind
+- Coal?
 
 
 Tox
