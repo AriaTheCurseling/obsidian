@@ -16,6 +16,12 @@ missing
 element ideas:
 - Metal - Weight - Magnet
 - Spider element?
+- Canary
+	- unwilling test subject
+	- using others to make things safe
+	- sleeping spells
+	- light or air asociations?
+	- trapping
 
 
 Tox
