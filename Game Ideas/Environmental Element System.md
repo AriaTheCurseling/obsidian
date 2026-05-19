@@ -28,6 +28,7 @@ element ideas:
 	- Stealth
 	- Shadow
 	- Sight?
+	- blind
 
 
 Tox
