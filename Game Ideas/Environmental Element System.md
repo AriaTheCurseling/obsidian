@@ -51,6 +51,7 @@ Quake
 > Sand - A pit of quicksand
 > Rock - Leaves behind rocks
 > Soil - 
+> Crack - 
 > 
 > Combos
 > Tox:
