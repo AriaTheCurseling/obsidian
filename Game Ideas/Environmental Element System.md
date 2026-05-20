@@ -38,7 +38,7 @@ Tox
 > Identity
 > Area denial, mutual assured destruction, bombardment
 > 
-> Effects
+> Remnants
 > Glop - Coats enemies hit, or Pools when hitting the ground
 > Coat - Stacking DOT, Pools when expiring
 > Pool - Sticky goo that slows movespeed
@@ -60,12 +60,15 @@ Quake
 > 
 > Rocks and sound
 > 
-> Effects
-> Hold - Stop somethings motion
+> Remnants
 > Sand - A pit of quicksand
 > Rock - Leaves behind rocks
-> Soil - 
-> Crack - 
+> Soil - Plant can grow in this
+> Crack - Drains liquids, Weak Ground (faster to mine)
+> 
+> Held - Suspended motion
+> Shaken - 
+> 
 > 
 > Combos
 > Tox:
@@ -75,7 +78,7 @@ Flux (working name)
 > 
 > Interplay between chaos and order
 > 
-> Effects
+> Remnants
 > Mote - freeflowing motes of hot ember, burns things
 > Snow - 
 > Wind - 
@@ -83,3 +86,11 @@ Flux (working name)
 > 
 > 
 > 
+
+Crow
+>
+>Remnants
+>
+>
+>
+>
