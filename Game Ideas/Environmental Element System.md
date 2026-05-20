@@ -67,12 +67,14 @@ Quake
 > Crack - Drains liquids, Weak Ground (faster to mine)
 > 
 > Held - Suspended motion
-> Shaken - 
+> Shaken - All actions are worse
 > 
 > 
 > Combos
 > Tox:
 > - Makes Tox pools solidify into a soft squishy foam
+
+
 
 Flux (working name)
 > 
@@ -90,7 +92,9 @@ Flux (working name)
 Crow
 >
 >Remnants
->
+>Corpse - 
+>Soul - 
+>Feathers - 
 >
 >
 >
