@@ -23,7 +23,7 @@ element ideas:
 	- light or air asociations?
 	- trapping
 	- vulnerability
-- Crow
+- Crow - the caring death
 	- Death and darkness
 	- Stealth
 	- Shadow
