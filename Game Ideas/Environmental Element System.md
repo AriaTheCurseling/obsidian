@@ -79,7 +79,7 @@ Quake
 Flux (working name)
 > Hardlight with destinct temoeratures
 > Blue - frost
-> Red - 
+> Red - heat
 > Interplay between chaos and order
 > 
 > Remnants
