@@ -100,4 +100,5 @@ Crow
 
 
 Oil
-> Fuel, stic
+> Fuel, sticky and toxic. 
+> support element, buffs, deb
