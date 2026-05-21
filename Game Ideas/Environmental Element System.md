@@ -104,4 +104,10 @@ Crow
 Oil
 > Fuel, sticky and toxic. 
 > support element, buffs, debuffs
+> area denial
 
+Bloom
+> plant magic
+> area based
+
+Fox
