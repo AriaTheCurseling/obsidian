@@ -10,7 +10,10 @@ thing they do should be visible
 
 
 
+
+
+
 revive
 
-
+invisibility disables weapon, 
 
