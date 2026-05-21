@@ -77,7 +77,9 @@ Quake
 
 
 Flux (working name)
-> 
+> Hardlight with destinct temoeratures
+> Blue - frost
+> Red - 
 > Interplay between chaos and order
 > 
 > Remnants
@@ -101,4 +103,5 @@ Crow
 
 Oil
 > Fuel, sticky and toxic. 
-> support element, buffs, deb
+> support element, buffs, debuffs
+
