@@ -42,7 +42,7 @@ A spell can be open, indicating that it is taking in mana and concepts from its 
 
 The casting requirements of a spell is determined by the requirements of the concepts its built from. Differing skill with a concept can mean different casting requirements for different casters, with additional influence from environmental concepts.
 
-Stronger spe
+As a character progresses to be better at magic, they gain easier access to concepts letting them cast new, more expansive spells and reduce the requirements for spells they already had access to. Tools such as wands can also be used to facilitate spellcasting.
 
 
 
