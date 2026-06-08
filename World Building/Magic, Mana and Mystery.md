@@ -14,3 +14,20 @@ Mana responds to intent, and spells can be cast without structure. A spell struc
 
 
 
+
+Unstructured
+Structured
+	Open
+	Closed
+Sorcery
+
+
+
+
+Divinations that give the caster information are innately mind effecting
+
+
+
+
+
+
