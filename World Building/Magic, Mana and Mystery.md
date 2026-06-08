@@ -31,3 +31,8 @@ Divinations that give the caster information are innately mind effecting
 
 
 
+Gamefied
+
+Structured spells are constructed from a collection of concepts. All spells have an
+
+
