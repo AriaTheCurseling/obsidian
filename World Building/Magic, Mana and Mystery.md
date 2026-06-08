@@ -38,3 +38,13 @@ Structured spells are constructed from a collection of concepts linked together.
 A spell can be open, indicating that it is taking in mana and concepts from its environment. While this greatly reduces the cost of casting the spell it also makes it vulnerable to environmental contamination and enemy interference.
 
 
+
+
+The casting requirements of a spell is determined by the requirements of the concepts its built from. Differing skill with a concept can mean different casting requirements for different casters, with additional influence from environmental concepts.
+
+Stronger spe
+
+
+
+
+
