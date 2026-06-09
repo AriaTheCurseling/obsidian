@@ -1,0 +1,1 @@
+Attempting to [[Game Ideas/Cooking Rougelite/Item Tranformations/Cooking|cook]] certain items will burn them instead.

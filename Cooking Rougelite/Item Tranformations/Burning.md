@@ -1,1 +1,0 @@
-Attempting to [[Cooking Rougelite/Item Tranformations/Cooking|cook]] certain items will burn them instead.

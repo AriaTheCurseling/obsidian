@@ -1,0 +1,1 @@
+Bring out your own [[knife]] when [[Cutting]]. Only works if you could pick up a knife.

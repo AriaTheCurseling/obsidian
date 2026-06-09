@@ -1,0 +1,1 @@
+You pick up items when finishing [[Game Ideas/Cooking Rougelite/Interactions|interacting]] with them.
