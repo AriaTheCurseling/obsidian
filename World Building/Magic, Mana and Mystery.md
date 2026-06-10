@@ -46,5 +46,6 @@ As a character progresses to be better at magic, they gain easier access to conc
 
 
 
-
+Cantrips as single concept spells?
+physical actions can serve as concept generation
 
