@@ -10,7 +10,7 @@ Living things have an innate "well" of mana within them they can manipulate and 
 Sorcery is the act of influencing the well itself, changing your mana at the source.
 Wizardry instead controls mana through disciplined thought after drawing it from the well.
 
-Mana responds to intent, and spells can be cast without structure. A spell structure makes a spell more predictable. A spell structure 
+Mana responds to intent, and spells can be cast without structure. A spell structure makes a spell more predictable.
 
 
 
