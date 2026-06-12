@@ -22,4 +22,4 @@ While easily resisted by awake and focused individuals, calm is excidingly good 
 ###### Mental Lanscape
 Orient 1 Dream 1
 
-Mental Landscape briefly
+Mental Landscape provides its caster the ability to arrange their thoughts as if they were physical objects. 
