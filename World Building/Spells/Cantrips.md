@@ -16,3 +16,10 @@ While easily resisted by awake and focused individuals, calm is excidingly good 
 +rest
 -perception
 
+
+
+
+###### Mental Lanscape
+Orient 1 Dream 1
+
+Mental landscape is a purely self
