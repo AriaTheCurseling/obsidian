@@ -22,4 +22,4 @@ While easily resisted by awake and focused individuals, calm is excidingly good 
 ###### Mental Lanscape
 Orient 1 Dream 1
 
-Mental landscape is a purely self
+Mental Landscape briefly
