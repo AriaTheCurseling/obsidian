@@ -9,4 +9,3 @@ Briefly summon a small flame in the palm of your hand. Generally harmless, but c
 ###### Calm
 Dream 1
 
-Weaken 
