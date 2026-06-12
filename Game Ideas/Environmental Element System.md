@@ -111,3 +111,5 @@ Bloom
 > area based
 
 Fox
+> Fire, thievery1
+> 
