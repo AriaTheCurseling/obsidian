@@ -16,8 +16,10 @@ While easily resisted by awake and focused individuals, calm is excidingly good 
 +rest
 -perception
 
+###### Align
+Orient 1
 
-
+Aligns the oriwn
 
 ###### Mental Lanscape
 Orient 1 Dream 1
