@@ -19,7 +19,7 @@ While easily resisted by awake and focused individuals, calm is excidingly good 
 ###### Align
 Orient 1
 
-Aligns the orientation of two similar objects in close proximity. 
+Aligns the orientation of a touched object to that of a similar objects in close proximity. 
 
 The maximal distance between targets scales with size of the objects and is determined by whetehr the objects *could* touch in some orientation while remaining at their current position, ignoring collision with anything else. 
 
