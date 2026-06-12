@@ -11,4 +11,4 @@ Dream 1
 
 Usually used by healers to help ailing patients fall asleep, calm pushes a patients senses a step away from reality, making pains and ailments easier to ignore. 
 
-While easily resisted by a
+While easily resisted by awake and focused individuals, calm is excidingly good at affecting those tired, unfocused or already asleep, improving their rest by mentally distancing them from their environment
