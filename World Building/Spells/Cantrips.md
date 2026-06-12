@@ -19,7 +19,7 @@ While easily resisted by awake and focused individuals, calm is excidingly good 
 ###### Align
 Orient 1
 
-Aligns the oriwn
+Aligns the orientation of two similar objects in close proximity. Distance targets can 
 
 ###### Mental Lanscape
 Orient 1 Dream 1
