@@ -19,7 +19,9 @@ While easily resisted by awake and focused individuals, calm is excidingly good 
 ###### Align
 Orient 1
 
-Aligns the orientation of two similar objects in close proximity. Distance targets can 
+Aligns the orientation of two similar objects in close proximity. 
+
+The maximal distance between targets scales with size of the objects and 
 
 ###### Mental Lanscape
 Orient 1 Dream 1
