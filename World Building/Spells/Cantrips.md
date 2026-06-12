@@ -21,7 +21,7 @@ Orient 1
 
 Aligns the orientation of a touched object to that of a similar object in close proximity. 
 
-Close proximity appears to be if the objects could touch 
+ objects could touch in any orientation at their current position
 
 The maximal distance between targets scales with size of the objects and is determined by whetehr the objects *could* touch in some orientation while remaining at their current position, ignoring collision with anything else. 
 
