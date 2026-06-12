@@ -21,7 +21,7 @@ Orient 1
 
 Aligns the orientation of two similar objects in close proximity. 
 
-The maximal distance between targets scales with size of the objects. Specificakl
+The maximal distance between targets scales with size of the objects. Specifically, if the objects 
 
 ###### Mental Lanscape
 Orient 1 Dream 1
