@@ -21,7 +21,7 @@ Orient 1
 
 Aligns the orientation of a touched object to that of a similar object in close proximity. 
 
-Fir the purpose of the spell, objects that could touch in atleast one orientation at their current position are in close proximity. 
+For the purpose of the spell, objects that could touch in atleast one orientation at their current position are in close proximity. 
 
 ###### Mental Lanscape
 Orient 1 Dream 1
