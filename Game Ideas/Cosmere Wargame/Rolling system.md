@@ -18,7 +18,11 @@ Throw: distance in range increments (typically with negative modifiers)
 Intercept: force shots to hit this unit instead, roll vs roll
 
 
-injuries do a negative status, squads can abandon an injured member to remo
+injuries do a negative status, squads can abandon an injured member to remove the penalty. 
+
+healing may sometimes be an option. 
+
+2+ 
 
 
 
