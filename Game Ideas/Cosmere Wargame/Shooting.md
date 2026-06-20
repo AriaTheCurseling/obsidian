@@ -2,11 +2,11 @@
 Declare shooting
 Declare target
 
+Enemy declares if they wish to activate the target
+
+Both players roll dice
 
 
-Roll dice
-
-Enemy may roll for target
 
 
 
