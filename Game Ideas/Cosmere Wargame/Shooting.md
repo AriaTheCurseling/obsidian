@@ -1,7 +1,12 @@
 
 Declare shooting
-
 Declare target
+
+
+
+Roll dice
+
+Enemy may roll for target
 
 
 
