@@ -10,7 +10,7 @@ Move: move roll inches
 
 
 Traverse:
-Sprint: Distance
+Sprint: 
 Safety: 
 
 
