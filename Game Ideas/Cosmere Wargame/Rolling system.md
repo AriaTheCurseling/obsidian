@@ -11,7 +11,7 @@ Move: move roll inches
 
 Take cover: 
 
-
+Throw:
 
 
 Faction ability
