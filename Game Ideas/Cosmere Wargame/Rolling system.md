@@ -22,7 +22,8 @@ injuries do a negative status, squads can abandon an injured member to remove th
 
 healing may sometimes be an option. 
 
-2+ 
+2+ Keep stable
+6 improve condition
 
 
 
