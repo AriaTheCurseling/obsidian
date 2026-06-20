@@ -43,6 +43,10 @@ Flamethrower
 -2 to hit, multi-hit
 sets targets on fire
 
+4 = 1/6
+3 = 2/6
+2 = 4/6
+1 = 
 
 
 
