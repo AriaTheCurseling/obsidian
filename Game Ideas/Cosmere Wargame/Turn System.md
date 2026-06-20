@@ -1,4 +1,4 @@
 
-### Actions
-Rushing
-Prone
+Shooting
+- Shoot (any)
+- Reposition ()
