@@ -43,7 +43,7 @@ Machine gun:
 hits using sum
 
 Flamethrower
--3 to hit, multi-hit
+-3 to hit, multi-hit, ignore cover
 sets targets on fire
 
 3 = 1/6
