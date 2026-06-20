@@ -31,7 +31,10 @@ injury table to determine injury
 
 
 
+rifle
++0
 
+6
 
 Shotgun:
 multi-hit - remaining die value can hit again
