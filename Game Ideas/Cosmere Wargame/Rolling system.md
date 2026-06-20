@@ -18,7 +18,7 @@ Throw: distance in range increments (typically with negative modifiers)
 Intercept: force shots to hit this unit instead, roll vs roll
 
 
-damage as bleeding, healing possible but uses a die
+injuries do a negative status, squads can abandon an injured member to remo
 
 
 
