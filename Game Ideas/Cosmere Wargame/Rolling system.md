@@ -11,7 +11,9 @@ Move: move roll inches
 
 Take cover: 
 
-Throw:
+Throw: distance in range increments (typically with negative modifiers)
+
+
 
 
 Faction ability
