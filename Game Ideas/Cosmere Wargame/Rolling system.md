@@ -1,6 +1,6 @@
 
 
-fir every action, roll a specified amount of dice and assign them to the action steps.
+for every action, roll a specified amount of dice and assign them to the action steps.
 
 The dice determine well their assigned action step is performed, with modifiers. 
 
@@ -14,6 +14,9 @@ Move: move roll inches
 Take cover: 
 
 Throw: distance in range increments (typically with negative modifiers)
+
+
+
 
 
 
