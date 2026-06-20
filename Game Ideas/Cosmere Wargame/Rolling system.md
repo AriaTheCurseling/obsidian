@@ -17,6 +17,8 @@ Throw: distance in range increments (typically with negative modifiers)
 
 
 
+damage as bleeding, chance to h
+
 
 
 
