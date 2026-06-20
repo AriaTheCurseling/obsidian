@@ -22,7 +22,10 @@ Throw: distance in range increments (typically with negative modifiers)
 
 
 Shotgun:
-multi-hit - excess 
+multi-hit - remaining die value can hit again
+
+Machine gun:
+
 
 
 Faction ability
