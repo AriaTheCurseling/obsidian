@@ -4,9 +4,7 @@ Declare target
 
 Enemy declares if they wish to activate the target
 
-Both players roll dice
-
-
+Both players 
 
 
 
