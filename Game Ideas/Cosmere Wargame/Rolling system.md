@@ -25,6 +25,8 @@ Shotgun:
 multi-hit - remaining die value can hit again
 
 Machine gun:
+hits using sum
+
 
 
 
