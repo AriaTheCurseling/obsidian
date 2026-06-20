@@ -40,7 +40,7 @@ Machine gun:
 hits using sum
 
 Flamethrower
--3 to hit, multi-hit
+-2 to hit, multi-hit
 sets targets on fire
 
 
