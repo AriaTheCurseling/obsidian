@@ -56,3 +56,9 @@ sets targets on fire
 Faction ability
 Divine dice
 you have X divine dice. Whenever you roll, you may swap a dice for a divine dice with a higher value. 
+
+
+
+
+
+
