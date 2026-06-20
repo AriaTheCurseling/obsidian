@@ -17,7 +17,7 @@ Throw: distance in range increments (typically with negative modifiers)
 
 
 
-damage as bleeding, chance to h
+damage as bleeding, healing possible but uses a die
 
 
 
