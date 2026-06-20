@@ -4,8 +4,6 @@ for every action, roll a specified amount of dice and assign them to the action 
 
 The dice determine well their assigned action step is performed, with modifiers. 
 
-ones always fail
-
 A range increment is typically 6"
 
 Example action: Shoot
@@ -15,6 +13,8 @@ Move: move roll inches
 
 Take cover: 
 
+Safeguard: prevent an injury roll of exact value
+
 Throw: distance in range increments (typically with negative modifiers)
 
 Intercept: force shots to hit this unit instead, roll vs roll
@@ -22,8 +22,19 @@ Intercept: force shots to hit this unit instead, roll vs roll
 
 injuries do a negative status, squads can abandon an injured member to remove the penalty. 
 
+healing may sometimes be an option. 
+
+2+ Keep stable
+6 improve condition
+
+injury table to determine injury
 
 
+
+
+
+rifle
++1
 
 
 
@@ -47,9 +58,3 @@ sets targets on fire
 Faction ability
 Divine dice
 you have X divine dice. Whenever you roll, you may swap a dice for a divine dice with a higher value. 
-
-
-
-
-
-
