@@ -43,12 +43,12 @@ Machine gun:
 hits using sum
 
 Flamethrower
--2 to hit, multi-hit
+-3 to hit, multi-hit
 sets targets on fire
 
-4 = 1/6
-3 = 2/6
-2 = 4/6
+3 = 1/6
+2 = 2/6
+1 = 4/6
 1 = 8/6
 
 
