@@ -9,7 +9,8 @@ Aim: you hit your target if the distance is shorter than the roll x 6 (range inc
 Move: move roll inches
 
 
-
+Traverse:
+Sprint: Distance
 
 
 
