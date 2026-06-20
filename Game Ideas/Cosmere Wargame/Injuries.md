@@ -16,7 +16,7 @@ Leg injury
 While moving, remove one success
 
 Arm injury
-While shooting, remove one success
+While attacking, remove one success
 
 Head injury
 During any activity, remove one success
