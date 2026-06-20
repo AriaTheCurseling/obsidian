@@ -12,6 +12,9 @@ Move: move roll inches
 
 
 
+
+
+
 Faction ability
 Divine dice
-you have X devine dice. Whenever you roll
+you have X divine dice. Whenever you roll, you may swap a dice for a divine dice with a higher value. 
