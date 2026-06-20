@@ -25,6 +25,8 @@ healing may sometimes be an option.
 2+ Keep stable
 6 improve condition
 
+injury table to determine injury
+
 
 
 
@@ -36,6 +38,10 @@ multi-hit - remaining die value can hit again
 
 Machine gun:
 hits using sum
+
+Flamethrower
+-3 to hit, multi-hit
+sets targets on fire
 
 
 
