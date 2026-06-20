@@ -4,8 +4,10 @@ fir every action, roll a specified amount of dice and assign them to the action 
 
 The dice determine well their assigned action step is performed, with modifiers. 
 
+A range increment is
+
 Example action: Shoot
-Aim: you hit your target if the distance is shorter than the roll x 6 (range increments are each 6")
+Shoot: distance in range increments 
 
 Move: move roll inches
 
