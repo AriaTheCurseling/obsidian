@@ -15,9 +15,12 @@ Take cover:
 
 Throw: distance in range increments (typically with negative modifiers)
 
+Intercept
 
 
 damage as bleeding, healing possible but uses a die
+
+
 
 
 
