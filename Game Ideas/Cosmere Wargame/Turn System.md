@@ -3,9 +3,12 @@ Take turns activating or using a unit. To activate a unit, roll its action dice 
 
 When a unit runs out of action dice, it is exhausted. 
 
+
+activate
 roll
 move and -1 to all rolls
-move and -2 to all rolls, 
+move and -1 to all rolls
+actions
 down?
 
 
