@@ -11,6 +11,11 @@ move and -1 to all rolls
 actions
 
 
+hero
+move
+shoot
+charge
+fight
 
 
 

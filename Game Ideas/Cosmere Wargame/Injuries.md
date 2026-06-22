@@ -23,3 +23,6 @@ During any activity, remove one success
 
 Bleeding out
 End of turn: one model dies and this is cured
+
+
+
