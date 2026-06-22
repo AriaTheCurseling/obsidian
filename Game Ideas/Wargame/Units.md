@@ -29,3 +29,6 @@ dmg modifier
 **Act**
 \[?+] Shoot
 
+Priest
+
+Pray - Act \[2+]
