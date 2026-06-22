@@ -7,7 +7,7 @@ When a unit runs out of action dice, it is exhausted.
 activate > roll > prepare >move > act
 
 
-
+Range 3" forest, 6" normal, 9" magic
 
 Shooting:
 difficulty 1 per range increment (6")
