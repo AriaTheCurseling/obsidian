@@ -8,9 +8,9 @@ When a unit runs out of action dice, it is exhausted.
 Full move - no shooting
 Half move - move then actions at -1
 No move - roll and actions
-Down
-Ambush
-Rally ??
+Down - 
+Ambush - 
+Rest - roll and actions, bonus to medical
 
 
 
