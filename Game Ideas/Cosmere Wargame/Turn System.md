@@ -6,10 +6,9 @@ When a unit runs out of action dice, it is exhausted.
 
 activate
 roll
-special actions
-move and -1 to all rolls
-move and -1 to all rolls
-normal actions
+prepare
+move
+act
 
 
 hero
