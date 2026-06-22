@@ -5,11 +5,12 @@ When a unit runs out of action dice, it is exhausted.
 
 
 
-Full move
-Half move
+Full move - no shooting
+Half move - move then actions at -1
 No move
 Down
-
+Ambush
+Rally
 
 
 
