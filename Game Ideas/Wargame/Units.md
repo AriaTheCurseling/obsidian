@@ -35,10 +35,10 @@ Pray - Act \[2+]
 Gain a divine die of the die value
 Curse - Act \[4]
 
-
+Heal - Act \[X]\[R]
+Heal X injuries on target unit
 
 ##### Mage | 2d6 | 6"
 Studied - Cannot sprint
-Fireball - Act \[6]\[R]
-hit up to 6 models in the target unit
-
+Fireball - Act \[X]\[R]
+hit up to X models in the target unit
