@@ -7,10 +7,10 @@ When a unit runs out of action dice, it is exhausted.
 
 Full move - no shooting
 Half move - move then actions at -1
-No move
+No move - roll and actions
 Down
 Ambush
-Rally
+Rally ??
 
 
 
