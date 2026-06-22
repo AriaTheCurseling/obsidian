@@ -2,7 +2,7 @@
 Very big squads, but actions often require multiple dice
 
 default move 3"+3"
-default prep - Run on each other \[6+] move 1" at no penalty
+default prep - Living Conveyor \[6+] move 1" at no penalty
 
 
 
@@ -18,7 +18,6 @@ Sling \[R] 3"
 
 
 ##### Catapult | 10d6 | 3"
-
 **Prep**
 Living Conveyor \[6+]
 This unit moves 1"
@@ -35,5 +34,8 @@ Throw X/2 nearby goblin the full range
 
 
 ##### Trench Coat | 3d6 | 3"+3"
+**Prep**
+Living Conveyor \[6+]
+This unit moves 1"
 
 **Act**
