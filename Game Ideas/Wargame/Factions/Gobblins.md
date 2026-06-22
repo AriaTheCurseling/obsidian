@@ -31,7 +31,6 @@ Fling Gob \[6]\[X]\[R]\[R]\[R] 3"
 Throw X/2 nearby goblin the full range
 
 
-Trench Coat
-3 models
+##### Trench Coat | 3d6 | 3"+3"
 
 **Act**
