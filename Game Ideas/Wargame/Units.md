@@ -29,12 +29,16 @@ dmg modifier
 **Act**
 \[?+] Shoot
 
-##### Priest | 2d6 | 6"+6"
+##### Priest | 2d6 | 6"
+Studied - Cannot sprint
 Pray - Act \[2+]
 Gain a divine die of the die value
 Curse - Act \[4]
 
 
 
-
+##### Mage | 2d6 | 6"
+Studied - Cannot sprint
+Fireball - Act \[6]\[R]
+hit up to 6 models in the target unit
 
