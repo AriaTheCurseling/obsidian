@@ -32,8 +32,8 @@ Deal 1 injury to target
 Shotgun \[R] 3"
 Deal 2 injury to target
 
-Anti-Material Rifle \[5+]\[R] 6"
-1 Injury at +3
+Anti-Material Rifle \[X]\[R] 6"
+1 Injury at X/2 dmg
 
 ##### Priest | 2d6 | 6"
 Studied - Cannot sprint
