@@ -17,8 +17,11 @@ Sling \[R] 3"
 
 
 
-##### Catapult
-10 models
+##### Catapult | 10d6 | 3"
+
+**Prep**
+Living Conveyor \[6+]
+This unit moves 1"
 
 **Act**
 Load \[X]\[2+]\[2+]
