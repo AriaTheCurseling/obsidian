@@ -15,7 +15,7 @@ dmg modifier
 \[3+] Ignore an injury
 **Moves** 2x6"
 **Act**
-\[2+] Shoot
+\[?+] Shoot
 
 ##### Medic
 
@@ -27,5 +27,5 @@ dmg modifier
 \[2+] Ignore an injury
 **Moves** 2x6"
 **Act**
-\[2+] Shoot
+\[?+] Shoot
 
