@@ -12,6 +12,9 @@ Living Conveyor \[6+]
 This unit moves 1"
 
 **Act**
+Sling \[R] 3"
+1 Hit at 0 dmg
+
 
 
 ##### Catapult

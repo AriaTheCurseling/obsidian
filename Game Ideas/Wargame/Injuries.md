@@ -5,8 +5,8 @@ Remove up to 3 different injuries when a model dies
 1 - Wound
 2 - Wound
 3 - Leg injury
-3 - Leg injury
-4 - Arm injury
+4 - Leg injury
+5 - Arm injury
 6 - Head injury
 7 - bleeding out
 8+ - dead
