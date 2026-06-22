@@ -9,9 +9,13 @@ activate > roll > prepare >move > act
 
 
 
-
-
 Shooting:
+difficulty 1 per range increment (6")
+add 1 to difficulty if target is in cover
+add 1 r
+use range increments of 3" in forests
+
+Melee:
 
 
 
