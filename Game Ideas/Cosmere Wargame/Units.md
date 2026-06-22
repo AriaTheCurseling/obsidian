@@ -2,3 +2,8 @@
 Shoot + 3
 move 
 hide
+
+
+
+##### Infantry
+Move: 2x 6"

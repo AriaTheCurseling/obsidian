@@ -10,15 +10,6 @@ prepare
 move
 act
 
-
-hero
-move
-shoot
-charge
-fight
-
-
-
 Full move - no shooting, actions -2
 Half move - move then actions at -1
 No move - roll and actions
