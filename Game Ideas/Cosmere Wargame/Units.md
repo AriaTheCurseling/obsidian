@@ -1,3 +1,9 @@
+unit stats
+dice count
+move count
+move distance
+injury resistance
+
 ##### Sniper
 **Rolls** 2d6
 **Prepare**
@@ -5,8 +11,8 @@
 \[3+] Ignore an injury
 **Moves** 2x6"
 **Act**
-\[?] Shoot
-\[2+] 
+\[2+] Shoot
+
 ##### Infantry
 Move: 2x 6"
 
