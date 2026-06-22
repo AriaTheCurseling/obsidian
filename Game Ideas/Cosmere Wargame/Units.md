@@ -16,3 +16,6 @@ dmg modifier
 **Moves** 2x6"
 **Act**
 \[2+] Shoot
+
+##### Medic
+

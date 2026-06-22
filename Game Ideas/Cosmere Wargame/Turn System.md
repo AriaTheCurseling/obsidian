@@ -11,4 +11,9 @@ activate > roll > prepare >move > act
 
 
 
+Shooting:
+
+
+
+
 
