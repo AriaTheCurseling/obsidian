@@ -27,7 +27,11 @@ dmg modifier
 \[2+] Ignore an injury
 **Moves** 2x6"
 **Act**
-\[?+] Shoot
+Rifle \[R]
+Deal 1 injury to target
+Shotgun \[R] 3"
+Deal 2 injury to target
+
 
 ##### Priest | 2d6 | 6"
 Studied - Cannot sprint
@@ -41,4 +45,4 @@ Heal X injuries on target unit
 ##### Mage | 2d6 | 6"
 Studied - Cannot sprint
 Fireball - Act \[X]\[R]
-hit up to X models in the target unit
+Injure up to X models in target unit
