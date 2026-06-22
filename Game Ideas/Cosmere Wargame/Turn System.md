@@ -4,18 +4,9 @@ Take turns activating or using a unit. To activate a unit, roll its action dice 
 When a unit runs out of action dice, it is exhausted. 
 
 
-activate
-roll
-prepare
-move
-act
+activate > roll > prepare >move > act
 
-Full move - no shooting, actions -2
-Half move - move then actions at -1
-No move - roll and actions
-Down - 
-Ambush - 
-Rest - roll and actions, bonus to medical
+
 
 
 
