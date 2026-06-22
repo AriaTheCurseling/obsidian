@@ -19,3 +19,13 @@ dmg modifier
 
 ##### Medic
 
+
+
+
+##### Infantry
+**Rolls** 1d6 per model
+**Prepare**
+\[2+] Ignore an injury
+**Moves** 2x6"
+**Act**
+\[2+] Shoot
