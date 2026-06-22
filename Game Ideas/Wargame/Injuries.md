@@ -33,5 +33,5 @@ End of turn: Roll on the injury table
 
 
 
-Down (Squad)
+Prone (Squad)
 
