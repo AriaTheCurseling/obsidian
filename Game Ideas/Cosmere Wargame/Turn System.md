@@ -5,6 +5,10 @@ When a unit runs out of action dice, it is exhausted.
 
 
 
+Full move
+Half move
+
+
 
 
 
