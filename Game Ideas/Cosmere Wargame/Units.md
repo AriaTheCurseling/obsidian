@@ -29,3 +29,5 @@ dmg modifier
 **Moves** 2x6"
 **Act**
 \[2+] Shoot
+\[2+]=\[2+] Grenade
+
