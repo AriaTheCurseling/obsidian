@@ -26,3 +26,6 @@ End of turn: one model dies and this is cured
 
 
 
+On Fire
+End of turn: Roll on the injury table
+

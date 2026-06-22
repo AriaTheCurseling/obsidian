@@ -12,7 +12,6 @@ activate > roll > prepare >move > act
 Shooting:
 difficulty 1 per range increment (6")
 use range increments of 3" in forests
-add 1 to difficulty per move
 add 1 to difficulty if target is in cover
 add 1 to difficulty if target is down
 add 1 to difficulty if target is small
