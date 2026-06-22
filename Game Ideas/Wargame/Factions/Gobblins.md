@@ -1,7 +1,17 @@
 
 Very big squads, but actions often require multiple dice
 
+default move 3"+3"
+default prep - Run on each other \[6+] move 1" at no penalty
 
+
+
+##### Horde | 20d6 | 3"+3"
+**Prep**
+Living Conveyor \[6+]
+This unit moves 1"
+
+**Act**
 
 
 ##### Catapult
