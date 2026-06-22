@@ -30,3 +30,8 @@ End of turn: one model dies
 
 On Fire
 End of turn: Roll on the injury table
+
+
+
+Down (Squad)
+
