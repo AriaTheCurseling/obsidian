@@ -1,5 +1,7 @@
 An injury can be curtailed with a 2+ or cured with a 6
 
+Remove up to 3 different injuries when a model dies
+
 1 - Wound
 2 - Wound
 3 - Leg injury
@@ -22,10 +24,9 @@ Head injury
 During any activity, remove one success
 
 Bleeding out
-End of turn: one model dies and this is cured
+End of turn: one model dies
 
 
 
 On Fire
 End of turn: Roll on the injury table
-
