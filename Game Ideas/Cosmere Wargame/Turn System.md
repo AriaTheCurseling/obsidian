@@ -9,7 +9,7 @@ roll
 move and -1 to all rolls
 move and -1 to all rolls
 actions
-down?
+
 
 
 
