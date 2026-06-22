@@ -8,6 +8,7 @@ Very big squads, but actions often require multiple dice
 
 
 Act
-
-Fling Gob \[6]\[6]\[R] 9"
-Throw a near goblin 
+Fling Rock \[5+]\[X]\[R]\[R]\[R] 3"
+Apply X hits to target
+Fling Gob \[6]\[X]\[R]\[R]\[R] 3"
+Throw X/2 nearby goblin the full range 
