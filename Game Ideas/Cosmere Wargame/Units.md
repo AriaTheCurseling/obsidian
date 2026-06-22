@@ -1,8 +1,12 @@
-unit stats
+Unit stats
 dice count
 move count
 move distance
 injury resistance
+
+Weapon stats
+hit modifier
+dmg modifier
 
 ##### Sniper
 **Rolls** 2d6
@@ -13,7 +17,3 @@ injury resistance
 **Act**
 \[2+] Shoot
 
-##### Infantry
-Move: 2x 6"
-
-Rifle: +3 hit, +0 dmg
