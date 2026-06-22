@@ -32,4 +32,9 @@ dmg modifier
 ##### Priest | 2d6 | 6"+6"
 Pray - Act \[2+]
 Gain a divine die of the die value
-Curse - Act \[4+]
+Curse - Act \[4]
+
+
+
+
+
