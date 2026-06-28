@@ -48,3 +48,9 @@ Heal X injuries on target unit
 Studied - Cannot sprint
 Fireball - Act \[X]\[R] 9"
 Injure up to X models in target unit
+
+
+
+
+6" | +1 to difficulty of focused actions
+6" | Can't do steady actions this turn
