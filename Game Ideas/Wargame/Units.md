@@ -65,11 +65,11 @@ Injure up to X models in target unit
 
 	Wizard - 3d6
 	--- Actions ---
-	[2][R] | 3" |
-	[3][R] | 3" |
-	[4][R] | 6" |
-	[5][R] | 6" |
-	[6][R] |    |
+	[2][R] | 3" | Cloud    | Place a cloud at target position
+	[3][R] | 3" | Displace | Teleport target unit up to 3"
+	[4][R] | 3" | Hinder   | 
+	[5][R] | 3" | Ignite   | Set target on fire
+	[6][R] | 3" |
 
 
 	Commander - 3d6
