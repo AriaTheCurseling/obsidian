@@ -53,14 +53,14 @@ Injure up to X models in target unit
     --- Passives ---
     |        |
 	--- Maneuvers ---
-    | [X]    | Blink     | Teleport up to X inches
-    | [5]    | Flight    | Movement ignores terrain this turn
+    | [X]    | X" | Blink    | Teleport to a spot within range
+    | [5]    |    | Flight   | Movement ignores terrain this turn
     --- Movement ---
-    | 6"     | Walk      | +1 to action difficulty
-    | 6"     | Sprint    | Can only do mobile actions this turn
+    |        | 6" | Walk     | +1 to action difficulty
+    |        | 6" | Sprint   | Can only do mobile actions this turn
     --- Actions ---
-    | [X][R] | Fireball  | Injure all models within X inches of target
-    | [3]    | Rampart   | Place a 2 health wall within 6"
+    | [X][R] | 9" | Fireball | Injure all models within X inches of target
+    | [3]    | 6" | Rampart  | Place a 2 health wall within range
 
 
 
