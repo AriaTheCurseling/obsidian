@@ -4,7 +4,7 @@ Take turns activating or using a unit. To activate a unit, roll its action dice 
 When a unit runs out of action dice, it is exhausted. 
 
 
-activate > roll > prepare >move > act
+activate(select unit and roll) > maneuver(prep and move) > act(attack)
 
 
 Range 3" forest, 6" normal, 9" magic

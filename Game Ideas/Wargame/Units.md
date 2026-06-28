@@ -50,9 +50,11 @@ Fireball - Act \[X]\[R] 9"
 Injure up to X models in target unit
 
 
-
+	--- Maneuvers ---
     | [X]    | Blink     | Teleport up to X inches
     | [5]    | Flight    | Movement ignores terrain this turn
-    |        | Walk 6"   | +1 to difficulty to methodical actions
+    --- Movement ---
+    |        | Walk 6"   | +1 to action difficulty
     |        | Sprint 6" | Can only do mobile actions this turn
+    --- Actions ---
     | [X][R] | Fireball  | Injure all models within X inches of target
