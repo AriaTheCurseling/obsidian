@@ -62,6 +62,8 @@ Injure up to X models in target unit
     | [X][R] | Fireball  | Injure all models within X inches of target
     | [3]    | Rampart   | Place a 2 health wall within 6"
 
+
+
 	Commander
 	--- Maneuvers ---
-	| [X]    | Command   | Give an ally within 6" two action dice of X/2 value
+	| [X]    | Command   | Give an ally within 6" two action dice each with value X/2
