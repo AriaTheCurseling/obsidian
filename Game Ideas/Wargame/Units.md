@@ -75,11 +75,13 @@ Injure up to X models in target unit
 	--- Maneuvers ---
 	|
 	--- Movement ---
-	| [2]    | 2" | Ant    | 
+	| [2]    | 4" | Ant    | 
 	| [3]    | 4" |        | 
 	| [4]    | 4" | Turtle | Gain 1 defense until next activation
-	| [5]    | 4" | Rabbit | Ignore terrain during move
-	| [6]    | 8" | Horse
+	| [5]    | 4" | Rabbit | Ignore terrain during this move
+	| [6]    | 8" | Horse  | Can only be used across open terrain
+	--- Actions ---
+	| 
 
 
 
