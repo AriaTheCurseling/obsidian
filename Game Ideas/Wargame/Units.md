@@ -70,12 +70,16 @@ Injure up to X models in target unit
 	--- Movement ---
 
 
+
 	Shapeshifter
 	--- Maneuvers ---
 	|
 	--- Movement ---
-	| [2]    | 8" | Horse |
-	| [3]    |
+	| [2]    | 2" | Ant    | 
+	| [3]    | 4" |        | 
+	| [4]    | 4" | Turtle | Gain 1 defense until next activation
+	| [5]    | 4" | Rabbit | Ignore terrain during move
+	| [6]    | 8" | Horse
 
 
 
