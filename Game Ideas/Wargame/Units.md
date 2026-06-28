@@ -54,13 +54,13 @@ Injure up to X models in target unit
     |        |
 	--- Maneuvers ---
     | [X]    | X" | Blink    | Teleport to a spot within range
-    | [5]    |    | Flight   | Movement ignores terrain this turn
+    | [5+]   |    | Flight   | Movement ignores terrain this turn
     --- Movement ---
     |        | 6" | Walk     | +1 to action difficulty
     |        | 6" | Sprint   | Can only do mobile actions this turn
     --- Actions ---
     | [X][R] | 9" | Fireball | Injure all models within X inches of target
-    | [3]    | 6" | Rampart  | Place a 2 health wall within range
+    | [3+]   | 6" | Rampart  | Place a 2 health wall within range
 
 
 
@@ -71,11 +71,11 @@ Injure up to X models in target unit
 
 
 
-	Shapeshifter
+	Shapeshifter 3d6
 	--- Maneuvers ---
-	|
+	| 
 	--- Movement ---
-	| [2]    | 4" | Ant    | 
+	| [2]    | 2" | Ant    | 
 	| [3]    | 4" |        | 
 	| [4]    | 4" | Turtle | Gain 1 defense until next activation
 	| [5]    | 4" | Rabbit | Ignore terrain during this move
