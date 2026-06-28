@@ -49,21 +49,23 @@ Studied - Cannot sprint
 Fireball - Act \[X]\[R] 9"
 Injure up to X models in target unit
 
-	 Mage - 2d6
+	 Mage - 3d6
     --- Passives ---
     |        |
 	--- Maneuvers ---
     | [X]    | Blink     | Teleport up to X inches
     | [5]    | Flight    | Movement ignores terrain this turn
     --- Movement ---
-    |        | Walk 6"   | +1 to action difficulty
-    |        | Sprint 6" | Can only do mobile actions this turn
+    | 6"     | Walk      | +1 to action difficulty
+    | 6"     | Sprint    | Can only do mobile actions this turn
     --- Actions ---
     | [X][R] | Fireball  | Injure all models within X inches of target
     | [3]    | Rampart   | Place a 2 health wall within 6"
 
 
 
-	Commander
+	Commander - 3d6
 	--- Maneuvers ---
 	| [X]    | Command   | Give an ally within 6" two action dice each with value X/2
+	--- Movement ---
+	|
