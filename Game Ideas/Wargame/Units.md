@@ -68,4 +68,15 @@ Injure up to X models in target unit
 	--- Maneuvers ---
 	| [X]    | Command   | Give an ally within 6" two action dice each with value X/2
 	--- Movement ---
+
+
+	Shapeshifter
+	--- Maneuvers ---
 	|
+	--- Movement ---
+	| [2]    | 8" | Horse |
+	| [3]    |
+
+
+
+
