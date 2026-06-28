@@ -84,5 +84,11 @@ Injure up to X models in target unit
 	| 
 
 
-
+	Voidling
+	-------
+	Dice [R][R][B]
+	---
+	--- Movement ---
+	|        | 2" |
+	
 
