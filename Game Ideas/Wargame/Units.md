@@ -73,13 +73,13 @@ Injure up to X models in target unit
 
 	 Sorcerer - 3d6
 	 --- Maneuver ---
-	 [R] | Cast Range | 3" | This acts as the range for this characters spells, no die means range of touch
+	 [R] | Cast Range | 3" | Replace all instances of -" with this range
 	 --- Actions ---
-	 [X] | blink
-	 [2+]
-	 [2+]
+	 [X]  | blink  | -" | Teleport target X" 
+	 [2+] | encase | -" | Target cannot move, but gains +1 defense
+	 [2+] |
 
-	 
+
 
 	Commander - 3d6
 	--- Maneuvers ---
