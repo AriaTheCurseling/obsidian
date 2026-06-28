@@ -51,8 +51,8 @@ Injure up to X models in target unit
 
 
 
-
-
+    | [X]    | Blink     | Teleport up to X inches
+    | [5]    | Flight    | Movement ignores terrain this turn
     |        | Walk 6"   | +1 to difficulty to methodical actions
     |        | Sprint 6" | Can only do mobile actions this turn
     | [X][R] | Fireball  | Injure all models within X inches of target
