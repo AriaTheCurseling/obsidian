@@ -63,6 +63,14 @@ Injure up to X models in target unit
     | [3+]   | 6" | Rampart  | Place a 2 health wall within range
 
 
+	Wizard - 3d6
+	--- Actions ---
+	[2][R] | 3" |
+	[3][R] | 3" |
+	[4][R] | 6" |
+	[5][R] | 6" |
+	[6][R] |    |
+
 
 	Commander - 3d6
 	--- Maneuvers ---
@@ -73,7 +81,7 @@ Injure up to X models in target unit
 
 	Shapeshifter 3d6
 	--- Maneuvers ---
-	| 
+	|
 	--- Movement ---
 	| [2]    | 2" | Ant    | 
 	| [3]    | 4" |        | 
