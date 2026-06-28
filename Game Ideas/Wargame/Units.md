@@ -75,9 +75,10 @@ Injure up to X models in target unit
 	 --- Maneuver ---
 	 [R] | Cast Range | 3" | Replace all instances of -" with this range
 	 --- Actions ---
-	 [X]  | blink  | -" | Teleport target X" 
-	 [2+] | encase | -" | Target cannot move, but gains +1 defense
-	 [2+] |
+	 [X]  | blink     | -" | Teleport target X" 
+	 [2+] | encase    | -" | Target cannot move, but gains +1 defense
+	 [2+] | 
+	 [R]  | bolt      | 6" | Deal 1 injury to target 
 
 
 
