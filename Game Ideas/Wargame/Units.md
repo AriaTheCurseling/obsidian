@@ -84,11 +84,10 @@ Injure up to X models in target unit
 	| 
 
 
-	Voidling
-	-------
-	Dice [R][R][B]
+	Voidling [R][R][B]
 	---
 	--- Movement ---
-	|        | 2" |
+	|        | 2" | Skip | 
+	--- Actions ---
 	
 
