@@ -49,7 +49,9 @@ Studied - Cannot sprint
 Fireball - Act \[X]\[R] 9"
 Injure up to X models in target unit
 
-
+	 \*\*
+    --- Passives ---
+    |        |
 	--- Maneuvers ---
     | [X]    | Blink     | Teleport up to X inches
     | [5]    | Flight    | Movement ignores terrain this turn
@@ -58,3 +60,4 @@ Injure up to X models in target unit
     |        | Sprint 6" | Can only do mobile actions this turn
     --- Actions ---
     | [X][R] | Fireball  | Injure all models within X inches of target
+    | [3]    | Rampart   | Place a 2 health wall within 6"
