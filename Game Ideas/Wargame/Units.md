@@ -53,4 +53,5 @@ Injure up to X models in target unit
 
 
 6" | +1 to difficulty to methodical actions
-6" | Can't do unhurried actions this turn
+6" | Can only do mobile actions this turn
+
