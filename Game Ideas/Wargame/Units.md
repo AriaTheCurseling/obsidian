@@ -67,7 +67,7 @@ Injure up to X models in target unit
 	--- Actions ---
 	[2][R] | 3" | Cloud    | Place a cloud at target position
 	[3][R] | 3" | Displace | Teleport target unit up to 3"
-	[4][R] | 3" | Hinder   | 
+	[4][R] | 3" | Hinder   | Give target a dice of value 1
 	[5][R] | 3" | Ignite   | Set target on fire
 	[6][R] | 3" |
 
@@ -87,7 +87,7 @@ Injure up to X models in target unit
 
 	Commander - 3d6
 	--- Maneuvers ---
-	| [X]    | Command   | Give an ally within 6" two action dice each with value X/2
+	[X]  | Command  | 6" | Give target two action dice each with value X/2
 	--- Movement ---
 
 
