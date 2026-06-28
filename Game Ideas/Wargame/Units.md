@@ -52,6 +52,7 @@ Injure up to X models in target unit
 
 
 
-6" | +1 to difficulty to methodical actions
-6" | Can only do mobile actions this turn
 
+Walk 6"          | +1 to difficulty to methodical actions
+Sprint 6"        | Can only do mobile actions this turn
+Fireball \[X]\[R] | 
