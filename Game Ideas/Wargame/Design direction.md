@@ -5,3 +5,4 @@ Every decision should feel meaningful
 - All possible rolls must result in impactful decisions
 	- Even a "failed" roll should have decisions attached to it
 
+All dice must be assigned
