@@ -6,3 +6,5 @@ Every decision should feel meaningful
 	- Even a "failed" roll should have decisions attached to it
 
 All dice must be assigned
+1's can only be added on the character sheet
+values below the required get "stuck"
