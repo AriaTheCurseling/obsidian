@@ -4,23 +4,14 @@
 The dice determine well their assigned action step is performed, with modifiers. 
 
 Example action: Shoot
-Shoot: distance in range increments 
 
-Move: move roll inches
-
-Take cover: 
 
 Safeguard: Chose an injury of a lower value than the die, you are immune to that
-
-Throw: distance in range increments (typically with negative modifiers)
 
 Intercept: force shots to hit this unit instead, roll vs roll
 
 
 injuries do a negative status, squads can abandon an injured member to remove the penalty. 
-
-
-
 
 
 Shotgun:
@@ -32,12 +23,6 @@ hits using sum
 Flamethrower
 -3 to hit, multi-hit, ignore cover
 sets targets on fire
-
-3 = 1/6
-2 = 2/6
-1 = 4/6
-1 = 8/6
-
 
 
 Faction ability
