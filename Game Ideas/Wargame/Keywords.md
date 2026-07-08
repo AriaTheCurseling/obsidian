@@ -1,7 +1,7 @@
 
 ##### Actions
 Stationary - Cannot be done if moved this activation
-Free - Can be attempted without spending an action die
+[[Free Action|Free]] - Can be attempted without spending an action die
 [[Lucky Action|Lucky]] - A 1 placed here is rerolled, you must use the new value.
 Forced - You have to do this action every activation
 Reaction - Can only be done immediately before the effect is important
