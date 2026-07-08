@@ -14,7 +14,7 @@ Remove up to 3 different injuries when a model dies
 
 
 Near Miss
-+1 to difficulty of ranged rolls next activation
++1 to difficulty of ranged rolls during next activation
 
 Wound
 End of turn: roll an injury and this is cured
