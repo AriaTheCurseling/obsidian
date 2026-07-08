@@ -9,4 +9,5 @@ Reaction - Can only be done immediately before the effect is important
 Difficult - half movement (round up)
 Dense - half range (round up)
 Obscuring - Can see in or out, not both
+Cover - Add 1 to ranged difficulty
 Barrier - only characters atleast twice as tall as this can move through
