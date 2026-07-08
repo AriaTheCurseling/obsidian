@@ -13,7 +13,8 @@ Remove up to 3 different injuries when a model dies
 
 
 
-
+Near Miss
++1 to difficulty 
 
 Wound
 End of turn: roll an injury and this is cured
