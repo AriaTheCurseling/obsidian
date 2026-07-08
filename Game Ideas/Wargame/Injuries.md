@@ -2,9 +2,9 @@ An injury can be curtailed with a 2+ or cured with a 6
 
 Remove up to 3 different injuries when a model dies
 
-1 - Wound
-2 - Wound
-3 - Leg injury
+1 - None
+2 - Near Miss 
+3 - Wound
 4 - Leg injury
 5 - Arm injury
 6 - Head injury
@@ -14,7 +14,7 @@ Remove up to 3 different injuries when a model dies
 
 
 Near Miss
-+1 to difficulty 
++1 to difficulty of ranged rolls next activation
 
 Wound
 End of turn: roll an injury and this is cured
