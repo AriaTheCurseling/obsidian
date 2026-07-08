@@ -16,10 +16,9 @@ Remove up to 3 different injuries when a model dies
 Near Miss
 +1 to difficulty of ranged rolls during next activation
 
-Sct
-
-\[2+] | 
-
+Wound
+Worsen this injury by 1d3 at end of activation
+\[2+] | Ignore | cures on 6. {free}
 
 Leg injury
 You cannot move
