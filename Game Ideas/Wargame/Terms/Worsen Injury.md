@@ -1,8 +1,3 @@
----
-aliases:
-  - worsen
-  - Worsen
----
 Makes an injury worse.
 
 To worsen an injury by X:
