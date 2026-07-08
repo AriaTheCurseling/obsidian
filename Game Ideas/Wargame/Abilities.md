@@ -6,5 +6,6 @@ vault - Your movement ignores barriers up to your model height this activation {
 Standard action
 
 
-
-Rang
+##### Passive
+Rangers Cloak - Cannot be targeted by ranged abilities if in cover
+Old - Cannot sprint
