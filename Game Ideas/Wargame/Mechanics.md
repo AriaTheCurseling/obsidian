@@ -7,3 +7,5 @@ Attack - Deal damage
 Protect - Intercept ranged abilities
 Shielding - Prevent specific dmg
 Worsen an injury by x - Look at the injury table, replace the injury with the injury x steps further
+
+Ranged roll - 

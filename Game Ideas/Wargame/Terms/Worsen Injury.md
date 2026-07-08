@@ -1,6 +1,7 @@
 ---
 aliases:
   - worsen
+  - Worsen
 ---
 Makes an injury worse.
 

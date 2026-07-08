@@ -13,31 +13,31 @@ Remove up to 3 different injuries when a model dies
 
 
 
-Near Miss
+##### Near Miss
 +1 to difficulty of ranged rolls during next activation
 
-Wound
-[[Worsen]] this injury by 1d3 at end of activation
+##### Wound
+[[Worsen Injury|Worsen]] this injury by 1d3 at end of activation
 \[2+] | Ignore | cures on 6. {free}
 
-Leg injury
+##### Leg injury
 You cannot move
 \[2+] | Ignore | cures on 6. {free}
 
-Arm injury
+##### Arm injury
 You cannot perform ranged actions
 \[2+] | Ignore | cures on 6 {free}
 
-Head injury
+##### Head injury
 You cannot perform actions
 \[2+] | Ignore | cures on 6 {free}
 
-Bleeding out
+##### Bleeding out
 End of turn: one model dies
 
 
 
-On Fire
+##### On Fire
 End of turn: Roll on the injury table
 
 
