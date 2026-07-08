@@ -3,8 +3,6 @@
 
 The dice determine well their assigned action step is performed, with modifiers. 
 
-A range increment is typically 6"
-
 Example action: Shoot
 Shoot: distance in range increments 
 
@@ -20,13 +18,6 @@ Intercept: force shots to hit this unit instead, roll vs roll
 
 
 injuries do a negative status, squads can abandon an injured member to remove the penalty. 
-
-healing may sometimes be an option. 
-
-2+ Keep stable
-6 improve condition
-
-injury table to determine injury
 
 
 
