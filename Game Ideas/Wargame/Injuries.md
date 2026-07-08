@@ -11,6 +11,10 @@ Remove up to 3 different injuries when a model dies
 7 - bleeding out
 8+ - dead
 
+
+
+
+
 Wound
 End of turn: roll an injury and this is cured
 
