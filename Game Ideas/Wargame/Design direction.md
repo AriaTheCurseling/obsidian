@@ -14,3 +14,6 @@ Rolling a six lets your clear a clogged dice for free, otherwise a clog can be c
 Crits!
 A range roll hits if its equal or higher than the distance, it crits if its equal to the distance.
 
+
+Free actions - You can attempt a free action without using an action dice. To do so, roll an additional die and assign it to the action. You must do so even if it would block it.
+
