@@ -16,18 +16,22 @@ Remove up to 3 different injuries when a model dies
 Near Miss
 +1 to difficulty of ranged rolls during next activation
 
-Wound
-End of turn: roll an injury and this is cured
+Sct
+
+\[2+] | 
+
 
 Leg injury
 You cannot move
-	\[2+] | Stem |   | Ignore this injury, cure on 6. {free}
+\[2+] | Ignore | cures on 6. {free}
 
 Arm injury
-While attacking, remove one success
+You cannot perform ranged actions
+\[2+] | Ignore | cures on 6 {free}
 
 Head injury
-During any activity, remove one success
+You cannot perform actions
+\[2+] | Ignore | cures on 6 {free}
 
 Bleeding out
 End of turn: one model dies
