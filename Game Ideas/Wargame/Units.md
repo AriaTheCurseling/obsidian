@@ -73,15 +73,15 @@ Injure up to X models in target unit
 
 	 Sorcerer - 3d6
 	 --- Maneuver ---
-	 [R] | Cast Range | 3" | Replace all instances of -" with this range
+	 [R]  | Cast Range | 3" | Replace all instances of -" with this range
 	 --- Movement ---
-	 '    | Walk      | 6" | +1 action difficulty
-	 '    | Sprint    | 6" | 
+	 '    | Walk       | 6" | +1 action difficulty
+	 '    | Sprint     | 6" | 
 	 --- Actions ---
-	 [X]  | blink     | -" | Teleport target X" 
-	 [2+] | encase    | -" | Target cannot move, but gains +1 defense
-	 [2+] | 
-	 [R]  | bolt      | 6" | Deal 1 injury to target 
+	 [X]  | blink      | -" | Teleport target X"
+	 [2+] | encase     | -" | Target gains +1 armor and can't move
+	 [2+] | highlight  | -" | Target doesn't benefit from cover and isnt slowed by terain
+	 [R]  | bolt       | 6" | Deal 1 injury to target 
 
 
 
