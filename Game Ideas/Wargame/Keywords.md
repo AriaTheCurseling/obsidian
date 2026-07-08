@@ -3,6 +3,7 @@
 
 Stationary - Cannot be done if moved this turn
 Free - Can be attempted without spending an action die
+Forced - You have to do this action every activation
 
 
 ##### Terrain
