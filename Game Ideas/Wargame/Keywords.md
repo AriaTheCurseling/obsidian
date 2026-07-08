@@ -9,4 +9,4 @@ Reaction - Can only be done immediately before the effect is important
 Difficult - half movement (round up)
 Dense - half range (round up)
 Obscuring - Can see in or out, not both
-Barrier - only characters atleast twice as tall as thi
+Barrier - only characters atleast twice as tall as this can move through
