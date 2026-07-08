@@ -12,7 +12,7 @@ Move: move roll inches
 
 Take cover: 
 
-Safeguard: prevent an injury roll of exact value
+Safeguard: Chose an injury of a lower value than the die, you are immune to that
 
 Throw: distance in range increments (typically with negative modifiers)
 
