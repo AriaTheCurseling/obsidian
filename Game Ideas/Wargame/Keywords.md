@@ -4,7 +4,9 @@ Stationary - Cannot be done if moved this activation
 Free - Can be attempted without spending an action die
 Lucky - A 1 placed here is rerolled, you must use the new value.
 Forced - You have to do this action every activation
+Reaction - Can only be done immediately before the effect is important
 ##### Terrain
 Difficult - half movement (round up)
 Dense - half range (round up)
 Obscuring - Can see in or out, not both
+Barrier - only characters atleast twice as tall as thi
