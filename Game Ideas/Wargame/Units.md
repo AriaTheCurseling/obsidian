@@ -110,5 +110,8 @@ Injure up to X models in target unit
 	--- Movement ---
 	|        | 2" | Skip | 
 	--- Actions ---
-	
+
+	Archer 2d6
+	--- Actions ---
+	[R] | Bow | 6" | Hits at +2 {free}
 

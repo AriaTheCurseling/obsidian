@@ -20,7 +20,8 @@ Wound
 End of turn: roll an injury and this is cured
 
 Leg injury
-While moving, remove one success
+You cannot move
+	\[2+] | Stem |   | Ignore this injury, cure on 6. {free}
 
 Arm injury
 While attacking, remove one success
