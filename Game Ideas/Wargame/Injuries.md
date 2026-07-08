@@ -17,7 +17,7 @@ Near Miss
 +1 to difficulty of ranged rolls during next activation
 
 Wound
-Worsen this injury by 1d3 at end of activation
+[[Worsen]] this injury by 1d3 at end of activation
 \[2+] | Ignore | cures on 6. {free}
 
 Leg injury
