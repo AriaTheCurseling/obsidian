@@ -7,5 +7,7 @@ Attack - Inlicts injuries onto the target
 Protect - Intercept ranged abilities
 Shielding - Prevents specific injuries from happening
 Worsen an injury by x - Look at the injury table, replace the injury with the injury x steps further
+Lessen an injury by x - Look at the injury table, replace the injury with the injury x steps less
+Cure an injury - Remove the injury
 
 Ranged roll - 
