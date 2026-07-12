@@ -1,5 +1,6 @@
 
 
 
-Projectiles - bullets 
-Tracking - Reduce effect based on how muchg 
+Projectiles - Simple, easy, these are usually everywhere
+
+Tracking - Reduce effect based on how much they track (soften counters)
