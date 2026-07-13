@@ -1,6 +1,12 @@
+##### Machines
+Conveyor belts
 
 
 Merge - opposing conveyors with empty middle
 Complex merge - opposing conveyors with item in the middle
+
+Split - opposing conveyors pulling an object into two
+
+
 
 
