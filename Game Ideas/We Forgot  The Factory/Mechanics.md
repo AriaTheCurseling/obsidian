@@ -8,5 +8,6 @@ Complex merge - opposing conveyors with item in the middle
 Split - opposing conveyors pulling an object into two
 
 
-
+Timed - Something happens after x time steps
+Shaking - Something happens after x turns
 
