@@ -9,11 +9,6 @@ Ideally the most effective gameplay is when both use the buff, ways to encourage
 
 ##### Grappler
 Core ability lets the player grab allies and parts of enemies.
-- Combbin
+- Combines with grappling hook to pull or carry
+- Combines with dash to carry allies
 
-Grappling hook pulls user to terrain or allies to user.
-Dash picks allies up and puts them down at the end of it.
-Grappling to cancel dash brings ally along.
-
-
-Can be used to grab stuff, pulling allies or objects to you or you to terrain
