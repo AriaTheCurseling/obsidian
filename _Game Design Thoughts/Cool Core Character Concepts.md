@@ -12,3 +12,4 @@ Core ability lets the player grab allies and parts of enemies.
 - Combines with grappling hook to pull or carry
 - Combines with dash to carry allies
 
+
