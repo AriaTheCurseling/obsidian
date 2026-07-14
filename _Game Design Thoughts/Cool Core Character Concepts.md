@@ -8,7 +8,8 @@ Ideally the most effective gameplay is when both use the buff, ways to encourage
 2. Duplicate the buff when shared (both players can have the same buff at the same time)
 
 ##### Grappler
-Core concept of moving allies about.
+Core ability lets the player grab allies and parts of enemies.
+- Combbin
 
 Grappling hook pulls user to terrain or allies to user.
 Dash picks allies up and puts them down at the end of it.
