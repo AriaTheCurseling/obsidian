@@ -12,5 +12,9 @@ Timed - Something happens after x time steps
 Shaking - Something happens after x turns
 
 ##### Things Other games have that might be worth stealing
-Multi item recipes
-- We can do 2 or 
+- Multi item recipes
+	- We can do 2 or 3 to one, can we do 10 or 100 to 1?
+- Resource collection
+	- Look at minecraft, complex collection is great
+- Power generation
+- Control systems
