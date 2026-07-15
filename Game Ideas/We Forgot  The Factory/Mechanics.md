@@ -26,5 +26,8 @@ Collect - Opposite of above
 	- We can do 2 or 3 to one, can we do 10 or 100 to 1?
 - Resource collection
 	- Look at minecraft, complex collection is great
+	- Use items to mine
+		- Bombs
+		- Seeds
 - Power generation
 - Control systems
