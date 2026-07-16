@@ -1,3 +1,7 @@
+!!! No storage
+
+
+
 Cooking
 Mining
 General Manufacturing
