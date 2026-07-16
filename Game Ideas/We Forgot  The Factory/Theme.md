@@ -1,4 +1,5 @@
-!!! No storage
+Minimal storage, focus on throughput
+- Most items should have timers
 
 
 
