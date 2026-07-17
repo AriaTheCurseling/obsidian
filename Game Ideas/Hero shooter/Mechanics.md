@@ -7,5 +7,6 @@ Tracking - Reduce effect based on how much they track (soften counters)
 Splitting - Destroying abilities
 
 
-
+##### Debuffs
 Stumble - Half distance next or current dash
+Knockback - Pushing enemies backwards
