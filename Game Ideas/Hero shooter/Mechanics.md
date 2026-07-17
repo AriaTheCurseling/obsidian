@@ -11,4 +11,4 @@ Splitting - Destroying abilities
 Stumble - Half distance next or current dash
 Knockback - Pushing enemies backwards
 - Pushback - Gentle non interrupting knockback
-- Blastbback
+- Blastback - Strong knockback with short ragdoll
