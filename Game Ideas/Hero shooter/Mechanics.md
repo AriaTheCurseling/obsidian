@@ -10,3 +10,5 @@ Splitting - Destroying abilities
 ##### Debuffs
 Stumble - Half distance next or current dash
 Knockback - Pushing enemies backwards
+- Pushback - Gentle non interrupting knockback
+- Blastbback
