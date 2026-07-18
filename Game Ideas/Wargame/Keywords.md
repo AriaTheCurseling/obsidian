@@ -5,6 +5,8 @@ Stationary - Cannot be done if moved this activation
 [[Lucky Action|Lucky]] - A 1 placed here is rerolled, you must use the new value.
 Forced - You have to do this action every activation
 Reaction - Can only be done immediately before the effect is important
+
+Assist - Each 6 forgives a failiure (for squad actio)
 ##### Terrain
 Difficult - half movement (round up)
 Dense - half range (round up)
