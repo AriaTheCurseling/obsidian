@@ -17,4 +17,7 @@ A range roll hits if its equal or higher than the distance, it crits if its equa
 
 Free actions - You can attempt a free action without using an action dice. To do so, roll an additional die and assign it to the action. You must do so even if it would block it.
 
+Highly positional actions should generally be free - Vaulting, Melee
+
 No Tables!!!
+
