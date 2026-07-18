@@ -6,7 +6,8 @@ Stationary - Cannot be done if moved this activation
 Forced - You have to do this action every activation
 Reaction - Can only be done immediately before the effect is important
 
-Assist - Each 6 forgives a failiure (for squad actio)
+Assist - Each 6 forgives a failiure (for squad actions)
+Horde Assist - 5 and 6 forgives a failiure
 ##### Terrain
 Difficult - half movement (round up)
 Dense - half range (round up)
