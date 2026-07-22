@@ -8,7 +8,11 @@ Dash
 - On stop: stop Grab
 
 
-
+on hit -> first -> grab
+	mutual stop
+	on wall -> stun, stop
+	on hit -> knock sideways
+on wall -> stop
 
 
 mutual stop
