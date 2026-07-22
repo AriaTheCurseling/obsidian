@@ -1,12 +1,17 @@
-
-
-projectiles
-beams
-dashes
+Need to know -> source
 
 
 
-effects
+existing - Use the preexisting hitbox
+- dash 
+
+spawn - Create something with a hitbox
+- Projectile
+- Beam
+- Barrior
+
+effects - applies to units
 - Deal damage
 - Impose State
-- Imp
+- Impose Buff/Debuff
+- Knockback
