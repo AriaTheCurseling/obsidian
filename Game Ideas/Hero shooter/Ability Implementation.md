@@ -1,5 +1,19 @@
 Need to know -> source
 
+Dash
+- On hit: Grab, dmg
+	- On Wall: Stun, stop dash
+	- On Hit: knock sideways
+- On wall: stop dash
+- On stop: stop Grab
+
+
+
+
+
+mutual stop
+directional stop
+
 unit
 - Dash
 - AOE
