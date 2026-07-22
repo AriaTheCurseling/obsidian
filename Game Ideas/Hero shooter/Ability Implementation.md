@@ -1,9 +1,14 @@
 Need to know -> source
 
+unit, aimpoint, aimdirection, movedirection
 
+continous or event
+events 
+- Hits unit
+- Hits wall
 
 existing - Use the preexisting hitbox
-- dash 
+- dash (unit, vector3)
 
 spawn - Create something with a hitbox
 - Projectile
