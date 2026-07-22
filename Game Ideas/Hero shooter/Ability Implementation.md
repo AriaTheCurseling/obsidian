@@ -1,11 +1,14 @@
 Need to know -> source
 
-unit, aimpoint, aimdirection, movedirection
+unit
+- Dash
+- AOE
 
 continous or event
 events 
 - Hits unit
 - Hits wall
+- Hits ground
 
 existing - Use the preexisting hitbox
 - dash (unit, vector3)
