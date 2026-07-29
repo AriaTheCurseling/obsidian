@@ -12,4 +12,3 @@
 25.8 10:00 - 13:00 | Volunteer at thrift shop - tell them i wont be there next week
 28.8                       | Lucy is here ♡
 06.9                       | Lucy will leave me ☠
-
