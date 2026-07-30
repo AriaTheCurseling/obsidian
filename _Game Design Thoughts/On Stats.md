@@ -63,11 +63,13 @@ can easily be automaticly calculated by using a time to fully regen metric
 
 # The nitty gritty
 
+just do layers?
 
 How to set stats?
 additive addition        > bonus
 additive muliplication > augment
 additive division          > quell
+
 multiplicative multiplication as negatives?
 
 maximum > cap
