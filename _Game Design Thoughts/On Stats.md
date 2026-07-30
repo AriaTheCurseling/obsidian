@@ -53,3 +53,19 @@ A way to tie all resources together by making regeneration cause exhaustion, the
 the faster another bar regenerates the more its effected by exhaustion, health usually regenerates slowly (if it regenerates at all) so exhaustion has little effect, stamina regenerates fast so is highly affected by exhaustion. 
 
 can easily be automaticly calculated by using a time to fully regen metric
+
+
+
+
+
+
+
+
+# The nitty gritty
+
+
+How to set stats?
+additive addition
+additive muliplication > boost
+multiplicative addition
+multiplicative multiplication
