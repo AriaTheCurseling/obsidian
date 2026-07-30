@@ -66,6 +66,10 @@ can easily be automaticly calculated by using a time to fully regen metric
 
 How to set stats?
 additive addition
-additive muliplication > boost
+additive muliplication > augment
+additive division          > curtail
 multiplicative addition
 multiplicative multiplication
+
+maximum > cap
+minimum > root
