@@ -7,7 +7,7 @@
 	- Spots should fade with time
 	- Include a death marker on death of spotted enemy
 - Snipers are annoying
-	- Range advantages
+	- Range advantages suck with dmg drop-off and accuracy disparity
 - Vehicles
 	- Weakspots and partial failures
 	- Need to be realistically killable by infantry (not easily, but possible)
