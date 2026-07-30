@@ -65,11 +65,10 @@ can easily be automaticly calculated by using a time to fully regen metric
 
 
 How to set stats?
-additive addition
+additive addition        > bonus
 additive muliplication > augment
-additive division          > curtail
-multiplicative addition
-multiplicative multiplication
+additive division          > quell
+multiplicative multiplication as negatives?
 
 maximum > cap
 minimum > root
