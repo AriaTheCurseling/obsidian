@@ -6,3 +6,5 @@
 	- A spot should only update while an ally can see the target
 	- Spots should fade with time
 	- Include a death marker on death of spotted enemy
+- Snipers are annoying
+	- Range 
