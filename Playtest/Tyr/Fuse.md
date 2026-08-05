@@ -11,3 +11,5 @@ I like the fuse overall, but I have some minor pains with the ability.
 
 
 limit of 3
+
+ANIMATION LOCKKK
