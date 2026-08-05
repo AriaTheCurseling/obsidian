@@ -10,6 +10,13 @@ Visual Clarity:
 Doesnt zoom out far enought during ability cast, cant see the full area when using it as a line
 
 
+Feels like a defensive ability but mainly useful offensively, you're likely to shoot yourself in the foot trying to use it defensively
+
+
+
+
+
+
 
 Playing as the tank:
 
