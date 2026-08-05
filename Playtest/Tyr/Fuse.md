@@ -9,6 +9,8 @@ I like the fuse overall, but I have some minor pains with the ability.
 1. Attached missiles hide armor penetration
 2. Gun depression on laser guiding feels bad
 
+want rapid fire missile barage
+
 
 limit of 3
 
