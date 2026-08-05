@@ -1,1 +1,4 @@
-Cant aim below turret angle
+Cant aim below turret angle, kinda sucks
+
+Missiles attached blocks visibility of weakspots
+
