@@ -7,6 +7,7 @@ Visual Clarity:
 	- I'd suggest the smoke darkening from top to bottom as a visual progress bar
 	- This will make supporting allies easier, as they dont
 
+Doesnt zoom out far enought during ability cast, cant see the full area when using it as a line
 
 
 
