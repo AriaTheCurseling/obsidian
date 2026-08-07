@@ -1,8 +1,8 @@
 
 
-Maul - Highly positional, High cost, Melee
-Fortis - Area denial, Highly telegraphed, Easily avoidable, Shoots Backwards
-Fuse - Disables Gun, Somewhat telegraphed, AOE
+Maul - Highly positional, Melee
+Fortis - Positional, Highly telegraphed, Easily avoidable, Area denial, Melee, Shoots Backwards
+Fuse - Disables Gun, Somewhat telegraphed
 Arbalest - Bonus damage, Token weakness
 
 
