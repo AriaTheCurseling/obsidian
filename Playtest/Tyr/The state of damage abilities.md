@@ -1,9 +1,11 @@
 
+##### Negatives of each ability
+Maul - Positional, Hazardous, Predictable 
+Fortis - Positional, Telegraphed, Avoidable
+Fuse - Disables Gun, Telegraphed, Avoidable
+Arbalest - Disables Movement
 
-Maul - Highly positional, 
-Fortis - Positional, Always Telegraphed, Easily avoidable, Area denial, Melee, Shoots Backwards
-Fuse - Disables Gun, Telegraphed
-Arbalest - Bonus damage, Token weakness
+
 
 
 Free damage button
