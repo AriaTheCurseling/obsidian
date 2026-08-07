@@ -1,7 +1,7 @@
 
 
-
-Fortis - Area denial
+Maul - Highly positional, High cost, Melee
+Fortis - Area denial, Highly telegraphed, Easily avoidable
 Fuse - 
 
 
