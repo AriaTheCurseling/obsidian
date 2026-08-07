@@ -1,7 +1,7 @@
 
 
 Maul - Highly positional, High cost, Melee
-Fortis - Area denial, Highly telegraphed, Easily avoidable
+Fortis - Area denial, Highly telegraphed, Easily avoidable, Shoots Backwards
 Fuse - 
 
 
