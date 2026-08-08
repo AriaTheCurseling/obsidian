@@ -29,3 +29,7 @@ couples game
 
 Co-op Mech extraction game, all gameplay happens inside the mech. You control a character that can move about the internals of the mech. There are many tactile things to interact with such as reloads, repairs, refueling, radar scans and etc.
 
+- Controls:
+	- Start Interaction button + shoot + enable
+	- WASD or left stick move character OR object interacted with 
+	- Mouse or right stick look around
