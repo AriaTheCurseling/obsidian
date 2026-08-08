@@ -1,0 +1,11 @@
+Co-op Mech extraction game, all gameplay happens inside the mech. You control a character that can move about the internals of the mech. There are many tactile things to interact with such as reloads, repairs, refueling, radar scans and etc. Plays slowly.
+- Seats
+	- Pilot seat - moves the mech
+	- Gunner seat - Controls a gun
+	- Extractor seat - Harvesting
+	- Spotters scope - Wire track missiles
+- Tasks
+	- Reload guns
+	- Fire missiles
+	- Process resources
+	- Refuel furnace
