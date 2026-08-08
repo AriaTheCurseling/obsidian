@@ -26,3 +26,6 @@ We Forgot The Factory
 
 couples game
 [https://www.youtube.com/shorts/GdGYk69Zvoo?feature=share](https://www.youtube.com/shorts/GdGYk69Zvoo?feature=share "https://www.youtube.com/shorts/GdGYk69Zvoo?feature=share")
+
+Co-op Mech extraction game, all gameplay happens inside the mech. You control a character that can move about the internals of the mech. There are many tactile things to interact with such as reloads, repairs, refueling, radar scans and etc.
+
