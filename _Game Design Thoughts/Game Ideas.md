@@ -47,4 +47,4 @@ Roguelite monster hunter game
 - You harvest plants and animals along the way
 - weapons
 - - Bow and knife with arrow types
-- - Double 
+- - Double knife chain
