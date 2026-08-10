@@ -42,6 +42,4 @@ Co-op Mech extraction game, all gameplay happens inside the mech. You control a 
 
 
 Roguelite monster hunter game
-- Unique weapons
-- 
 - 
