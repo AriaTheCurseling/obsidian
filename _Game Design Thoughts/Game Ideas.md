@@ -42,4 +42,6 @@ Co-op Mech extraction game, all gameplay happens inside the mech. You control a 
 
 
 Roguelite monster hunter game
+- Start with weapon and ability
+- A game consists of multple rounds, each hunting a bigger monster
 - 
