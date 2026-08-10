@@ -45,3 +45,6 @@ Roguelite monster hunter game
 - Start with weapon and ability
 - A game consists of multple rounds, each hunting a bigger monster
 - You harvest plants and animals along the way
+- weapons
+- - Bow and knife with arrow types
+- - Double 
