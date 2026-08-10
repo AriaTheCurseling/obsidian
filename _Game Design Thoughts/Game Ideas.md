@@ -48,3 +48,5 @@ Roguelite monster hunter game
 - weapons
 - - Bow and knife with arrow types
 - - Thread and needle
+- - Woodworking Saw
+- - 
