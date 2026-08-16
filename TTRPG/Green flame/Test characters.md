@@ -3,13 +3,16 @@
 HP \[]\[]\[] \[]\[]\[] \[]\[]\[]
 Finding creatures
 Herder
-
+inventory
+- beautiful silver mirror blackened
 
 2 Clay
 HP \[]\[]\[] \[]\[]\[] \[]\[]\[]
 Rope/net making
 Fisher
-Kniv
+inventory
+- Knife
+- 
 
 
 palle - brygmester
