@@ -10,6 +10,7 @@ Rope/net making
 Fisher
 
 
+palle - brygmester
 
 mia 
 tali
