@@ -16,7 +16,7 @@ inventory
 - Knife
 - 10ft rope
 - Travel coat - old
-- Waters
+- Waterskin
 
 
 palle - brygmester
