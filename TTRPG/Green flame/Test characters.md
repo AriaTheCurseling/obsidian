@@ -1,5 +1,5 @@
 
-1 Malina
+1 Malia
 HP \[]\[]\[] \[]\[]\[] \[]\[]\[]
 Finding creatures
 Herder
@@ -9,12 +9,12 @@ inventory
 - Waterskin
 
 2 Clay
-HP \[]\[]\[] \[]\[]\[] \[]\[]\[]
+HP \[x]\[x]\[] \[]\[]\[] \[]\[]\[]
 Rope/net making
 Fisher
 inventory
 - Knife
-- 10ft rope
+- 30ft rope
 - Travel coat - old
 - Waterskin
 
@@ -22,7 +22,7 @@ inventory
 palle - brygmester
 
 mia 
-tali
+tanni - trees
 
 ashnii - hunter
 kenneth - camping
