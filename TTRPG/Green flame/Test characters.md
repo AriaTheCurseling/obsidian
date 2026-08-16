@@ -10,8 +10,10 @@ Rope/net making
 
 
 
+
 Ulla - 
 Tormund - Exporter
 
+Gamre - fisker - forsvinder ofte
+osleg - gifter sine børnebørn væk
 
-Gamre - fisker - for
