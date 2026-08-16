@@ -4,10 +4,12 @@ HP \[]\[]\[] \[]\[]\[] \[]\[]\[]
 Finding creatures
 Herder
 
+
 2 Clay
 HP \[]\[]\[] \[]\[]\[] \[]\[]\[]
 Rope/net making
 Fisher
+Kniv
 
 
 palle - brygmester
