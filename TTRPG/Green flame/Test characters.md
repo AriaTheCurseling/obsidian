@@ -31,3 +31,4 @@ trontberg - biggest town
 skyggely - second biggest
 
 uslia - forsvundet
+- rolf - partner, bor i skyggely
