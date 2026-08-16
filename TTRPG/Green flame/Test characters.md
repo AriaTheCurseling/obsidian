@@ -10,6 +10,8 @@ Rope/net making
 
 
 
+ashnii - hunter
+kenneth - camping
 
 Ulla - 
 Tormund - Exporter
@@ -17,3 +19,9 @@ Tormund - Exporter
 Gamre - fisker - forsvinder ofte
 osleg - gifter sine børnebørn væk
 
+
+Ergård - close fq
+
+
+trontberg - biggest town
+skyggely - second biggest
