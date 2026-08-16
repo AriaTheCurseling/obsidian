@@ -1,7 +1,7 @@
 
 1 Malina
 HP \[]\[]\[] \[]\[]\[] \[]\[]\[]
-Finding thing
+Finding things
 
 2 Clay
 HP \[]\[]\[] \[]\[]\[] \[]\[]\[]
