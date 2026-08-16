@@ -12,3 +12,6 @@ Rope/net making
 
 Ulla - 
 Tormund - Exporter
+
+
+Gamre - fisker - for
