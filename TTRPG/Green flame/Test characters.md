@@ -12,7 +12,7 @@ Rope/net making
 Fisher
 inventory
 - Knife
-- 
+- 10ft rope
 
 
 palle - brygmester
@@ -23,7 +23,7 @@ tali
 ashnii - hunter
 kenneth - camping
 
-Ulra - 
+Ulla - grandmother
 Tormund - Exporter
 
 Gamre - fisker - forsvinder ofte
