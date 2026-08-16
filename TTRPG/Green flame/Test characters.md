@@ -2,10 +2,14 @@
 1 Malina
 HP \[]\[]\[] \[]\[]\[] \[]\[]\[]
 Finding creatures
+Herder
 
 2 Clay
 HP \[]\[]\[] \[]\[]\[] \[]\[]\[]
 Rope/net making
+Fisher
+
+
 
 mia 
 tali
