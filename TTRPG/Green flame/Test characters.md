@@ -1,7 +1,8 @@
 
 1 Malina
-HP \[]\[]\[]\[]\[]\[]\[]\[]\[]
-Climbing
+HP \[]\[]\[] \[]\[]\[] \[]\[]\[]
+Dealing with bad luck
 
 2 Clay
-HP \[]\[]\[]\[]\[]\[]\[]\[]\[]
+HP \[]\[]\[] \[]\[]\[] \[]\[]\[]
+Rope/net making
