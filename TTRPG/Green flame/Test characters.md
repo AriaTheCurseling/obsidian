@@ -5,6 +5,7 @@ Finding creatures
 Herder
 inventory
 - beautiful silver mirror blackened
+- Travel coat - old
 
 2 Clay
 HP \[]\[]\[] \[]\[]\[] \[]\[]\[]
@@ -13,6 +14,7 @@ Fisher
 inventory
 - Knife
 - 10ft rope
+- Travel coat - old
 
 
 palle - brygmester
