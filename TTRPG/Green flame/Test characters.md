@@ -8,8 +8,10 @@ inventory
 - Travel coat - old
 - Waterskin
 
+5 stress
+
 2 Clay
-HP \[x]\[x]\[] \[]\[]\[] \[]\[]\[]
+HP \[x]\[x]\[x] \[x]\[x]\[x] \[x]\[x]\[x]
 Rope/net making
 Fisher
 inventory
