@@ -49,4 +49,5 @@ Roguelite monster hunter game
 - - Bow and knife with arrow types
 - - Thread and needle
 - - Woodworking Saw
-- - 
+- - Glassblower spear/blowgun
+- - Scalpel spear
