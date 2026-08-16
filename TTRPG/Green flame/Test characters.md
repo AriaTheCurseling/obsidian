@@ -6,6 +6,7 @@ Herder
 inventory
 - beautiful silver mirror blackened
 - Travel coat - old
+- Waterskin
 
 2 Clay
 HP \[]\[]\[] \[]\[]\[] \[]\[]\[]
@@ -15,6 +16,7 @@ inventory
 - Knife
 - 10ft rope
 - Travel coat - old
+- Waters
 
 
 palle - brygmester
