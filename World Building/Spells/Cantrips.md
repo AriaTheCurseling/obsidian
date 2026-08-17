@@ -34,3 +34,19 @@ Practicioners typically impose a familiar location upon the day dream generated 
 -focus (during cast)
 recall with no focus penalty
 
+
+
+
+Sharpness
+Sever 1 - Concentration
+
+Enchants a weapon, making it cut easier.
+
+Dismiss: return 1 sever
+
+
+
+Separate channeled magic
+Sever 1 - Instance
+
+Separate a channeled spell from its controller
