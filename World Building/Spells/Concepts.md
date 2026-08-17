@@ -9,3 +9,10 @@ Orient
 Positioning and direction, both physical and ephemeral
 
 Rage
+
+
+Parting (cutting, leaving, separating)
+Turning one thing into two, leaving or splitting. Both physical and conceptual
+
+
+
