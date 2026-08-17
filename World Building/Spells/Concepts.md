@@ -11,7 +11,7 @@ Positioning and direction, both physical and ephemeral
 Rage
 
 
-Parting (cutting, leaving, separating)
+Parting (cutting, leaving, separating, death)
 Turning one thing into two, leaving or splitting. Both physical and conceptual
 
 
