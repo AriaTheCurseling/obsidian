@@ -8,3 +8,4 @@ Can boost or hinder perception, cause paralysis, manipulate thought and emotion.
 Orient
 Positioning and direction, both physical and ephemeral
 
+Rage
