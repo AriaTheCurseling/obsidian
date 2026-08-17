@@ -19,3 +19,4 @@ Sever (parting, cutting, leaving, separating, death)
 Turning one thing into two, leaving or splitting. Both physical and conceptual
 
 Impact (break, mash, quell)
+- the sudden stop, a
