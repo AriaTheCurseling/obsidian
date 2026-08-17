@@ -12,7 +12,8 @@ Rage
 
 
 
-Piercing (bypassing defenses, )
+Piercing (bypassing defenses, entering without permission, impossible to ignore, penetrating)
+
 
 Severing (parting, cutting, leaving, separating, death)
 Turning one thing into two, leaving or splitting. Both physical and conceptual
