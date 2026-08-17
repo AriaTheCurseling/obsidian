@@ -12,11 +12,10 @@ Rage
 
 
 
-Piercing (bypassing defenses, entering without permission, impossible to ignore, penetrating)
+Pierce (bypassing defenses, entering without permission, impossible to ignore, penetrating)
 
 
-Severing (parting, cutting, leaving, separating, death)
+Sever (parting, cutting, leaving, separating, death)
 Turning one thing into two, leaving or splitting. Both physical and conceptual
 
-
-
+Impact (break, mash, quell)
