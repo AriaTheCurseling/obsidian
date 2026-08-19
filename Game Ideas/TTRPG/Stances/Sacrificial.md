@@ -1,3 +1,4 @@
+#stance 
 *Trading blow for blow, none where left standing*
 
 -2 AC
