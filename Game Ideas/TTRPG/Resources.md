@@ -10,3 +10,7 @@ stamina is spent more sparingly, abstracting exersion both physical and magical.
 endurance is considered a costly resource, covering long term costs. 
 
 
+
+
+
+AC 
