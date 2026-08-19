@@ -1,4 +1,4 @@
-
+Blow for Blo
 
 -2 AC
-Attack any ene
+Attack any enemy who damages you with -4
