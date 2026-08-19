@@ -1,6 +1,6 @@
 #stance #teamwork
-Choose an ally
+Choose an adjacent ally
 
 They have +2 AC against enemies adjacent to you and ranged attacks passing through a space adjacemt to you. 
 
-You may move with that
+You may move with that ally
