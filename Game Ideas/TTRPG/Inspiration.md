@@ -9,6 +9,8 @@ Mythras
 - Action points 2~3
 - Action types: Proactive, Reactive, Free
 - Cycles - 1 proactive action at a time
+- Attack specials - Whats your goal with the attack?
+- Op
 
 
 

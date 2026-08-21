@@ -9,4 +9,4 @@ Spear difficulty
 Thrown - 8 + distance (squares)
 
 Maybe too complex? I am a fan of the distance difficulty.
-Its static, which excuses some complexity, but mayb
+Its static, which excuses some complexity, but maybe instead a "too close" negative modifier?
