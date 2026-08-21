@@ -15,6 +15,7 @@ Its static, which excuses some complexity, but maybe instead a "too close" negat
 
 Flow:
 Choose what you do (I attack with my sword)
+Rules or GM sets difficulty
 Roll
 Choose a modifier (I hit them in the head, I stab through a gap in their armor...)
 
