@@ -19,6 +19,5 @@ Descend
 - Rolls dmg vs dmg reduction
 
 
-
-
 Tenra Bansho Zero
+- Everything is even opposed rolls
