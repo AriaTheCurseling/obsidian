@@ -23,3 +23,8 @@ Descend
 
 Tenra Bansho Zero
 - Everything is even opposed rolls
+
+
+Edge of the empire
+- Incidental, Maneuver, Action
+- Roughtly: Free, No-roll, roll
