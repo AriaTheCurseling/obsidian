@@ -7,3 +7,6 @@ Spear difficulty
 5ft - 11
 10ft - 7
 Thrown - 8 + distance (squares)
+
+Maybe too complex? I am a fan of the distance difficulty.
+Its static, which excuses some complexity, but mayb
