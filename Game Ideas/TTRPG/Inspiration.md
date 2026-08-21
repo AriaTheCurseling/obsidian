@@ -16,6 +16,7 @@ Descend
 - Rest action recovers AT END OF TURN
 - The hex class is awesome
 - Stamina heavy systems rule
+- Rolls dmg vs dmg reduction
 
 
 
