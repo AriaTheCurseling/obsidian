@@ -10,7 +10,7 @@ Mythras
 - Action types: Proactive, Reactive, Free
 - Cycles - 1 proactive action at a time
 - Attack specials - Whats your goal with the attack?
-- Op
+- Opposed rolls: Highest wins, but discard above your skill
 
 
 
