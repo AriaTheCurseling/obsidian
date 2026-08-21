@@ -8,3 +8,9 @@ Mythras
 - Round is 5 seconds
 - Action points 2~3
 - Action types: Proactive, Reactive, Free
+- Cycles - 1 proactive action at a time
+
+
+
+Descend
+- Rest action recovers AT END OF TURN
