@@ -10,3 +10,14 @@ Thrown - 8 + distance (squares)
 
 Maybe too complex? I am a fan of the distance difficulty.
 Its static, which excuses some complexity, but maybe instead a "too close" negative modifier?
+
+
+
+Flow:
+Choose what you do (I attack with my sword)
+Roll
+Choose a modifier (I hit them in the head, I stab through a gap in their armor...)
+
+I like the modifier idea, it adds a good place for a lot of progression (unlocking modifiers)
+Actions are shared, everyone can pick up a sword and swing it, some people can swing it well
+
