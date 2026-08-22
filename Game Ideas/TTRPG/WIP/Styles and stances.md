@@ -1,4 +1,9 @@
 
 
 A stance should consist of
-g
+- Attitude
+- Focus
+- Action
+
+What are you focused on?
+How are you approaching combat? 
