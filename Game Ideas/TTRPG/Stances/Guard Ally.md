@@ -1,4 +1,5 @@
 #stance #teamwork
+Her
 Choose an adjacent ally to protect. 
 
 ###### Shield Ally
