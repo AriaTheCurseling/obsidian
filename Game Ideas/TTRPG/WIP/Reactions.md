@@ -4,3 +4,6 @@ In practice there are often issues where reactions break the flow of the game, l
 
 As such, the base concept of this reaction system is to limit interuptions and decision time. 
 
+We attempt to achieve this in two ways. 
+1. Bundling decisions
+instead of making a decision each time someone does some
