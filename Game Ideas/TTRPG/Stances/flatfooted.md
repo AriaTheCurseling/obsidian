@@ -3,4 +3,4 @@
 
 A character in this stance is considered to be unaware and unprepared for combat. 
 
-You do not manage to react
+You do not manage to react in an actionable way this round. 
