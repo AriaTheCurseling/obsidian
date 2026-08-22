@@ -1,0 +1,1 @@
+*The knife sought an oppening*
