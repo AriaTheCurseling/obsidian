@@ -1,8 +1,6 @@
 #stance #teamwork
 Choose an adjacent ally to protect. 
 
-You may apply your shield bonus to their AC whenever they are atta
+You may apply your shield bonus to their AC whenever they are attacked from or through a square adjacent to you. 
 
-They have +2 AC against enemies adjacent to you and ranged attacks passing through a space adjacemt to you. 
-
-You may move with that ally
+You may move to follow when they mov
