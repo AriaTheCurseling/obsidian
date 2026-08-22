@@ -1,5 +1,6 @@
 #stance #teamwork
-Her
+*A shield amidst the fighting, interposed between friend and foe*
+
 Choose an adjacent ally to protect. 
 
 ###### Shield Ally
