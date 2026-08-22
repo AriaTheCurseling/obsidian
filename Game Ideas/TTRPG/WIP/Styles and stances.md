@@ -7,3 +7,5 @@ A stance should consist of
 
 What are you focused on?
 How are you approaching combat? 
+What kind of actions are you taking? 
+
