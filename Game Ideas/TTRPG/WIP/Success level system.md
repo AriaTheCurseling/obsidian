@@ -24,4 +24,5 @@ Actions are shared, everyone can pick up a sword and swing it, some people can s
 
 
 
-Lets call the modifications variations instead, so you have your sword strike variations
+Alternate names for modifications would be adjustments or variations. 
+
