@@ -22,3 +22,6 @@ Choose a modifier (I hit them in the head, I stab through a gap in their armor..
 I like the modifier idea, it adds a good place for a lot of progression (unlocking modifiers)
 Actions are shared, everyone can pick up a sword and swing it, some people can swing it well
 
+
+
+Lets call the modifications variations instead, so you have your sword strike variations
