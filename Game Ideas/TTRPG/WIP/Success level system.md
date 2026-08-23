@@ -23,6 +23,7 @@ I like the modifier idea, it adds a good place for a lot of progression (unlocki
 Actions are shared, everyone can pick up a sword and swing it, some people can swing it well
 
 
+Alternate names for modifications would be adjustments, alteration, variants or variations. 
 
-Alternate names for modifications would be adjustments, alteration or variations. 
+
 
