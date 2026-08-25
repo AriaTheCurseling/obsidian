@@ -25,5 +25,7 @@ Actions are shared, everyone can pick up a sword and swing it, some people can s
 
 Alternate names for modifications would be adjustments, alteration, variants or variations. 
 
+Act -> Roll -> Adjust
+
 
 

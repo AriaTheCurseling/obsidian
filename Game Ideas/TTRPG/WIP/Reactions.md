@@ -8,7 +8,7 @@ We attempt to achieve this in two ways.
 1. Bundling decisions
 instead of making a decision each time someone does something, you make one big decision during your turn that then determines how you react in all the small moments. 
 2. Limiting rolls
-Rolling takes time, adds suspense and celebbration. Most actions already require a roll so if your reaction directly affects the action it interupts, we can apply a modifier instead. 
+Rolling takes time, adds suspense and celebration. Most actions already require a roll so if your reaction directly affects the action it interrupts, we can apply a modifier instead. 
 
 Alternatively, rolls too can be bundled, perhaps reducing the value each time it is used as part of the same round?
 
