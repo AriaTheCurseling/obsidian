@@ -1,1 +1,3 @@
-Damage in most games is boring - nothing mire than a progressbar 
+Damage in most games is boring - nothing more than a progressbar towards death
+
+I want a more interesting dmg system. While the final destination might still be death, i want 
