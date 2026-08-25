@@ -1,0 +1,1 @@
+Damage in most games is boring - nothing mire than a progressbar 
