@@ -7,3 +7,7 @@ Location of damage - Give status effects locations where possible
 
 These may not always be vital, but work well for informing RP
 
+So, dmg mainly as endurance/stamina/stress or status effects
+
+
+
