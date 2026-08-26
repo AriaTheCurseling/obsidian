@@ -32,3 +32,9 @@ Edge of the empire
 
 The riddle of steel
 - Has list of specific attack options, good reference for attack alterations
+
+Blades in the dark
+- Players choose stat to roll with
+- Explicitly say what their goal with an action is
+- DM chooses difficulty + effectiveness
+- Has an explicit "You succeed with a consequence" outcome
