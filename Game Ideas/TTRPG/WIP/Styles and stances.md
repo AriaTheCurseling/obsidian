@@ -11,5 +11,7 @@ What kind of actions are you taking?
 
 Standerdize attitudes
 
-sacrificial - 
+sacrificial - offensive - neutral - defensive - evasive
+
+This scale governs how things affect you, each stance is associated wi
 
