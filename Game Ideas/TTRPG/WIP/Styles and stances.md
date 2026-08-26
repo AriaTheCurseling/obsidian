@@ -13,5 +13,8 @@ Standerdize attitudes
 
 sacrificial - offensive - neutral - defensive - evasive
 
-This scale governs how things affect you, each stance is associated wi
+This scale governs how things affect you, each stance is associated with an attitude to combat, and some adjustments nudge or overwrite your attitude. 
+
+Focus:
+Focus describes what you're paying attention to, and
 
