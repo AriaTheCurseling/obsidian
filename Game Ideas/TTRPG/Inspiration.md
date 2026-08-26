@@ -29,3 +29,6 @@ Edge of the empire
 - Incidental, Maneuver, Action
 - Roughtly: Free, No-roll, roll
 - Can strain for second maneuver
+
+The riddle of steel
+- 
