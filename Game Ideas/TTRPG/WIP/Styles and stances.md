@@ -11,7 +11,7 @@ What kind of actions are you taking?
 
 
 
-sacrificial - willing to en
-
+sacrificial - willing to suffer if it meanst accomplishing their task
+gambler - 
 evasive
 
