@@ -31,4 +31,4 @@ Edge of the empire
 - Can strain for second maneuver
 
 The riddle of steel
-- 
+- Has list of specific attack options, good reference for attack alterations
