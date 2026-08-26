@@ -1,0 +1,7 @@
+
+
+
+Progression through
+- Stances
+- Adjustments
+
