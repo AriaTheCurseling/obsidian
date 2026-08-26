@@ -11,5 +11,7 @@ What kind of actions are you taking?
 
 
 
+sacrificial - willing to
 
+evasive
 
