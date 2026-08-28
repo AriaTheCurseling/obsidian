@@ -6,7 +6,7 @@ Real life
 - - 14% loss is mostly symptomless
 - - 15-30% mild symproms
 - - 30-40% confusion, disorientation
-- - 20
+- - 40% pass out
 - - 50% loss is death
 
 
