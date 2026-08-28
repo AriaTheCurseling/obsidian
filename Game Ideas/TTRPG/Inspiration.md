@@ -4,7 +4,7 @@ Real life
 - Armored 3 to 10 minutes
 - Blood loss
 - - 14% loss is mostly symptomless
-- 
+- - 50% loss is death
 
 
 Mythras
