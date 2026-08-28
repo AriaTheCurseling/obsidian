@@ -13,7 +13,8 @@ Real life
 - - 60 sec dead
 - Poison
 - - Blood thinners (change blood threshold)
-- 
+- Wound bleed types
+- - Arterial - venous - capillary
 
 
 Mythras
