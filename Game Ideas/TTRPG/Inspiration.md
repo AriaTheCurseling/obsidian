@@ -15,6 +15,9 @@ Real life
 - - Blood thinners (change blood threshold)
 - Wound bleed types
 - - Arterial - venous - capillary
+- Stamina
+- - Recovery vs loss
+- 
 
 
 Mythras
