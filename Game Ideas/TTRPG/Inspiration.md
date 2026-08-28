@@ -2,6 +2,9 @@
 Real life
 - Unarmored 10 to 40 seconds
 - Armored 3 to 10 minutes
+- Blood loss
+- - 14% loss is mostly symptomless
+- 
 
 
 Mythras
