@@ -20,3 +20,6 @@ Sever (parting, cutting, leaving, separating, death)
 
 ? Impact (break, mash, quell)
 > the sudden stop, a
+
+? Transferance
+> Moving things
