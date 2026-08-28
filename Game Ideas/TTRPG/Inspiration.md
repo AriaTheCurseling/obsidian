@@ -10,6 +10,9 @@ Real life
 - - 50% loss is death
 - Head blood loss
 - - 20 sec unconsious
+- - 60 sec dead
+- Poison
+- - 
 
 
 Mythras
