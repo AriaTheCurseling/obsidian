@@ -12,7 +12,8 @@ Real life
 - - 20 sec unconsious
 - - 60 sec dead
 - Poison
-- - 
+- - Blood thinners (change blood threshold)
+- 
 
 
 Mythras
