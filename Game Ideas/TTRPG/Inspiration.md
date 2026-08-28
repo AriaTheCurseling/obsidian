@@ -14,10 +14,11 @@ Real life
 - Poison
 - - Blood thinners (change blood threshold)
 - Wound bleed types
-- - Arterial - venous - capillary
+- - Arterial - Venous - Capillary
 - Stamina
 - - Recovery vs loss
-- 
+- - 
+- No food limits stamina
 
 
 Mythras
