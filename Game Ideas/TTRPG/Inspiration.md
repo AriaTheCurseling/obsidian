@@ -5,7 +5,8 @@ Real life
 - Blood loss
 - - 14% loss is mostly symptomless
 - - 15-30% mild symproms
-- 
+- - 30-40% confusion, disorientation
+- - 20
 - - 50% loss is death
 
 
