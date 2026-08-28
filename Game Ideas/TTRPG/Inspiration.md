@@ -8,6 +8,8 @@ Real life
 - - 30-40% confusion, disorientation
 - - 40% pass out
 - - 50% loss is death
+- Head blood loss
+- - 20 sec unconsious
 
 
 Mythras
