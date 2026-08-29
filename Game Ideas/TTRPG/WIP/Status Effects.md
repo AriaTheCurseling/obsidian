@@ -7,4 +7,7 @@ Stage 3: equipment and character dmg - Blaze
 
 Can be put out by going prone. Naked hairless creatures are immune.
 
-
+###### Oil - Combo Status
+On Fire:
+- Removes immunity
+- Immediately progresses fire by 1 stage.
