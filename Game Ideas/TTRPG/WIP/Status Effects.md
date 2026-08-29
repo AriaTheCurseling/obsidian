@@ -1,5 +1,8 @@
 
 
+###### Poison - Blood thinner
+Increase bleeding by 1
+Faint earlier from bleeding
 ###### On Fire - Staged, Progresses end of turn
 Stage 1: Minor equipment dmg, no character dmg - clothes on fire
 Stage 2: equipment dmg, minor character dmg - growing blaze
