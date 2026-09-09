@@ -12,12 +12,12 @@ Mind
 - Awareness
 Soul
 
-Acrobatics - Climb - Escape Artist - Fly
+Acrobatics - Climb - Escape Artist - Fly - Ride - Swim
 
-Appraise - Knowledge
-Craft - Disable device - Heal - Disguise
+Appraise - Knowledge - Linguistics
+Craft - Disable device - Heal - Disguise - Spellcraft
 Diplomacy - Handle Animal - Intimidate
 
-
+Use magic device
 Sense Motive - Perception
-Sleight of hand - Stealth - bluff - 
+Sleight of hand - Stealth - bluff
