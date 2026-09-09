@@ -4,7 +4,7 @@ Body - Mind - Soul
 Strength - Pure body
 
 Race:
-- Movement Speedw
+- Movement Speed
 
 
 Body
