@@ -1,6 +1,6 @@
 
 
-
+Bleeding wound | -2 | Replace damage of a slashing attack with a bleeding wound
 Control movement | +4 | Replace damage with a 5' push unless opponent is reckless
 
 
