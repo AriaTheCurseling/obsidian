@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"769ed8320b8b653c","type":"text","text":"Name:","x":-420,"y":-180,"width":250,"height":60}
+		{"id":"769ed8320b8b653c","type":"text","text":"Name:","x":-420,"y":-180,"width":250,"height":60},
+		{"id":"db1911ac224d8876","x":-420,"y":-120,"width":250,"height":60,"type":"text","text":"Movespeed: "}
 	],
 	"edges":[]
 }
