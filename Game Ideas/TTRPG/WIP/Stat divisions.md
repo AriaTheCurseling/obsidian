@@ -18,6 +18,7 @@ Mind
 - Memory
 - Resolve
 - Knowledge
+- Trickery
 Soul
 - Magic
 - ? Art
