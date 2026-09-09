@@ -5,8 +5,9 @@ Strength - Pure body
 
 
 Body
+- Eyesight - Senses
 - Dexterity
-	- Movement
+	- Movement / Agility
 	- Handling / Manipulation
 - Strength
 	- Power
@@ -16,7 +17,8 @@ Mind
 - Conversation
 Soul
 
-Acrobatics - Climb - Escape Artist - Fly - Ride - Swim => Movement
+Acrobatics - Climb - Fly - Ride - Swim => Movement (Land, Wall, Air, Mount, Water)
+Escape Artist 
 
 Appraise => knowledge (value)
 
