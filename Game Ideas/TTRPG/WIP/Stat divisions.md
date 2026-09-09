@@ -5,21 +5,25 @@ Strength - Pure body
 
 
 Body
-- Eyesight - Senses
 - Agility
-	- Movement - Agility
-	- Handling - Manipulation - Dexterit
+	- Movement
+	- Dexterity
 - Strength
-	- Power - Force
-	- Endurance - Fortitude
+	- Force
+	- Fortitude
 Mind
-- Awareness
+- Social
+	- 
+- Study / Knowledge
+	- Awareness
+	- Knowledge
 - Conversation
 - Memory
 - Resolve
 - Knowledge
 - Trickery
 Soul
+- Presence
 - Magic
 - ? Art
 
