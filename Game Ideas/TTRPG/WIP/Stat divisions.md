@@ -15,6 +15,8 @@ Body
 Mind
 - Awareness
 - Conversation
+- Memory
+- Resolve
 Soul
 
 Acrobatics - Climb - Fly - Ride - Swim => Movement (Land, Wall, Air, Mount, Water)
