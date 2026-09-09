@@ -1,11 +1,10 @@
 {
 	"nodes":[
-		{"id":"d0a646600b743824","x":40,"y":-80,"width":250,"height":60,"type":"text","text":"Mind"},
-		{"id":"e85a2515cdcdf073","x":-300,"y":-80,"width":250,"height":60,"type":"text","text":"Body"},
+		{"id":"d0a646600b743824","x":40,"y":-80,"width":250,"height":60,"color":"5","type":"text","text":"Mind"},
+		{"id":"e85a2515cdcdf073","x":-300,"y":-80,"width":250,"height":60,"color":"5","type":"text","text":"Body"},
 		{"id":"618c0c1a87f4758f","x":-550,"y":-140,"width":250,"height":60,"type":"text","text":"Strength"},
 		{"id":"625f275eabc6e489","x":-120,"y":-140,"width":250,"height":60,"type":"text","text":"Dexterity"},
 		{"id":"e0bc3ab9488c164f","x":290,"y":-140,"width":250,"height":60,"type":"text","text":"Inteligence"},
-		{"id":"042065e8e8cd0521","x":-120,"y":40,"width":250,"height":60,"type":"text","text":"Soul"},
 		{"id":"71a93f8aa04d749c","x":-370,"y":-20,"width":250,"height":60,"type":"text","text":"Constitution"},
 		{"id":"762159ecf3ff1fd1","x":-120,"y":100,"width":250,"height":60,"type":"text","text":"Willpower"},
 		{"id":"e2991196f884752a","x":130,"y":-20,"width":250,"height":60,"type":"text","text":"Charisma"},
@@ -20,7 +19,8 @@
 		{"id":"35cfd371cb2134ab","x":200,"y":290,"width":250,"height":60,"type":"text","text":"Presence"},
 		{"id":"66dab5df90f51981","x":-800,"y":-140,"width":250,"height":60,"type":"text","text":"Might"},
 		{"id":"e053ff247d035edf","x":505,"y":100,"width":250,"height":60,"type":"text","text":"Empathy"},
-		{"id":"651f00698a8694e0","x":380,"y":160,"width":250,"height":60,"type":"text","text":"Creativity"}
+		{"id":"651f00698a8694e0","x":380,"y":160,"width":250,"height":60,"type":"text","text":"Creativity"},
+		{"id":"042065e8e8cd0521","x":-120,"y":40,"width":250,"height":60,"color":"5","type":"text","text":"Soul"}
 	],
 	"edges":[]
 }
