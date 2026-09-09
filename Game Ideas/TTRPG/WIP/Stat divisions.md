@@ -7,15 +7,16 @@ Strength - Pure body
 Body
 - Dexterity
 	- Movement
-	- Handling
+	- Handling / Manipulation
 - Strength
 	- Power
 	- Endurance/Fortitude
 Mind
 - Awareness
+- Conversation
 Soul
 
-Acrobatics - Climb - Escape Artist - Fly - Ride - Swim
+Acrobatics - Climb - Escape Artist - Fly - Ride - Swim => Movement
 
 Appraise - Knowledge - Linguistics
 Craft - Disable device - Heal - Disguise - Spellcraft
