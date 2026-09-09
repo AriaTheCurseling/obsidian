@@ -24,12 +24,12 @@ Soul
 - ? Art
 
 Acrobatics - Climb - Fly - Ride - Swim => Movement (Land, Wall, Air, Mount, Water)
-Escape Artist 
+Escape Artist - Disable device
 
 Appraise => knowledge (value)
 
 Knowledge - 
-Disable device - Disguise - Spellcraft
+Disguise - Spellcraft
 
 Diplomacy - Handle Animal - Intimidate => Interaction
 
@@ -44,6 +44,8 @@ Sleight of hand - Stealth - bluff => Trickery (Handling, Movement, Social)
 
 
 
-
-
 Truth - Hiding - Falsehood
+
+
+
+Trickery
