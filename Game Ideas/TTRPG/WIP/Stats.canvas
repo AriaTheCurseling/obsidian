@@ -17,7 +17,8 @@
 		{"id":"8277a4cebb973173","x":630,"y":-230,"width":250,"height":60,"type":"text","text":"Truth"},
 		{"id":"8ca9c9d1963dd342","x":-50,"y":260,"width":250,"height":60,"type":"text","text":"Intuition"},
 		{"id":"dd7b1a4f8e6ec9f1","x":-50,"y":320,"width":250,"height":60,"type":"text","text":"Faith"},
-		{"id":"35cfd371cb2134ab","x":200,"y":290,"width":250,"height":60,"type":"text","text":"Presence"}
+		{"id":"35cfd371cb2134ab","x":200,"y":290,"width":250,"height":60,"type":"text","text":"Presence"},
+		{"id":"66dab5df90f51981","x":-800,"y":-140,"width":250,"height":60,"type":"text","text":"Might"}
 	],
 	"edges":[]
 }
