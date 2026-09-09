@@ -27,7 +27,7 @@ Alternate names for modifications would be adjustments, alteration, variants, au
 
 Act -> Roll -> Adjust
 -# Crit gives second adjustement
-
+-# Uncontested actions can spend extra actions for more modifications
 
 
 
