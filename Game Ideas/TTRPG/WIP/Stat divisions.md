@@ -7,11 +7,11 @@ Strength - Pure body
 Body
 - Eyesight - Senses
 - Dexterity
-	- Movement / Agility
-	- Handling / Manipulation
+	- Movement - Agility
+	- Handling - Manipulation
 - Strength
-	- Power
-	- Endurance/Fortitude
+	- Power - Force
+	- Endurance - Fortitude
 Mind
 - Awareness
 - Conversation
@@ -31,7 +31,7 @@ Diplomacy - Handle Animal - Intimidate => Interaction
 
 Perform - Profession - Craft - Heal => Profession (working knowledge)
 Use magic device
-Sense Motive - Perception
+Sense Motive - Perception => Noticing things
 
 
 
