@@ -5,6 +5,9 @@ Strength - Pure body
 
 
 Body
+- Dexterity
+	- Movement
+	- Handling
 - Strength
 	- Power
 	- Endurance/Fortitude
@@ -20,4 +23,4 @@ Diplomacy - Handle Animal - Intimidate
 
 Use magic device
 Sense Motive - Perception
-Sleight of hand - Stealth - bluff
+Sleight of hand - Stealth - bluff => Trickery
