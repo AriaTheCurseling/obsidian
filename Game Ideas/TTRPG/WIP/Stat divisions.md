@@ -6,9 +6,9 @@ Strength - Pure body
 
 Body
 - Eyesight - Senses
-- Dexterity
+- Agility
 	- Movement - Agility
-	- Handling - Manipulation
+	- Handling - Manipulation - Dexterit
 - Strength
 	- Power - Force
 	- Endurance - Fortitude
@@ -49,7 +49,7 @@ Truth - Hiding - Falsehood
 
 
 
-Trickery
+Trickery/Deception
 Movement
 Handling
 Power
