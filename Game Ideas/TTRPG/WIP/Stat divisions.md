@@ -1,9 +1,10 @@
 
+Body - Mind - Soul
 
 Body
--Str
-- Power
-- Endurance/Fortitude
+- Strength
+	- Power
+	- Endurance/Fortitude
 Mind
 - Awareness
 Soul
