@@ -25,6 +25,7 @@ Actions are shared, everyone can pick up a sword and swing it, some people can s
 
 Alternate names for modifications would be adjustments, alteration, variants, augments or variations. 
 
+
 Act -> Roll -> Adjust
 -# Crit gives second adjustement
 -# Uncontested actions can spend extra actions for more modifications
