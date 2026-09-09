@@ -15,13 +15,15 @@ Body
 	- Force
 	- Fortitude
 Mind
-- Social
-	- Influence / interaction
+- Social - charisma
+	- Influence / interaction / charisma
 	- Trickery
-- Study
+- Study - intelligence
 	- Awareness
 	- Knowledge / Investigation
 Soul
+- Intuition
+- Empathy
 - Presence
 - Magic
 - ? Art
