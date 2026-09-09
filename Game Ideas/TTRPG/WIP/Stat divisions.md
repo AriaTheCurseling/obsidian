@@ -3,6 +3,9 @@ Body - Mind - Soul
 
 Strength - Pure body
 
+Race:
+- Movement Speed
+
 
 Body
 - Agility
