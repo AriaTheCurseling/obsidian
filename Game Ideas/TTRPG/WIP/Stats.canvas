@@ -14,7 +14,10 @@
 		{"id":"263e08e6396bb305","x":-120,"y":-200,"width":250,"height":60,"type":"text","text":"Skill"},
 		{"id":"1f57ceb476c4bf42","x":255,"y":-320,"width":250,"height":60,"type":"text","text":"Deception"},
 		{"id":"2dca718d48a0ba50","x":505,"y":-290,"width":250,"height":60,"type":"text","text":"Awareness"},
-		{"id":"8277a4cebb973173","x":630,"y":-230,"width":250,"height":60,"type":"text","text":"Truth"}
+		{"id":"8277a4cebb973173","x":630,"y":-230,"width":250,"height":60,"type":"text","text":"Truth"},
+		{"id":"8ca9c9d1963dd342","x":-50,"y":260,"width":250,"height":60,"type":"text","text":"Intuition"},
+		{"id":"dd7b1a4f8e6ec9f1","x":-50,"y":320,"width":250,"height":60,"type":"text","text":"Faith"},
+		{"id":"35cfd371cb2134ab","x":200,"y":290,"width":250,"height":60,"type":"text","text":"Presence"}
 	],
 	"edges":[]
 }
