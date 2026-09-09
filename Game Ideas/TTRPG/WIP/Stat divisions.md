@@ -28,15 +28,22 @@ Escape Artist
 
 Appraise => knowledge (value)
 
-Knowledge - Linguistics
+Knowledge - 
 Disable device - Disguise - Spellcraft
 
 Diplomacy - Handle Animal - Intimidate => Interaction
 
-Perform - Profession - Craft - Heal => Profession (working knowledge)
+Linguistics - Perform - Profession - Craft - Heal => Profession (working knowledge)
+
 Use magic device
 Sense Motive - Perception => Noticing things
 
 
 
 Sleight of hand - Stealth - bluff => Trickery (Handling, Movement, Social)
+
+
+
+
+
+Truth - Hiding - Falsehood
