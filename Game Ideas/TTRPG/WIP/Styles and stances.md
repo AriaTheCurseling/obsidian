@@ -13,7 +13,7 @@ Standardize attitudes
 
 sacrificial - offensive - neutral - defensive - evasive
 
-Reckless - offensive - neutral - defensive - Skittish
+
 
 This scale governs how things affect you, each stance is associated with an attitude to combat, and some adjustments nudge or overwrite your attitude. 
 
