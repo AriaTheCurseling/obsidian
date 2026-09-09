@@ -36,7 +36,7 @@ Diplomacy - Handle Animal - Intimidate => Interaction
 Linguistics - Perform - Profession - Craft - Heal => Profession (working knowledge)
 
 Use magic device
-Sense Motive - Perception => Noticing things
+Sense Motive - Perception => Awareness
 
 
 
