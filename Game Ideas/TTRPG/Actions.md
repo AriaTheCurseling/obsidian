@@ -12,6 +12,6 @@ You can move up to your characters movement as an action.
 
 Normally moving doesn't require a check, but particularly difficult movement may need one, like climbing a rock wall, riding an unhappy dinosaur and skirting past an angry goblin.
 ##### Attack
-Hit someone with your weapon, requ
+Hit someone with your weapon, requires a roll.
 ##### Charge - Reckless
 Move and perform a melee attack
