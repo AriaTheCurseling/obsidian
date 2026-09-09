@@ -49,3 +49,6 @@ Truth - Hiding - Falsehood
 
 
 Trickery
+Movement
+Handling
+Power
