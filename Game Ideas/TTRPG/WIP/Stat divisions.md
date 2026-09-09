@@ -1,0 +1,6 @@
+
+
+Body
+Mind
+- Awareness
+Soul
