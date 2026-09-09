@@ -29,7 +29,8 @@ Escape Artist - Disable device
 Appraise => knowledge (value)
 
 Knowledge - 
-Disguise - Spellcraft
+Disguise
+Spellcraft
 
 Diplomacy - Handle Animal - Intimidate => Interaction
 
