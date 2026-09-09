@@ -18,10 +18,13 @@ Soul
 
 Acrobatics - Climb - Escape Artist - Fly - Ride - Swim => Movement
 
-Appraise - Knowledge - Linguistics
-Craft - Disable device - Heal - Disguise - Spellcraft
-Diplomacy - Handle Animal - Intimidate
+Appraise => knowledge (value)
 
+Appraise - Knowledge - Linguistics
+Craft - Disable device - Heal - Disguise - Spellcraft - Profession
+Diplomacy - Handle Animal - Intimidate
+Perform
 Use magic device
 Sense Motive - Perception
-Sleight of hand - Stealth - bluff => Trickery
+
+Sleight of hand - Stealth - bluff => Trickery (Handling, Movement, Social)
