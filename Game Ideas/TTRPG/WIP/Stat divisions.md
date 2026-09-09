@@ -37,7 +37,7 @@ Linguistics - Perform - Profession - Craft - Heal => Profession (working knowled
 
 Use magic device
 Sense Motive - Perception => Awareness
-
+Survival
 
 
 Sleight of hand - Stealth - bluff => Trickery (Handling, Movement, Social)
