@@ -13,15 +13,11 @@ Body
 	- Fortitude
 Mind
 - Social
-	- 
-- Study / Knowledge
+	- Influence / interaction
+	- Trickery
+- Study
 	- Awareness
-	- Knowledge
-- Conversation
-- Memory
-- Resolve
-- Knowledge
-- Trickery
+	- Knowledge / Investigation
 Soul
 - Presence
 - Magic
