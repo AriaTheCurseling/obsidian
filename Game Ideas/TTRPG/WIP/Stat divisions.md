@@ -17,7 +17,10 @@ Mind
 - Conversation
 - Memory
 - Resolve
+- Knowledge
 Soul
+- Magic
+- ? Art
 
 Acrobatics - Climb - Fly - Ride - Swim => Movement (Land, Wall, Air, Mount, Water)
 Escape Artist 
