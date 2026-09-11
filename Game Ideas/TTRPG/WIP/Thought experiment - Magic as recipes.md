@@ -4,4 +4,4 @@ If someone hands you a recipe, you have the right ingredients and all the time y
 
 If you instead need to hurry and have limited ingredients, there's a far greater chance you'll mess up. You might need to substitute an ingredient, you may forget a step or do things in the wrong order.
 
-A bad recipe might be harder to follow and you 
+A bad recipe might be harder to follow and you can only remember so many different ones.
