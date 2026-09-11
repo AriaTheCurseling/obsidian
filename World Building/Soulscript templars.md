@@ -1,4 +1,7 @@
 
+The wo
+
+
 
 Hailing from the sands of xxx the 
 
@@ -10,7 +13,7 @@ Their every step
 
 
 
-The soulscript templars believe that everything has a soul, be it a single grain of sand or the world itself
+The soulscript templars believe that everything has a soul, be it a single grain of sand or the world itself. 
 
 They sacred duty to give
 
