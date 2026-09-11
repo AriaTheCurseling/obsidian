@@ -10,9 +10,9 @@ Their every step
 
 
 
-The soulscript templars believe that everything has a soul, be it a single grain of sand or the world itself. 
+The soulscript templars believe that everything has a soul, be it a single grain of sand or the world itself
 
-They sacred duty 
+They sacred duty to give
 
 Their runes speak to the souls inherrent in the world, awakening them and 
 
