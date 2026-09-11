@@ -2,8 +2,10 @@
 
 Hailing from the sands of xxx the 
 
+Their every
 
-The soulsc
+
+The soulscript templars believe that ev
 
 
 
