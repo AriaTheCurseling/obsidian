@@ -1,6 +1,8 @@
 
-Give voice to the souls of
+A voice, for those who have never known speech. 
 
+
+Our runes shape
 
 
 Hailing from the sands of xxx the 
