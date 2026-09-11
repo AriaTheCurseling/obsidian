@@ -1,6 +1,6 @@
 
 
-Hailing from the golden dunes of the 
+Hailing from the dune mountains
 
 scorched 
 
