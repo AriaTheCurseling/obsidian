@@ -50,3 +50,11 @@ Separate channeled magic
 Sever 1 - Instance
 
 Separate a channeled spell from its controller
+
+###### Shape Impact
+
+Allows the caster to control the shape of an impact beyond the tool its made with. 
+
+The size and force of an impact remains largely the same. 
+
+Used by many artisans and craftsmen to supplement precision with magic and simplify their tool suite, with this spell a blacksmith needs only a single hammer, an insc
