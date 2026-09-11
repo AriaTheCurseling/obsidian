@@ -1,6 +1,6 @@
 
 
-Hailing from the golden dunes deep withing the 
+Hailing from the golden dunes of the scorched 
 
 
 
