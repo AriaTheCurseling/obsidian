@@ -8,7 +8,9 @@ According to the lore of the templars, everything has a soul,
 Their every step
 
 
-The soulscript templars believe that ev
+
+
+The soulscript templars believe that everything has a soul, be it a single grain of sand or the world itself. 
 
 
 
