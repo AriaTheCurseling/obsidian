@@ -2,7 +2,10 @@
 
 Hailing from the sands of xxx the 
 
-Their every
+According to the lore of the templars, everything has a soul, 
+
+
+Their every step
 
 
 The soulscript templars believe that ev
