@@ -2,10 +2,10 @@
 
 Hailing from the golden dunes of the 
 
-scorche
+scorched
 
 
-
+Fleshcasting is illegal
 
 ###### Spells
 Shape impact
@@ -16,4 +16,4 @@ Shape impact
 
 
 
-Soulshift - difficult 
+Soulshift - difficult
