@@ -55,3 +55,6 @@ Blades in the dark
 - Explicitly say what their goal with an action is
 - DM chooses difficulty + effectiveness
 - Has an explicit "You succeed with a consequence" outcome
+
+Tales from elsewhere
+- Reverse dice
