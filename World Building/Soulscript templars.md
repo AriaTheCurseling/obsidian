@@ -6,7 +6,7 @@ A voice from those who cannot draw breath. A path to those who cannot
 A voice to those who never drew breath. 
 A body to those who never gained form.
 A choice to those who will never know death. 
-A life to all that where not even born. 
+A life to all who were not even born. 
 
 Our runes awaken the souls inherent in all things, gifting life and purpose into stagnant souls begrieved the chance to grow on their own. 
 
