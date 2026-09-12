@@ -29,7 +29,7 @@ Their runes speak to the souls inherrent in the world, awakening them and
 Fleshcasting is illegal
 
 ###### Spells
-Shape impact - Allows the caster to control the shape of any impact or collision they are a part of
+Shape impact - Allows the caster to control the shape of any impact or collision they are a part of. While area and force remains the same, making incapab
 
 
 
