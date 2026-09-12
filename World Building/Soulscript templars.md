@@ -2,7 +2,8 @@
 A voice, for those who have never known speech. 
 
 
-Our runes shape
+
+Our runes awaken the souls inherent in all things, giving life and purpose to form
 
 
 Hailing from the sands of xxx the 
