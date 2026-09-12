@@ -36,7 +36,7 @@ Shape impact
 ###### Runes
 
 Stallward - easy
-Steadies the enchanted object or area, hardening soft terrain and helping objects stay upright. 
+Steadies the enchanted object or area. An object gains stability and is slightly easier to handle, whi
 
 
 
