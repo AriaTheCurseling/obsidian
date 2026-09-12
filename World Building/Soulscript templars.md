@@ -4,7 +4,8 @@ A choice to those who will death.
 A life to all who were not even born.
 
 A voice to those who never drew breath. 
-A choice for all who wish to know death. 
+A choice for all who will not know death. 
+A 
 A 
 
 sworn
