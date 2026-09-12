@@ -39,4 +39,4 @@ Allows the caster to control the shape of any impact or collision they are a par
 ###### Stallward - easy
 Steadies the enchanted object or area. An object gains stability and is slightly easier to handle, while terrain is easier to travel through. 
 ###### Soulshift - difficult
-Bridges the gap between soul and form for the enchanted object or area. Moving through a soulshifted area or touching a soulshifted object is a matter of spirit rather than body or mind, 
+Bridges the gap between soul and form for the enchanted object or area. Moving through a soulshifted area or affecting a soulshifted object is a matter of spirit rather than body or mind, leaving those lacking faith incapable of breaching while the
