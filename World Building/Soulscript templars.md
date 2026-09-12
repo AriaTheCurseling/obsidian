@@ -1,8 +1,3 @@
-
-A voice, for those who have never known speech. 
-
-A voice from those who cannot draw breath. A path to those who cannot
-
 A voice to those who never drew breath. 
 A body to those who never gained form.
 A choice to those who will never know death. 
