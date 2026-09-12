@@ -37,7 +37,7 @@ Allows the caster to control the shape of any impact or collision they are a par
 ###### Commune inanimate
 The caster communes with the soul of an innanimate object. 
 
-A runeless object can only answer what rune it would prefer. Inscribing that tune will be easier, harder to remove and
+A runeless object can only answer what rune it would prefer. That tuneasier to inscribe harder to remove and friendly - letting you selectively ignore its effects. 
 
 
 
