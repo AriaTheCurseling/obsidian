@@ -5,8 +5,10 @@ A life to all who were not even born.
 
 A voice to those who never drew breath. 
 A choice for all who will not know death. 
-A 
-A life for you insrea
+Rejoice
+A life for you 
+
+
 
 sworn
 born
