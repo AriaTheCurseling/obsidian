@@ -3,9 +3,12 @@ A body to those who never gained form.
 A choice to those who will death. 
 A life to all who were not even born.
 
+
+Hope - fl
+
+
 A will
 A mind
-
 A live 
 
 Our runes awaken the souls inherent in all things, gifting life and purpose into stagnant souls begrieved the chance to grow on their own. 
