@@ -3,9 +3,12 @@ A voice, for those who have never known speech.
 
 A voice from those who cannot draw breath. A path to those who cannot
 
+A voi
+A life to
+
 Our runes awaken the souls inherent in all things, gifting life and purpose into stagnant souls begrieved the chance to grow on their own. 
 
-The sacred craft bridges
+The sacred craft bridges the casm between 
 
 
 Hailing from the sands of xxx the 
