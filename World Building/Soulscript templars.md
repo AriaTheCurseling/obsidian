@@ -3,7 +3,7 @@ A voice, for those who have never known speech.
 
 
 
-Our runes awaken the souls inherent in all things, gifting life and purpose to the souls without
+Our runes awaken the souls inherent in all things, breathing life and purpose to souls 
 
 
 Hailing from the sands of xxx the 
