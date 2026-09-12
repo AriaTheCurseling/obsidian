@@ -43,7 +43,8 @@ Steadies the enchanted object or area. An object gains stability and is slightly
 
 ###### Unforgiving Grasp
 
-
+###### Vengence
+Collects 
 
 Spectra
 ###### Soulshift - difficult
