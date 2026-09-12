@@ -1,5 +1,3 @@
-A voice to those 
-
 A voice to those who never drew breath. 
 A choice for all who will not know death. 
 Rejoice my friend, for you i have sworn. 
