@@ -4,8 +4,10 @@ A choice to those who will death.
 A life to all who were not even born.
 
 A voice to those who never drew breath. 
-
 A choice to know death
+
+sworn
+born
 
 
 Voice - Breath
