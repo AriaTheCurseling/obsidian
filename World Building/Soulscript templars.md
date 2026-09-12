@@ -1,7 +1,7 @@
 
 A voice, for those who have never known speech. 
 
-A voice for those who cannot draw breath. A path walked by 
+A voice spoken by those who cannot draw breath. A path to travel for those who cannot move
 
 Our runes awaken the souls inherent in all things, gifting life and purpose into stagnant souls begrieved the chance to grow on their own. 
 
