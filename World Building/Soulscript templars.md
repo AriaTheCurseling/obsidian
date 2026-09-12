@@ -3,7 +3,8 @@ A body to those who never gained form.
 A choice to those who will death. 
 A life to all who were not even born.
 
-A voice to those who never drew 
+A voice to those who never drew breath. 
+A choice to know death
 
 
 Voice - Breath
