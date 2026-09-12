@@ -28,6 +28,7 @@ Their runes speak to the souls inherrent in the world, awakening them and
 
 Fleshcasting is illegal
 
+breaking a rune brings 
 ##### Spells
 ###### Shape impact
 Allows the caster to control the shape of any impact or collision they are a part of. Area and force remains the same, making incapable of adjusting damage dealt. 
