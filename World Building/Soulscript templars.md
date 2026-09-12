@@ -44,6 +44,7 @@ Steadies the enchanted object or area. An object gains stability and is slightly
 ###### Unforgiving Grasp
 
 
+
 Spectra
 ###### Soulshift - difficult
 Bridges the gap between soul and form for the enchanted object or area. Moving through a soulshifted area or affecting a soulshifted object is a matter of spirit rather than body or mind, leaving those lacking faith incapable of breaching. The sacred few with unwavering souls will instead find a soulshift to bring them unnatural easy, finding a soulshifted tool half as cumbersome and moving twice as fast along a soulshifted path. 
