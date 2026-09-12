@@ -44,7 +44,7 @@ Steadies the enchanted object or area. An object gains stability and is slightly
 ###### Unforgiving Grasp
 
 ###### Vengence
-Collects 
+Collects vengeful remnants of nearby souls to animate whatever the rune is inscribed within. 
 
 Spectra
 ###### Soulshift - difficult
