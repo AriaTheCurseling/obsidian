@@ -5,7 +5,7 @@ A voice from those who cannot draw breath. A path to those who cannot
 
 Our runes awaken the souls inherent in all things, gifting life and purpose into stagnant souls begrieved the chance to grow on their own. 
 
-The sacred craft lets
+The sacred craft bridges
 
 
 Hailing from the sands of xxx the 
