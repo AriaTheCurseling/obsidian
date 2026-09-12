@@ -29,14 +29,13 @@ Their runes speak to the souls inherrent in the world, awakening them and
 Fleshcasting is illegal
 
 ###### Spells
-Shape impact
+Shape impact - Allows the caster to control the shape of any impact or collision they are a part of
 
 
 
 ###### Runes
-
 Stallward - easy
-Steadies the enchanted object or area. An object gains stability and is slightly easier to handle, whi
+Steadies the enchanted object or area. An object gains stability and is slightly easier to handle, while terrain is easier to travel through. 
 
 
 
