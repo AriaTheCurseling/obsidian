@@ -35,7 +35,7 @@ breaking a rune leaves remnants of vengeful spirits clinging to your soul
 Allows the caster to control the shape of any impact or collision they are a part of. Area and force remains the same, making incapable of adjusting damage dealt. 
 
 ###### Commune inanimate
-The caster communes with the soul of an innanimate object. An object with no soulrunes has no knowledge of the world and can answer no que
+The caster communes with the soul of an innanimate object. The more soulrunes an object is enchanted with the more aware it is of its surroundings
 
 
 
