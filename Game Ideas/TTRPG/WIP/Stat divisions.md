@@ -9,7 +9,7 @@ Race:
 
 Body
 - Agility
-	- Movement
+	- Movement - not speed (mobility?)
 	- Dexterity
 - Strength
 	- Force
