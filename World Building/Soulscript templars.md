@@ -1,7 +1,7 @@
 
 A voice, for those who have never known speech. 
 
-for the coiceles
+
 
 Our runes awaken the souls inherent in all things, gifting life and purpose into stagnant souls begrieved the chance to grow on their own. 
 
