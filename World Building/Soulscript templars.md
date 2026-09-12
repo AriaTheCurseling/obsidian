@@ -34,8 +34,8 @@ breaking a rune leaves remnants of vengeful spirits clinging to your soul
 ###### Shape impact
 Allows the caster to control the shape of any impact or collision they are a part of. Area and force remains the same, making incapable of adjusting damage dealt. 
 
-###### Commune 
-The caster communes with
+###### Commune inanimate
+The caster communes with the soul of a
 
 
 
