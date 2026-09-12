@@ -3,7 +3,7 @@ A choice for all who will not know death.
 Rejoice my friend, for you i have sworn. 
 A life to all who where not even born. 
 
-Our runes awaken the souls inherent in all things, gifting life and purpose into stagnant souls begrieved the chance to grow on their own. 
+Our runes awaken the souls inherent in all things, gifting life and purpose to stagnant firn begrieved the chance to grow on their own. 
 
 The sacred craft bridges the casm between 
 
