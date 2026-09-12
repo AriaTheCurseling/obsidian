@@ -5,9 +5,8 @@ A life to all who were not even born.
 
 A voice to those who never drew breath. 
 A choice for all who will not know death. 
-Rejoice
-A life for you 
-
+Rejoice for this i have sworn. 
+A life to all who where not ever born. 
 
 
 sworn
