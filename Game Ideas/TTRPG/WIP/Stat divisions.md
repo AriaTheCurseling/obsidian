@@ -10,10 +10,10 @@ Race:
 Body
 - Agility
 	- Movement - not speed (mobility?)
-	- Dexterity
+	- Dexterity - skill
 - Strength
-	- Force
-	- Fortitude
+	- Force - power
+	- Fortitude - endurance
 Mind
 - Social - charisma
 	- Influence / interaction / charisma
