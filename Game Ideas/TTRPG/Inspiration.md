@@ -58,3 +58,7 @@ Blades in the dark
 
 Tales from elsewhere
 - Reverse dice
+- Wound Slots (incredible)
+
+Pointy Hat
+- Battlefield actions (really just a channeled action)
