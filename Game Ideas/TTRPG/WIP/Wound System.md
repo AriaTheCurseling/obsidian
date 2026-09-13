@@ -3,12 +3,12 @@
 
 |     |          | Injury | Cured |
 | --- | -------- | ------ | ----- |
-|     | Lethal   |        |       |
-| 1   | Grievous |        |       |
+| 0   | Lethal   |        |       |
+|     | Grievous |        |       |
+| 1   | Severe   |        |       |
+|     | -        | Bleed  | x     |
 |     | -        |        |       |
-| 2-3 | Severe   | Bleed  | x     |
-|     | -        |        |       |
-|     | -        |        |       |
+| 3   | -        |        |       |
 | 4-5 | Armor    | Dent   |       |
 |     | -        | Dent   |       |
 |     | -        |        |       |
