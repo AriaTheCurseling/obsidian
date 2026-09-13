@@ -5,6 +5,9 @@ Most actions are considered measured by default, but a player may take a -4 pena
 A reckless action invites consequences, while a cautious action has reduced impact.
 
 
+### Types of actions
+Physical - mental - soul
+Telegraphed / channeled / ... - The action completes on your next turn (often interuptable)
 
 #### Base Actions
 ##### Move
