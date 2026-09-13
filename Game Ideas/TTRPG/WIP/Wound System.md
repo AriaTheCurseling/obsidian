@@ -4,7 +4,7 @@
 |          | Wound | Cured |
 | -------- | ----- | ----- |
 | Lethal   |       |       |
-| Grivious |       |       |
+| Grievous |       |       |
 | -        |       |       |
 | Severe   | Bleed | x     |
 | -        |       |       |
