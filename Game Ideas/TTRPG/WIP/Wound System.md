@@ -1,5 +1,9 @@
 
 ## Health:
+Each character has a number of injury slots to fill out. Each slot has an associated severity, with the last slot being "lethal". 
+TODO:: How do we determine which slot an injury goes into?
+TODO:: How are amount and types of slots determined?
+TODO:: treatment system
 
 |     |          | Injury | Cured |
 | --- | -------- | ------ | ----- |
