@@ -1,14 +1,15 @@
 
 
 
-| Lethal   |     |
-| -------- | --- |
-| Grivious |     |
-| -        |     |
-| Severe   |     |
-| -        |     |
-| -        |     |
-| Armor    |     |
-| -        |     |
-| -        |     |
-| -        |     |
+|          | Wound | Cured |
+| -------- | ----- | ----- |
+| Lethal   |       |       |
+| Grivious |       |       |
+| -        |       |       |
+| Severe   | Bleed | x     |
+| -        |       |       |
+| -        |       |       |
+| Armor    | Dent  |       |
+| -        | Dent  |       |
+| -        |       |       |
+| -        |       |       |
