@@ -13,6 +13,7 @@
 |     | -        | Dent   |       |
 |     | -        |        |       |
 |     | -        |        |       |
+
 ## Severing wound
 Lethal: Severed limb
 Grivious: Deep cut (rapid bleeding)
