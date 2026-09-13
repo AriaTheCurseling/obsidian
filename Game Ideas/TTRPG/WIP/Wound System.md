@@ -5,18 +5,18 @@ TODO:: How do we determine which slot an injury goes into?
 TODO:: How are amount and types of slots determined?
 TODO:: treatment system
 
-|     |          | Injury | Cured |
-| --- | -------- | ------ | ----- |
-| 0   | Lethal   |        |       |
-|     | Grievous |        |       |
-| 1   | Severe   |        |       |
-|     | -        | Bleed  | x     |
-|     | -        |        |       |
-| 3   | -        |        |       |
-| 4-5 | Armor    | Dent   |       |
-|     | -        | Dent   |       |
-|     | -        |        |       |
-|     | -        |        |       |
+|     |          | Injury     | Triaged |
+| --- | -------- | ---------- | ------- |
+| 0   | Lethal   |            |         |
+|     | Grievous |            |         |
+| 1   | Severe   |            |         |
+|     | -        | Blood loss | x       |
+|     | -        |            |         |
+| 3   | -        |            |         |
+| 4-5 | Armor    | Dent       |         |
+|     | -        | Dent       |         |
+|     | -        |            |         |
+|     | -        |            |         |
 
 ## Severing wound
 Lethal: Severed limb
