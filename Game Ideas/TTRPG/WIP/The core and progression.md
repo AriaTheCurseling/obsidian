@@ -4,6 +4,7 @@
 Progression through
 - Stances
 - Adjustments
+- Perks
 
 Systems
 - Exhaustion system - Needs to tie into injury system

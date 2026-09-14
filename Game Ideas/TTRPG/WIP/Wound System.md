@@ -4,6 +4,7 @@ Each character has a number of injury slots to fill out. Each slot has an associ
 TODO:: How do we determine which slot an injury goes into?
 TODO:: How are amount and types of slots determined?
 TODO:: treatment system
+TODO:: stackable injuries?
 
 |     |          | Injury     | Triaged |
 | --- | -------- | ---------- | ------- |
