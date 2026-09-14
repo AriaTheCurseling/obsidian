@@ -5,17 +5,13 @@
 - Individual turns
 - Injuries
 - Skill checks
-
 ##### Chases
 - Team turns
 - Skill Checks
-
-
-Chasing > Team actions, Skill checks, System to spread out who checks a skill
-Exploration
-- Dungeoneering > Dungeon turns, softer
+##### Exploration
+- Dungeon turns
 - Travel
-Social
+##### Social
 - Ballroom
 
 
