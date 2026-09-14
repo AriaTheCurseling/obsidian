@@ -3,20 +3,29 @@
 - Individual turns
 - Injuries
 - Skill checks
+- Enemies
+##### Heists
+- Preparation phase
+- Team turns
 ##### Chases
 - Team turns
 - Skill Checks
 ##### Dungeon Exploration
 - Dungeon turns
 - Travel
+- Loot
+- Traps
 ##### Travel Exploration
 - Travel days
 - Encumbrance
 - Survival system
+- Discovery system
+	1. Random place generation
+	2. Existing place finding
 ##### Social
 - Skill Checks
 ##### Down Time
-- Long ass time
+- Long ass timeframes
 
 Progression through
 - Stances
