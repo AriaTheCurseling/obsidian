@@ -7,6 +7,7 @@
 ##### Heists
 - Preparation phase
 - Team turns
+- Skill checks
 ##### Chases
 - Team turns
 - Skill Checks
@@ -24,8 +25,12 @@
 	2. Existing place finding
 ##### Social
 - Skill Checks
+- Connections
 ##### Down Time
 - Long ass timeframes
+
+
+
 
 Progression through
 - Stances
