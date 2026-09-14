@@ -1,5 +1,3 @@
-
-
 ## Scenarios
 ##### Combat
 - Individual turns
@@ -8,12 +6,17 @@
 ##### Chases
 - Team turns
 - Skill Checks
-##### Exploration
+##### Dungeon Exploration
 - Dungeon turns
 - Travel
+##### Travel Exploration
+- Travel days
+- Encumbrance
+- Survival system
 ##### Social
-- Ballroom
-
+- Skill Checks
+##### Down Time
+- Long ass time
 
 Progression through
 - Stances
