@@ -1,7 +1,19 @@
 {
 	"nodes":[
 		{"id":"769ed8320b8b653c","type":"text","text":"Name:","x":-420,"y":-180,"width":250,"height":60},
-		{"id":"db1911ac224d8876","x":-420,"y":-120,"width":250,"height":60,"type":"text","text":"Movespeed: "}
+		{"id":"db1911ac224d8876","type":"text","text":"Movespeed: ","x":-420,"y":-60,"width":250,"height":60},
+		{"id":"1bdc9adcb2662ce8","type":"text","text":"Race:","x":-420,"y":-120,"width":250,"height":60},
+		{"id":"477d9b8a0463b359","type":"text","text":"Harm","x":40,"y":180,"width":260,"height":60},
+		{"id":"36f9f80bd8417ef1","type":"text","text":"L","x":40,"y":240,"width":50,"height":50},
+		{"id":"a0605ef4d54658e2","type":"text","text":"","x":90,"y":240,"width":210,"height":50},
+		{"id":"337ac28d297d3b29","type":"text","text":"G","x":40,"y":300,"width":50,"height":50},
+		{"id":"f1113b58ccce9724","type":"text","text":"","x":90,"y":300,"width":210,"height":50},
+		{"id":"8b666695f80ff4ad","type":"text","text":"","x":90,"y":350,"width":210,"height":50},
+		{"id":"3bc8bcac3eceed2e","type":"text","text":"","x":90,"y":420,"width":210,"height":50},
+		{"id":"7217ff6aa2c1e193","type":"text","text":"","x":90,"y":470,"width":210,"height":50},
+		{"id":"f480cea5e118533e","type":"text","text":"S","x":40,"y":420,"width":50,"height":50},
+		{"id":"08ae2efab3aa9c9e","type":"text","text":"","x":90,"y":520,"width":210,"height":50},
+		{"id":"9b65b4c302f5a963","type":"text","text":"","x":90,"y":570,"width":210,"height":50}
 	],
 	"edges":[]
 }
