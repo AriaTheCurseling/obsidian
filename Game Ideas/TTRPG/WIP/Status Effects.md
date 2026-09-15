@@ -6,16 +6,15 @@ The gm no longer informs you how severe a wound is, or what mechanical effects t
 Increase bleeding by 1
 Faint earlier from bleeding
 ###### On Fire - Staged, Progresses end of turn
-Application: Put "Ignited" onto equipment harm slot
-
-End of turn 1: Inflict "Burning" harm on equipment 
-End of turn 2: Ignited inflicts second burning, burning inflicts dmg on wearer
-
 Stage 1: Minor equipment dmg, no character dmg - clothes on fire
 Stage 2: equipment dmg, minor character dmg - growing blaze
 Stage 3: equipment and character dmg - Blaze
 
 Can be put out by going prone. Naked hairless creatures are immune.
+
+Take 2:
+> Ignited > Inflicts "on fire" at end of turn
+> Burning > Inflicts "burn" on contact at end of turn (including on self)
 
 ###### Oil - Combo Status
 On Fire:
