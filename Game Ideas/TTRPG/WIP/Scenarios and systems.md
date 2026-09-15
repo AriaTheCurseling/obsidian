@@ -19,8 +19,9 @@
 ##### Travel Exploration
 - Travel days
 - Encumbrance
-- Survival system
-- Discovery system
+- Survival
+- Crafting 
+- Discovery
 	1. Random place generation
 	2. Existing place finding
 ##### Social
@@ -28,6 +29,7 @@
 - Connections
 ##### Down Time
 - Long ass timeframes
+- Crafting
 
 
 
