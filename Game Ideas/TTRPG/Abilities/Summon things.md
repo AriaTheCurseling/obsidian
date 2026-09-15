@@ -1,2 +1,2 @@
 multi action, telegraphed
-- S
+- Puts spots on the ground where things will be summoned immediately
