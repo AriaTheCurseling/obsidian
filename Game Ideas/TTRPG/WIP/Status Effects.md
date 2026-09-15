@@ -1,5 +1,7 @@
 
-
+##### Poison - Pain Killer
+You feel no pain.
+The gm no longer informs you how severe a wound is, or what mechanical effects they have. You are still affected normally by the wounds, and the gm still describes attacks and how wounds are received - You may see the enemy strike you and hear the sound of a bone snapping, but you wont know if its a critical or severe wound, or if it has any additional effects.
 ###### Poison - Blood thinner
 Increase bleeding by 1
 Faint earlier from bleeding
