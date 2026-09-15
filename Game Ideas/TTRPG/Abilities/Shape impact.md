@@ -1,0 +1,1 @@
+Lets you control the shape of impacts, area and power remain unaffected.
