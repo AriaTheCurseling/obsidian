@@ -62,3 +62,6 @@ Tales from elsewhere
 
 Pointy Hat
 - Battlefield actions (really just a channeled action)
+
+Legend of the Five Rings
+- Elemental attribute system defined by approach rather than realism
