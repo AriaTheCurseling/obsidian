@@ -42,6 +42,9 @@ Soul
 
 
 From fate: Rapport, Provoke, Deceive and Empathy
+Reason - Charm - Incite - Trick - Enlighten
+
+
 
 physical - Prowess
 
