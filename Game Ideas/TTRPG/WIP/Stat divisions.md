@@ -9,8 +9,10 @@ Race:
 
 Body
 - Agility
-	- Movement - not speed (mobility?)
+	- Movement
+		- Used for moving through difficult terrain, sneaking, 
 	- Dexterity - skill
+		- Used for attacking, 
 - Strength
 	- Force - power
 	- Fortitude - endurance

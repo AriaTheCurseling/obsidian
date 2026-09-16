@@ -5,7 +5,7 @@ A hit injures wounds (roll for dmg)
 Maxes stress promotes to wounds (no dmg roll, min dmg possible)
 
 0 Stress
-1 Lesser
+1 light
 2 Moderate
 3 Severe
 
