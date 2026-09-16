@@ -1,4 +1,9 @@
 
+Stress then Wounds
+A miss injures stress
+A hit injures wounds
+Maxes stress promotes to wounds
+
 ## Health:
 Each character has a number of injury slots to fill out. Each slot has an associated severity, with the last slot being "lethal". 
 
