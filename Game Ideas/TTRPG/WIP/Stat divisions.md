@@ -25,6 +25,9 @@ Mind
 - Study - intelligence
 	- Awareness
 	- Knowledge / Investigation
+- Trickery > Offensive stat
+- Influence > Offensive
+- Awareness > Defensive and Informative (against trickery)
 Soul
 - Intuition
 - Empathy
