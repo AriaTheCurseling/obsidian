@@ -16,7 +16,7 @@ Body
 - Strength
 	- Force - power
 		- Used to deal damage, move things
-	- Fortitude - endurance
+	- Fortitude - endurance - Stamina
 		- Used to endure damage, resist injuries
 Mind
 - Social - charisma
@@ -26,8 +26,9 @@ Mind
 	- Awareness
 	- Knowledge / Investigation
 - Trickery > Offensive stat
-- Influence > Offensive
 - Awareness > Defensive and Informative (against trickery)
+- Influence > Offensive
+- ??? > How easy you are to influence
 Soul
 - Intuition
 - Empathy
