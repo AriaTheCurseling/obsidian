@@ -1,8 +1,13 @@
 
 Stress then Wounds
 A miss injures stress
-A hit injures wounds
-Maxes stress promotes to wounds
+A hit injures wounds (roll for dmg)
+Maxes stress promotes to wounds (no dmg roll, min dmg possible)
+
+0 Stress
+1 Lesser
+2 Moderate
+3 Severe
 
 ## Health:
 Each character has a number of injury slots to fill out. Each slot has an associated severity, with the last slot being "lethal". 
