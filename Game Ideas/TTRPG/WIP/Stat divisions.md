@@ -9,10 +9,10 @@ Race:
 
 Body
 - Agility
-	- Movement
-		- Used for moving through difficult terrain, sneaking, dodging
 	- Dexterity - skill
 		- Used for attacking, card tricks, 
+	- Movement - Mobility
+		- Used for moving through difficult terrain, sneaking, dodging
 - Strength
 	- Force - power
 		- Used to deal damage, move things
