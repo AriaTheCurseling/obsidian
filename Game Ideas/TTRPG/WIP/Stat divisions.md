@@ -27,7 +27,7 @@ Mind
 	- Knowledge / Investigation
 - Trickery > Offensive stat
 - Awareness > Defensive and Informative (against trickery)
-- Influence > Offensive
+- Influence > Offensive - issue with single approach
 - ??? > How easy you are to influence
 Soul
 - Intuition
@@ -37,6 +37,11 @@ Soul
 - ? Art
 - Insight
 - Resolve
+
+
+
+
+From fate: Rapport, Provoke, Deceive and Empathy
 
 physical - Prowess
 
