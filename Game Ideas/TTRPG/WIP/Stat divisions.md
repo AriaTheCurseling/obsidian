@@ -10,12 +10,14 @@ Race:
 Body
 - Agility
 	- Movement
-		- Used for moving through difficult terrain, sneaking, 
+		- Used for moving through difficult terrain, sneaking, dodging
 	- Dexterity - skill
-		- Used for attacking, 
+		- Used for attacking, card tricks, 
 - Strength
 	- Force - power
+		- Used to deal damage, move things
 	- Fortitude - endurance
+		- Used to endure damage, resist injuries
 Mind
 - Social - charisma
 	- Influence / interaction / charisma
