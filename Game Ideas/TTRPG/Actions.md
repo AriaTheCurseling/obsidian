@@ -8,7 +8,7 @@ A reckless action invites consequences, while a cautious action has reduced impa
 ### Types of actions
 Physical - mental - soul
 Continuous - You do something until the start of your next turn
-Delayed - Telegraphed - The action completes on your next turn (often interuptable)
+Delayed - Telegraphed - The action completes on your next turn (often interruptible)
 
 #### Base Actions
 ##### Move
