@@ -1,0 +1,1 @@
+Denotes how many times a ranged weapon can be used be used before needing to reload.
