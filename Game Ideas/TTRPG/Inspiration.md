@@ -56,7 +56,7 @@ Blades in the dark
 - DM chooses difficulty + effectiveness
 - Has an explicit "You succeed with a consequence" outcome
 
-Tales from elsewhere
+Tales from elsewhere: Clockworld
 - Reverse dice
 - Wound Slots (incredible)
 

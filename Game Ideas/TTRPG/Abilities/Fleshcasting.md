@@ -1,0 +1,1 @@
+Lets you put a concentration spell into an injury slot to keep it active without concentration.
