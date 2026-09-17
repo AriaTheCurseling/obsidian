@@ -1,0 +1,1 @@
+This weapon can shoot twice per action using the rules for split actions.
