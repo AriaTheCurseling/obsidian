@@ -11,9 +11,7 @@ What kind of actions are you taking?
 
 Standardize attitudes
 
-sacrificial - offensive - neutral - defensive - evasive
-
-
+reckless - measured - cautious
 
 This scale governs how things affect you, each stance is associated with an attitude to combat, and some adjustments nudge or overwrite your attitude. 
 
