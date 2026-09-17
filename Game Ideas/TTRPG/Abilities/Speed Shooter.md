@@ -1,1 +1,4 @@
-You can use your bow as a multishot weapon, with 4 ammo
+You may 
+
+
+You may treat your bow as an ammo 4 multishot weapon. You only consume
