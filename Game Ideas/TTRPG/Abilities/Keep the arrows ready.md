@@ -1,0 +1,1 @@
+You can use your bow as a multishot weapon, with 4 ammo
