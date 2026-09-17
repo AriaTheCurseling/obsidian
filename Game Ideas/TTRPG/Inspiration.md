@@ -65,3 +65,6 @@ Pointy Hat
 
 Legend of the Five Rings
 - Elemental attribute system defined by approach rather than realism
+
+Ethereal
+- Weapons have 2 distinct modes of use
