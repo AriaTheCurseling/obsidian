@@ -68,3 +68,4 @@ Legend of the Five Rings
 
 Ethereal
 - Weapons have 2 distinct modes of use
+- Helps make weapons feel distinct

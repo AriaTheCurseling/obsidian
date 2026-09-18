@@ -5,6 +5,7 @@ Strength - Pure body
 
 Race:
 - Movement Speed
+- Wounds
 
 
 Body
