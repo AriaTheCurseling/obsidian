@@ -10,3 +10,7 @@ A bad recipe might be harder to follow and you can only remember so many differe
 
 Emotions as ingredients? "only cast while frightened" is metal as fuck
 Vocalization as consumable? "The spell costs your voice" seems really cool
+
+
+
+Empathy stat lets you use the emotions of others for requirements.
