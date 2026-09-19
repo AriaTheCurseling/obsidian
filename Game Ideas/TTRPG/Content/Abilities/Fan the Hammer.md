@@ -1,4 +1,4 @@
 1 action, telegraphed
-- Requires a ranged clip weapon (revolver) (multishot keyword)
+- Requires a [[multishot]] weapon
 - Attacks any number of enemies
 - Singular resolution at disadvantage
