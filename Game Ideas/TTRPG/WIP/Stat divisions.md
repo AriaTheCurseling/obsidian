@@ -40,6 +40,14 @@ Soul
 - Resolve
 - Investiture > Investing your soul in things, magic items, summons
 - Verisimilitude
+- Attune
+
+
+Social - Ways to convince people
+- Bribe - I 
+- Personality
+
+
 
 
 From Fate:
