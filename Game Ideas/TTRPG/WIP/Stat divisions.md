@@ -44,14 +44,17 @@ Soul
 
 
 Social - Ways to gain things from people
-- Logic - Give them something they want in exchange
+- Bribe - Give them something they want in exchange
 	- Determine what they want (deduce motivation)
 	- Be what they want (show of competence)
 	- Anything they'd consider of value
 - Emotion
 	- Induce emotion and have them act on it (passion)
 	- Mirror emotion, show you're on the same page (empathy)
-- Trick
+- Faith
+- Logic - Convince them it makes sense
+	- Provide evidence
+	- Obfuscate 
 
 
 
