@@ -70,4 +70,13 @@ Ethereal
 - Weapons have 2 distinct modes of use
 - Helps make weapons feel distinct
 
+DND
+- I hate spell slots
+- FUCK spell slots
+- INFINITE MAGIC GO
+
+
+
+
 Check fallout rpg for crafting mechanics
+
