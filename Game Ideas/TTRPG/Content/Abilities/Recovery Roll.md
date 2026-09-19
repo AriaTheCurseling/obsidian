@@ -1,0 +1,1 @@
+When something would knock you prone, you may choose to instead gain [[Persistent Disadvantage]] on mobility and [[Roll]] away from the hit.
