@@ -27,9 +27,11 @@
 ##### Social
 - Skill Checks
 - Connections
+- Reputation
 ##### Down Time
 - Long ass timeframes
 - Crafting
+- Connections
 
 
 

@@ -77,6 +77,7 @@ DND
 
 Burning wheel
 - Instincts - default conditional actions
+- Circles - Abstraction of social connections, with mechanics attached
 
 
 
