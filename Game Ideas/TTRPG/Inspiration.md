@@ -75,6 +75,8 @@ DND
 - FUCK spell slots
 - INFINITE MAGIC GO
 
+Burning wheel
+- Instincts - default conditional actions
 
 
 
