@@ -45,7 +45,7 @@ Soul
 
 Social - Ways to gain things from people
 - Make them look bad - Face damage
-	- 
+	- Put them against others
 - Bribe - Give them something they want in exchange
 	- Determine what they want (deduce motivation)
 	- Be what they want (show of competence)
@@ -61,6 +61,8 @@ Social - Ways to gain things from people
 	- Any other with false evidence, emotion or faith
 
 
+
+Overcome, Advantage, Attack, Defend
 
 
 From Fate:
