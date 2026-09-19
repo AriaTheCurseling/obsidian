@@ -44,8 +44,11 @@ Soul
 
 
 Social - Ways to convince people
-- Bribe - I 
+- Give them something they want in exchange
+	- Determine what they want
 - Personality
+	- 
+- Trick
 
 
 
