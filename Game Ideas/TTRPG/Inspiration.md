@@ -79,7 +79,10 @@ Burning wheel
 - Instincts - default conditional actions
 - Circles - Abstraction of social connections, with mechanics attached
 
-
+Fate Core
+- Skill actions - Overcome, Advantage, Attack, Defend are brilliant
+- I like that it slots everything into a couple ways of using it
+- Helps define what they can and cant do
 
 Check fallout rpg for crafting mechanics
 
