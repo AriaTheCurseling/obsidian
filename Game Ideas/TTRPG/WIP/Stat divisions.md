@@ -61,7 +61,7 @@ Social - Ways to gain things from people
 - Trick 
 	- Any other with false evidence, emotion or faith
 
-
+disputes, debates, threats, deception, negotiation
 
 Overcome, Advantage, Attack, Defend
 
