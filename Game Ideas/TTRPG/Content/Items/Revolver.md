@@ -1,3 +1,3 @@
-Ammo 6, multishot
+[[Ammo X|Ammo 6]], [[multishot]]
 
 TODO:: dmg, hit modifier
