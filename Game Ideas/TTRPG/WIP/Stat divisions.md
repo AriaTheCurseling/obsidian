@@ -38,6 +38,7 @@ Soul
 - ? Art
 - Insight
 - Resolve
+- Investiture
 
 
 
