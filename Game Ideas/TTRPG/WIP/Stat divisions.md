@@ -43,10 +43,12 @@ Soul
 - Attune
 
 
-Social - Ways to convince people
-- Give them something they want in exchange
-	- Determine what they want
-- Personality
+Social - Ways to gain things from people
+- Logic - Give them something they want in exchange
+	- Determine what they want (deduce motivation)
+	- Be what they want (show of competence)
+	- Anything they'd consider of value
+- Emotion
 	- 
 - Trick
 
