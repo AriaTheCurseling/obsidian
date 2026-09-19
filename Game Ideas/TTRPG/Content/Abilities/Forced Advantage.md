@@ -1,0 +1,1 @@
+After seeing your roll, you can choose to roll a second die and use the highest value. If you do, keep the lowest as [[Persistent Disadvantage]]
