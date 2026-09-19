@@ -54,7 +54,9 @@ Social - Ways to gain things from people
 - Faith
 - Logic - Convince them it makes sense
 	- Provide evidence
-	- Obfuscate 
+	- Obfuscate evidence
+- Trick 
+	- Any other with false evidence, emotion or faith
 
 
 
