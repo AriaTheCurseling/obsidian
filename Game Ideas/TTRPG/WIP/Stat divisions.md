@@ -42,10 +42,15 @@ Soul
 - Verisimilitude
 
 
-
+From Fate:
+> Deceive > Bluff, Disguise
+> Rapport > Diplomacy, Handle Animal
+> Provoke > Intimidate
+> Empathy > Sense motive
+> missing: Perception, ?perform, spellcraft, knowledge
 
 From fate: Rapport, Provoke, Deceive and Empathy
-Reason - Charm - Incite - Trick - Enlighten
+From L5R: Reason - Charm - Incite - Trick - Enlighten
 
 
 
