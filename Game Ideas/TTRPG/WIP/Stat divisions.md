@@ -49,7 +49,8 @@ Social - Ways to gain things from people
 	- Be what they want (show of competence)
 	- Anything they'd consider of value
 - Emotion
-	- 
+	- Induce emotion and have them act on it (passion)
+	- Mirror emotion, show you're on the same page (empathy)
 - Trick
 
 
