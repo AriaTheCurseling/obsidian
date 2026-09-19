@@ -38,7 +38,7 @@ Soul
 - ? Art
 - Insight
 - Resolve
-- Investiture
+- Investiture - "Splitting your soul"
 
 
 
