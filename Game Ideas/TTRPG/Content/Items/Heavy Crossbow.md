@@ -1,0 +1,1 @@
+[[Ammo X|ammo 1]], [[Reload]]: Strength check, 1 action on success, 2 actions on failure
