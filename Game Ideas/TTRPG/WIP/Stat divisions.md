@@ -38,7 +38,8 @@ Soul
 - ? Art
 - Insight
 - Resolve
-- Investiture - "Splitting your soul"
+- Investiture > Investing your soul in things, magic items, summons
+- Verisimilitude
 
 
 
