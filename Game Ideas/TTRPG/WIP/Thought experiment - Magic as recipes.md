@@ -31,8 +31,10 @@ Ways to negotiate
 
 
 Types of requirements:
-- Environmental -> State of the world
+- Environmental -> State of the world, time, location
 - Emotional -> State of the caster
 - Connection -> Who is there
+- Knowledge
+- Skill 
 - Material -> Belongings
 - Anti -> stuff that cant be there
