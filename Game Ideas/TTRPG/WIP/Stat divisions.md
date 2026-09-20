@@ -43,10 +43,14 @@ Soul
 - Attune
 
 
+
+
 Magic
-- Willpower > Give yourself a status effect
+- Willpower > Give yourself a status effect, Main mental defence
 - Empathy > Use someone elses status
 
+
+Tact
 
 Social - Ways to gain things from people
 - Make them look bad - Face damage
