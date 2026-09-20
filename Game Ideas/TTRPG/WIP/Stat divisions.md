@@ -43,6 +43,11 @@ Soul
 - Attune
 
 
+Magic
+- Willpower > Give yourself a status effect
+- Empathy > Use someone elses status
+
+
 Social - Ways to gain things from people
 - Make them look bad - Face damage
 	- Put them against others
