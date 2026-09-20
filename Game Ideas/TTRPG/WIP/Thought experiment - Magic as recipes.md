@@ -15,7 +15,7 @@ Empathy stat lets you use the emotions of others for requirements.
 Willpower stat lets you give yourself the emotion required.
 
 
-Talismans as spell storage - Precraft your spells!
+Talismans as spell storage - Pre-craft your spells!
 
 Types of requirements:
 - Environmental -> State of the world
