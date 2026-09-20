@@ -54,6 +54,9 @@ Willpower
 - Martial -> Defends against empathy, magic and intimidation
 - Social -> Prevent people from reading you, deceive people
 
+A stat about influencing people
+A stat about logic != intelligence
+
 
 
 
