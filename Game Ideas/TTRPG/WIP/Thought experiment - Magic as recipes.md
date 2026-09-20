@@ -25,8 +25,8 @@ Magic as a negotiation with the world
 - State of the caster is important (mainly mental but also physical)
 
 Ways to negotiate
-- Change yourself to meet requirements
-- 
+- Change yourself to meet requirements (emotional, willpower)
+- Use someone else to meet requirements (emotional, empathy)
 
 
 Types of requirements:
