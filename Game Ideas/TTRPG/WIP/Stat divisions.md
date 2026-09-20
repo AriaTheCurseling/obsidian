@@ -43,6 +43,16 @@ Soul
 - Attune
 
 
+Empathy
+- Crafting & Trade -> Understand customers needs
+- Magic -> Use others statuses for requirements
+- Martial & Social -> Get a read on peoples thoughts and feelings
+
+Willpower
+- Crafting -> Craft for more hours in a day
+- Magic -> Give yourself statuses required
+- Martial -> Defends against empathy 
+- 
 
 
 Magic
