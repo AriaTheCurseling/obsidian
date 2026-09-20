@@ -7,10 +7,8 @@ If you instead need to hurry and have limited ingredients, there's a far greater
 A bad recipe might be harder to follow and you can only remember so many different ones.
 
 
-
 Emotions as ingredients? "only cast while frightened" is metal as fuck
 Vocalization as consumable? "The spell costs your voice" seems really cool
-
 
 
 Empathy stat lets you use the emotions of others for requirements.
