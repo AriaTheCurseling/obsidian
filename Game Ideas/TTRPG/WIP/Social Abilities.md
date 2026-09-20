@@ -1,4 +1,5 @@
 
+empathy - Your ability to perceive other's mental state (compassionate, understanding, sensitive, sympathetic)
 
 1 gain insight about others - empathy, awareness, sympathy, mindfulness, attentiveness
 On a successful roll you gain an insight into the other persons behavior, as it relates to the current situation. 
