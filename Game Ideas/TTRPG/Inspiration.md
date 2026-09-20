@@ -93,5 +93,8 @@ Magic systems to check:
 - Mage the Awakening
 - Mage the Ascension
 - Ars Magica
+
 Check fallout rpg for crafting mechanics
+
+Mousritter
 
