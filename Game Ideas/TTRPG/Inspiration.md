@@ -84,5 +84,14 @@ Fate Core
 - I like that it slots everything into a couple ways of using it
 - Helps define what they can and cant do
 
+
+
+
+Magic systems to check:
+- Unknown Armies
+- Blade of the Iron Throne
+- Mage the Awakening
+- Mage the Ascension
+- Ars Magica
 Check fallout rpg for crafting mechanics
 

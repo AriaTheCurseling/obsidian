@@ -12,3 +12,10 @@ Vocalization as consumable? "The spell costs your voice" seems really cool
 
 
 Empathy stat lets you use the emotions of others for requirements.
+Willpower stat lets you give yourself the emotion required.
+
+
+Types of requirements:
+- Environmental
+- Emotional
+- 
