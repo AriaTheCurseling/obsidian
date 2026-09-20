@@ -18,6 +18,17 @@ Logic for substitution?
 
 Talismans as spell storage - Pre-craft your spells!
 
+
+
+Magic as a negotiation with the world
+- Mental stats used similarly to social situations
+- State of the caster is important (mainly mental but also physical)
+
+Ways to negotiate
+- Change yourself to meet requirements
+- 
+
+
 Types of requirements:
 - Environmental -> State of the world
 - Emotional -> State of the caster
