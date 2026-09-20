@@ -18,6 +18,6 @@ Willpower stat lets you give yourself the emotion required.
 Talismans as spell storage - Precraft your spells!
 
 Types of requirements:
-- Environmental
-- Emotional
-- Material
+- Environmental -> State of the world
+- Emotional -> State of the caster
+- Material -> Belongings
