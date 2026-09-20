@@ -51,8 +51,10 @@ Empathy
 Willpower
 - Crafting -> Craft for more hours in a day
 - Magic -> Give yourself statuses required
-- Martial -> Defends against empathy 
-- 
+- Martial -> Defends against empathy, magic and intimidation
+- Social -> Prevent people from reading you, deceive people
+
+
 
 
 Magic
