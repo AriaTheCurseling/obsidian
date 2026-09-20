@@ -21,4 +21,6 @@ Talismans as spell storage - Pre-craft your spells!
 Types of requirements:
 - Environmental -> State of the world
 - Emotional -> State of the caster
+- Connection -> Who is there
 - Material -> Belongings
+- Anti -> stuff that cant be there
