@@ -34,8 +34,9 @@ Ways to negotiate
 Magical
 - Awareness for sudden magical insight
 - Empathy for offsetting condition and effect (cast from an ally)(change "self" to "target")
-- Willpower lets you change yourself to qualify,
-- Eloquence to change others
+- Empathy against magic > Redirect an effect onto yourself
+- Willpower lets you change yourself to qualify
+- Eloquence to change other's emotions
 
 Magical backlash can be endured by willpower or fortitude
 
