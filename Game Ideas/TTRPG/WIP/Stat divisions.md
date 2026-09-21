@@ -26,6 +26,7 @@ Mind
 - Presence
 	- Empathy
 	- Eloquence
+	- Composure
 - Trickery > Offensive stat
 - Awareness > Defensive and Informative (against trickery)
 - Influence > Offensive - issue with single approach
