@@ -20,16 +20,10 @@ Body
 	- Fortitude - endurance - Stamina
 		- Used to endure damage, resist injuries
 Mind
-- Social - charisma
-	- Influence / interaction / charisma
-	- Trickery
-- Study - intelligence
-	- Awareness > Discernment
-	- Knowledge / Investigation
 - Cognition
 	- Awareness,, Broaden to include thinking? discernment, acumen, cognizance 
 	- Willpower > insight? introspection?
-- ???
+- Presence
 	- Empathy
 	- Eloquence
 - Trickery > Offensive stat
