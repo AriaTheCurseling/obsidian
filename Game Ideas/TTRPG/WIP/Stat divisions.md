@@ -20,13 +20,12 @@ Body
 	- Fortitude - endurance - Stamina
 		- Used to endure damage, resist injuries
 Mind
-- Cognition
+- Perception
 	- Awareness,, Broaden to include thinking? discernment, acumen, cognizance 
-	- Willpower > insight? introspection? composure
-- Presence
 	- Empathy
+- Presence
 	- Eloquence
-	- Composure
+	- Composure > Willpower
 - Trickery > Offensive stat
 - Awareness > Defensive and Informative (against trickery)
 - Influence > Offensive - issue with single approach
