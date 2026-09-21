@@ -24,10 +24,10 @@ Mind
 	- Influence / interaction / charisma
 	- Trickery
 - Study - intelligence
-	- Awareness
+	- Awareness > Discernment
 	- Knowledge / Investigation
 - Cognition
-	- Awareness,, Broaden to include thinking?
+	- Awareness,, Broaden to include thinking? discernment, acumen, cognizance 
 	- Willpower > insight? introspection?
 - ???
 	- Empathy
