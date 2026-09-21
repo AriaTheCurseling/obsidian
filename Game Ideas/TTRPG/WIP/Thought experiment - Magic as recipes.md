@@ -37,6 +37,8 @@ Environment changed with physical? - yeahhh... weak tho
 
 some spells could require physical checks.. but im thinking about core game mechanics
 
+
+
 Types of requirements:
 - Environmental -> State of the world, time, location
 - Emotional -> State of the caster
