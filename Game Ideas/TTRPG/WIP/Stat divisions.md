@@ -27,7 +27,7 @@ Mind
 	- Awareness
 	- Knowledge / Investigation
 - Cognition
-	- Awareness
+	- Awareness,, Broaden to include thinking?
 	- Willpower > insight? introspection?
 - ???
 	- Empathy
