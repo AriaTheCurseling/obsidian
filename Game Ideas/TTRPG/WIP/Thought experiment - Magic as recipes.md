@@ -30,7 +30,14 @@ Ways to negotiate
 - Change yourself to meet requirements (emotional, willpower)
 - Use someone else to meet requirements (emotional, empathy)
 - Modify the spell to use what you have (eloquence)
-- 
+
+Magical
+- Awareness for sudden magical insight
+- Empathy for offsetting condition and effect (cast from an ally)(change "self" to "target")
+- Willpower lets you change yourself to qualify,
+- Eloquence to change others
+
+Magical backlash can be endured by willpower or fortitude
 
 Emotion can be subverted with (willpower, empathy or eloquence)
 Environment changed with physical? - yeahhh... weak tho
