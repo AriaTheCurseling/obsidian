@@ -26,7 +26,7 @@ Magic as a negotiation with the world
 
 Ways to negotiate
 - Change the world to meet requirements (physical stats)
-- 
+- Endure the cost of forceful channeling (fortitude)
 - Change yourself to meet requirements (emotional, willpower)
 - Use someone else to meet requirements (emotional, empathy)
 - Modify the spell to use what you have (logic)
