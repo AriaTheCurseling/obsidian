@@ -48,14 +48,15 @@ Empathy
 - Magic -> Use others statuses for requirements
 - Martial & Social -> Get a read on peoples thoughts and feelings
 
-Willpower
+Willpower (metacognition) (drive)
 - Crafting -> Craft for more hours in a day
+- Study -> Concentrate better
 - Magic -> Give yourself statuses required
 - Martial -> Defends against empathy, magic and intimidation
 - Social -> Prevent people from reading you, deceive people
 
 A stat about influencing people
-A stat about logic != intelligence
+A stat about logic != intelligence -> rationality?
 
 
 
