@@ -22,7 +22,7 @@ Body
 Mind
 - Cognition
 	- Awareness,, Broaden to include thinking? discernment, acumen, cognizance 
-	- Willpower > insight? introspection?
+	- Willpower > insight? introspection? composure
 - Presence
 	- Empathy
 	- Eloquence
