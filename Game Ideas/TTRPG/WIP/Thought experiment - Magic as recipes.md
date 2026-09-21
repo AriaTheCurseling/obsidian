@@ -32,6 +32,10 @@ Ways to negotiate
 - Modify the spell to use what you have (logic)
 - 
 
+Emotion can be subverted with (willpower, empathy or eloquence)
+Environment changed with physical? - yeahhh... weak tho
+
+some spells could require physical checks.. but im thinking about core game mechanics
 
 Types of requirements:
 - Environmental -> State of the world, time, location
