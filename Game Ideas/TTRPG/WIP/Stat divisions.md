@@ -26,6 +26,12 @@ Mind
 - Study - intelligence
 	- Awareness
 	- Knowledge / Investigation
+- Cognition
+	- Awareness
+	- Willpower
+- ???
+	- Empathy
+	- Eloquence
 - Trickery > Offensive stat
 - Awareness > Defensive and Informative (against trickery)
 - Influence > Offensive - issue with single approach
@@ -55,7 +61,7 @@ Willpower (metacognition) (drive) ?cognition?
 - Martial -> Defends against empathy, magic and intimidation
 - Social -> Prevent people from reading you, deceive people
 
-A stat about influencing people -> Projection, Persuation, Compelling, Eloquenence
+A stat about influencing people -> Projection, Persuation, Compelling, Eloquenence, Expression
 A stat about logic != intelligence -> rationality?
 
 
@@ -63,7 +69,7 @@ Cognition theory:
 - Perception > coherent experience
 - Attention > prioritization and filtering
 - Memory > Retention
-- Thinking
+- Thinking > 
 
 
 
