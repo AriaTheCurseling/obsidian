@@ -35,6 +35,7 @@ Ways to negotiate
 !! Empathy redirects magic
 
 Awareness or Eloquence to change magic
+- Maybe defensively vs offensively?
 
 
 Magical
