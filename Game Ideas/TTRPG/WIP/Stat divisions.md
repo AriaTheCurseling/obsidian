@@ -28,7 +28,7 @@ Mind
 	- Knowledge / Investigation
 - Cognition
 	- Awareness
-	- Willpower
+	- Willpower > insight? introspection?
 - ???
 	- Empathy
 	- Eloquence
@@ -61,7 +61,7 @@ Willpower (metacognition) (drive) ?cognition?
 - Martial -> Defends against empathy, magic and intimidation
 - Social -> Prevent people from reading you, deceive people
 
-A stat about influencing people -> Projection, Persuation, Compelling, Eloquenence, Expression
+A stat about influencing people -> Projection, Persuation, Compelling, Eloquence, Expression
 A stat about logic != intelligence -> rationality?
 
 
