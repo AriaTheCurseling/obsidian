@@ -45,10 +45,10 @@ Soul
 
 Empathy
 - Crafting & Trade -> Understand customers needs
-- Magic -> Use others statuses for requirements
+- Magic -> Use others statuses for requirements (extending "selfhood" onto others)
 - Martial & Social -> Get a read on peoples thoughts and feelings
 
-Willpower (metacognition) (drive)
+Willpower (metacognition) (drive) ?cognition?
 - Crafting -> Craft for more hours in a day
 - Study -> Concentrate better
 - Magic -> Give yourself statuses required
@@ -58,6 +58,9 @@ Willpower (metacognition) (drive)
 A stat about influencing people
 A stat about logic != intelligence -> rationality?
 
+
+Cognition theory:
+- 
 
 
 
