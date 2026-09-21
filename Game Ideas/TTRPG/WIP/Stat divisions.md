@@ -56,7 +56,7 @@ Willpower (metacognition) (drive) ?cognition?
 - Social -> Prevent people from reading you, deceive people
 
 A stat about influencing people -> Projection, Persuation, Compelling, Eloquence, Expression
-A stat about logic != intelligence -> rationality?
+A stat about logic != intelligence -> rationality? somehow tie to awareness
 
 
 Cognition theory:
