@@ -12,7 +12,7 @@ Body
 - Agility
 	- Dexterity - skill
 		- Used for attacking, card tricks, 
-	- Movement - Mobility
+	- Mobility
 		- Used for moving through difficult terrain, sneaking, dodging
 - Strength
 	- Force - power
