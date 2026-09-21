@@ -61,8 +61,9 @@ A stat about logic != intelligence -> rationality?
 
 Cognition theory:
 - Perception > coherent experience
-- Attention > prioritizes
-- 
+- Attention > prioritization and filtering
+- Memory > Retention
+- Thinking
 
 
 
