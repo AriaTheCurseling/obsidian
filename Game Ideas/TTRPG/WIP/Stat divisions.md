@@ -10,7 +10,7 @@ Race:
 
 Body
 - Agility
-	- Dexterity - skill
+	- Dexterity - skill > Offensive
 		- Used for attacking, card tricks, 
 	- Mobility
 		- Used for moving through difficult terrain, sneaking, dodging
@@ -21,15 +21,11 @@ Body
 		- Used to endure damage, resist injuries
 Mind
 - Perception
-	- Awareness,, Broaden to include thinking? discernment, acumen, cognizance 
-	- Empathy
+	- Awareness,, Broaden to include thinking? discernment, acumen, cognizance  > Defensive
+	- Empathy > Offensive
 - Presence
-	- Eloquence
-	- Composure > Willpower
-- Trickery > Offensive stat
-- Awareness > Defensive and Informative (against trickery)
-- Influence > Offensive - issue with single approach
-- ??? > How easy you are to influence
+	- Eloquence > Offensive
+	- Composure - Willpower > Defensive
 Soul
 - Intuition
 - Empathy
