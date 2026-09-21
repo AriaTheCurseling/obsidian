@@ -31,6 +31,12 @@ Ways to negotiate
 - Use someone else to meet requirements (emotional, empathy)
 - Modify the spell to use what you have (eloquence)
 
+
+!! Empathy redirects magic
+
+Awareness or Eloquence to change magic
+
+
 Magical
 - Awareness for sudden magical insight
 - Empathy for offsetting condition and effect (cast from an ally)(change "self" to "target")
