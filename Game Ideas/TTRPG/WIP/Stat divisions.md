@@ -28,12 +28,11 @@ Mind
 	- Composure - Willpower > Defensive
 Soul
 - Intuition
-- Empathy
-- Presence
 - Magic
 - ? Art
 - Insight
 - Resolve
+- Aura ?
 - Investiture > Investing your soul in things, magic items, summons
 - Verisimilitude
 - Attune
