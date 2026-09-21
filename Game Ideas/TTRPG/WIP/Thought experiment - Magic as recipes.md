@@ -29,7 +29,7 @@ Ways to negotiate
 - Endure the cost of forceful channeling (fortitude)
 - Change yourself to meet requirements (emotional, willpower)
 - Use someone else to meet requirements (emotional, empathy)
-- Modify the spell to use what you have (logic)
+- Modify the spell to use what you have (eloquence)
 - 
 
 Emotion can be subverted with (willpower, empathy or eloquence)
