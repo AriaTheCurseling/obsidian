@@ -28,6 +28,7 @@ Ways to negotiate
 - Change yourself to meet requirements (emotional, willpower)
 - Use someone else to meet requirements (emotional, empathy)
 - Modify the spell to use what you have (logic)
+- 
 
 
 Types of requirements:
