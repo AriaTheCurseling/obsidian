@@ -70,6 +70,7 @@ Cognition theory:
 Magic
 - Willpower > Give yourself a status effect, Main mental defence
 - Empathy > Use someone elses status
+- Eloquence > Redefine requirements
 
 
 Tact
