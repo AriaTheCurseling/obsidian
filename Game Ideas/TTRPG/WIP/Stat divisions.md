@@ -10,9 +10,9 @@ Race:
 
 Body
 - Agility
-	- Dexterity - skill > Offensive
+	- Coordination > Offensive
 		- Used for attacking, card tricks, 
-	- Mobility
+	- Mobility > Defensive
 		- Used for moving through difficult terrain, sneaking, dodging
 - Strength > Physique > Constitution
 	- Force - power
@@ -21,7 +21,7 @@ Body
 		- Used to endure damage, resist injuries
 Mind
 - Perception
-	- Awareness,, Broaden to include thinking? discernment, acumen, cognizance  > Defensive
+	- Acuity > Defensive
 	- Empathy > Offensive
 - Presence
 	- Eloquence > Offensive
