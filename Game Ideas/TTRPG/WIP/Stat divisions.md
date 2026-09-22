@@ -14,7 +14,7 @@ Body
 		- Used for attacking, card tricks, 
 	- Mobility
 		- Used for moving through difficult terrain, sneaking, dodging
-- Strength > Physique
+- Strength > Physique > Constitution
 	- Force - power
 		- Used to deal damage, move things
 	- Fortitude - endurance - Stamina
