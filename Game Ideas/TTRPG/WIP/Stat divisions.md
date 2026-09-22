@@ -25,7 +25,7 @@ Mind
 	- Empathy > Offensive
 - Presence
 	- Eloquence > Offensive
-	- Composure - Willpower > Defensive
+	- Composure > Defensive
 Soul
 - Intuition
 - Magic
