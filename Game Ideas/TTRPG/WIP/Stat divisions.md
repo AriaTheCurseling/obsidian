@@ -9,12 +9,12 @@ Race:
 
 
 Body
-- Agility
+- Agility > Dex
 	- Coordination > Offensive
 		- Used for attacking, card tricks, 
 	- Mobility > Defensive
 		- Used for moving through difficult terrain, sneaking, dodging
-- Strength > Physique > Constitution
+- Physique
 	- Force - power
 		- Used to deal damage, move things
 	- Fortitude - endurance - Stamina
@@ -23,6 +23,7 @@ Mind
 - Perception
 	- Acuity > Defensive
 	- Empathy > Offensive
+		- Used for telling emotion and current thought
 - Presence
 	- Eloquence > Offensive
 	- Composure > Defensive
