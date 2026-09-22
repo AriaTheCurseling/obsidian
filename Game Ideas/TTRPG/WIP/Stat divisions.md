@@ -39,6 +39,10 @@ Soul
 - Transference
 
 
+Random note: 
+- Relationships > Familiarity, loyalty, affection
+
+
 Empathy
 - Crafting & Trade -> Understand customers needs
 - Magic -> Use others statuses for requirements (extending "selfhood" onto others)
