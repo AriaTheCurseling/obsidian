@@ -9,15 +9,15 @@ Race:
 
 
 Body
-- Agility > Dex
+- Grace
 	- Coordination > Offensive
 		- Used for attacking, card tricks, 
 	- Mobility > Defensive
 		- Used for moving through difficult terrain, sneaking, dodging
 - Physique
-	- Force - power
+	- Force
 		- Used to deal damage, move things
-	- Fortitude - endurance - Stamina
+	- Fortitude
 		- Used to endure damage, resist injuries
 Mind
 - Perception
