@@ -36,6 +36,7 @@ Soul
 - Investiture > Investing your soul in things, magic items, summons
 - Verisimilitude
 - Attune
+- Transference
 
 
 Empathy
