@@ -1,5 +1,7 @@
 Coordination
+- Tool use, Weapon attack rolls
 Mobility
+- Moving over difficult terrain, swimming, climbing, dancing...
 Force
 Fortitude
 
@@ -15,6 +17,7 @@ Eloquence
 Composure
 - Social: 
 - Magic: Give yourself a condition
+- Combat:
 
 
 
