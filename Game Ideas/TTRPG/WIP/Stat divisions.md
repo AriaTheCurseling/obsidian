@@ -22,6 +22,7 @@ Body
 Mind
 - Perception
 	- Acuity > Defensive
+		- Can be used to notice things in the past (when we where at x, did i see...)
 	- Empathy > Offensive
 		- Used for telling emotion and current thought
 - Presence
