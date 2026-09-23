@@ -57,7 +57,7 @@ Willpower (metacognition) (drive) ?cognition?
 - Martial -> Defends against empathy, magic and intimidation
 - Social -> Prevent people from reading you, deceive people
 
-A stat about influencing people -> Projection, Persuation, Compelling, Eloquence, Expression
+A stat about influencing people -> Projection, Persuasion, Compelling, Eloquence, Expression
 A stat about logic != intelligence -> rationality? somehow tie to awareness
 
 
