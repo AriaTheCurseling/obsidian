@@ -3,7 +3,9 @@ Coordination
 Mobility
 - Moving over difficult terrain, swimming, climbing, dancing...
 Force
+- Pure power, ability to push things around
 Fortitude
+- Resistance, 
 
 Empathy
 - Social: Gain insight into another's current thoughts or feelings
@@ -25,6 +27,7 @@ Grace = full mobility plus half coordination
 - resists coordination
 Physique = full endurance plus half force
 - Resists force
+- Carrying capacity
 Perception = full acuity plus half empathy
 - Resists eloquence
 Presence = full composure plus half
