@@ -9,7 +9,3 @@ On a succesfull roll the target adds a relevant status onto their sheet, you may
 On a fail, their emotions might turn against you, maybe your words hit a nerve and you've gained their ire. You might simply find your words sound untrue as they leave your mouth, leaving you feeling worse for the wear. 
 
 
-
-
-3 Hide truth
-Keep the tru
