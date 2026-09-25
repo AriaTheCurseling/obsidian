@@ -14,6 +14,11 @@ Vocalization as consumable? "The spell costs your voice" seems really cool
 Empathy stat lets you use the emotions of others for requirements.
 Willpower stat lets you give yourself the emotion required.
 
+
+Willpower can be used to effect duration. 
+Empathy can redefine self
+
+
 Logic for substitution?
 
 Talismans as spell storage - Pre-craft your spells!
