@@ -5,7 +5,7 @@ This could be the components of a spell, the ingredients in a potion, the wood f
 You must supply a recipe, and the spell can only
 
 
-edge:
+Perk:
 Twist:
 Flaw: One material is missing
 Flaw: The materials come flying in too fast to handle
