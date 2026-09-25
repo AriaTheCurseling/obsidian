@@ -9,4 +9,6 @@ Addition > Lets you do x when you do y
 Substitution > lets you use x as y
 - Yes, Chainable
 
+Enhancement > 
+
 Trigger > Lets you do x when y happens
