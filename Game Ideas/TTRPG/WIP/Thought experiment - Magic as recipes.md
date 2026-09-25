@@ -66,11 +66,13 @@ Types of requirements:
 
 
 
-I'm making a ttrpg and am looking for early feedback on the core of the magic system.
-
-1. does anyone know of similar systems I can look at?
-2. What other well defined ways could spe
+I'm making a system and am looking for early feedback on the core of the magic system.
 
 Most spells will have conditional requirements, that cant easily be met all the time. Each mental attribute has a way to help meet certain requirements, for example, empathy lets you use another characters emotions to satisfy emotional components, while willpower lets you try and inflict the status effect on yourself.
 
-Example spell.
+An example spell would be:
+
+
+Questions I have:
+1. Does anyone know of similar systems I can look at?
+2. What other well defined ways could spells be manipulated? (ideally something that involves minimal GM arbitration)
