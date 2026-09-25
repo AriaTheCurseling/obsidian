@@ -15,8 +15,11 @@ Empathy stat lets you use the emotions of others for requirements.
 Willpower stat lets you give yourself the emotion required.
 
 
-Willpower can be used to effect duration. 
-Empathy can redefine self
+Willpower can be used to effect duration, either shaking off effects or 
+Empathy can redefine "self". 
+
+
+
 
 
 Logic for substitution?
