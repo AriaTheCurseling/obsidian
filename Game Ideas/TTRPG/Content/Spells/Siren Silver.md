@@ -5,10 +5,8 @@ Ingredients:
 
 You imbue your voice and fear into a piece of silver, binding them together within. The silver sings a song of fear and sorrow, pulling and twisting your being into one hurt by the touch of silver.
 
-The sound from the silver pulls on your physical form, twisting it into a being hurt by silver. The transformation is only effective while you are within hearing range of the sound.
-
 Perk:
 Twist: You transform into a shape you didn't know you could
-Flaw: You don't drop the silver fast enough, take damage.
-Flaw: The transformation is particularly slow, add telegraphed.
-Flaw:
+Flaw: You hold onto the silver for a moment to long and it burns you.
+Flaw: The song is weak and the transformation slow, it takes a full turn before you're transformed.
+Flaw: The song of silver binds you stronger than it should, you cannot willingly leave the song.
