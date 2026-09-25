@@ -10,4 +10,4 @@ On a fail, their emotions might turn against you, maybe your words hit a nerve a
 
 3 reframe sentence
 Carefully phrase a sentence to control how others may see it. 
-On a succelfull ro
+On a succelfull roll your target may still not believe you, but you have succesfully obscured the sentence so that it is harder for your target to 
