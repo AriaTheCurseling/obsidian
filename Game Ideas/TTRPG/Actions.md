@@ -10,6 +10,7 @@ Physical - mental - soul
 Continuous - You do something until the start of your next turn
 Delayed - Telegraphed - The action completes on your next turn (often interruptible)
 
+Cooperative - Your ally gets to do something too!
 #### Base Actions
 ##### Move
 You can move up to your characters movement as an action.
