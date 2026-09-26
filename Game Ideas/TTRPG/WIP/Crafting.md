@@ -9,3 +9,4 @@ A skill check determines if you succeed
 
 
 Rushed crafting - Crafting in combat
+Rolls for crafting - Flaws, Twists and perks
