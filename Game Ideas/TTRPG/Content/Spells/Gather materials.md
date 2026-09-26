@@ -1,5 +1,8 @@
 Ingredients:
-> 
+> Tools of the trade (Within 5')
+> Conception of what to craft
+
+
 
 This spell can telekinetically control nearby materials for any single recipe. 
 
