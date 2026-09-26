@@ -2,3 +2,5 @@ A druid wields the power of nature... something something protects it.. somethin
 
 The typical druid will have high empathy.
 
+Needs spells
+Abilities to control animals
