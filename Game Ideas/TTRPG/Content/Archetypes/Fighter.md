@@ -4,8 +4,8 @@ Main stat coordination?
 
 Wants weapon mastery abilities.
 
-Slashing > 
-Piercing >
+Slashing >  brutality
+Piercing > elegance
 Blunt >
 
 [[Speed Shooter]] - 
