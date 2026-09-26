@@ -6,7 +6,7 @@ Wants weapon mastery abilities.
 
 thrusting vs slashing
 blunt vs cutting vs piercing
-heavy vs light
+heavy vs light > power vs control
 length/range
 
 Slashing > multi target
