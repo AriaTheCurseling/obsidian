@@ -19,4 +19,4 @@ Piercing > precision
 Blunt > strength
 
 [[Speed Shooter]] - Use bows faster with ammo
-[[Fan the Hammer]] - 
+[[Fan the Hammer]] - Shoot all targets with a fast weapon
