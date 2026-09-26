@@ -1,7 +1,7 @@
 Ingredients:
 > A recipe in mind
 > The tools required nearby (Within 5')
-> 
+> Mobility of the caster ()
 
 
 
