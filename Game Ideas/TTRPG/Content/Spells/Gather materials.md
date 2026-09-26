@@ -1,6 +1,7 @@
 Ingredients:
-> Tools of the trade (Within 5')
-> A recipe of your choice
+> A recipe in mind
+> The tools required nearby (Within 5')
+> 
 
 
 
