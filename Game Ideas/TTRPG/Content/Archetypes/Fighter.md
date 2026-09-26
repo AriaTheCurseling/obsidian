@@ -6,11 +6,14 @@ Wants weapon mastery abilities.
 
 thrusting vs slashing
 blunt vs cutting vs piercing
+heavy vs light
+length/range
 
-Slashing > multi targe
-Thrusting
+Slashing > multi target
+Thrusting > single target
 
-Piercing > elegance
+Cutting > 
+Piercing > precision
 Blunt > strength
 
 [[Speed Shooter]] - 
