@@ -7,7 +7,9 @@ Wants weapon mastery abilities.
 thrusting vs slashing
 blunt vs cutting vs piercing
 
-Slashing >  brutality
+Slashing > multi targe
+Thrusting
+
 Piercing > elegance
 Blunt > strength
 
