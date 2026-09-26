@@ -1,6 +1,6 @@
 Ingredients:
 > Tools of the trade (Within 5')
-> Conception of what to craft
+> A recipe chosen
 
 
 
