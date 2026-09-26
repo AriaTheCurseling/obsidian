@@ -1,7 +1,11 @@
 Ingredients:
 > A recipe in mind
-> The tools required nearby (Within 5')
-> Mobility of the caster ()
+> The tools required at hand (Within 5')
+> The Materials required nearby (Within 30')
+> Mobility of the caster (Reserved)
+
+Infuse your mobility into the materials required for a recipe you know and have the tools to fulfill. They are telekinetically drawn to you, remaining within 
+
 
 
 
