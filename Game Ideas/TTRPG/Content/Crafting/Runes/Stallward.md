@@ -1,0 +1,1 @@
+Eases handling of objects or travel over terrain.
