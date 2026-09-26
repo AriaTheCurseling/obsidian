@@ -5,6 +5,8 @@ Ingredients:
 
 You imbue your voice and fear into a piece of silver, binding them together within. The silver sings a song of fear and sorrow, pulling and twisting your being into one hurt by the touch of silver.
 
+The song diminishes in range by 5' every turn.
+
 Perk:
 Twist: You transform into a shape you didn't know you could
 Flaw: You hold onto the silver for a moment to long and it burns you.
