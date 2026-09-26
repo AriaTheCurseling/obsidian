@@ -20,3 +20,4 @@ Blunt > strength
 
 [[Speed Shooter]] - Use bows faster with ammo
 [[Fan the Hammer]] - Shoot all targets with a fast weapon
+[[Sweeping Blows]] - Can hit multiple enemies in one strike
