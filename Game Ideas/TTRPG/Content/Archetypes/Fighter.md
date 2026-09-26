@@ -7,7 +7,9 @@ Wants weapon mastery abilities.
 thrusting vs slashing
 blunt vs cutting vs piercing
 heavy vs light > power vs control
-length/range
+short, long, thrown, ranged
+aligned or not
+one or two hands
 
 Slashing > multi target
 Thrusting > single target
