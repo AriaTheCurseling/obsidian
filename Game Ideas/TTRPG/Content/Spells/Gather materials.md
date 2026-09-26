@@ -1,6 +1,6 @@
 Ingredients:
 > Tools of the trade (Within 5')
-> A recipe chosen
+> A recipe of your choice
 
 
 
