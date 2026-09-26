@@ -6,7 +6,7 @@ Wants weapon mastery abilities.
 
 Slashing >  brutality
 Piercing > elegance
-Blunt >
+Blunt > heavy
 
 [[Speed Shooter]] - 
 [[Fan the Hammer]] - 
