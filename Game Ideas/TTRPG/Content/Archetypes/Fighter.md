@@ -4,9 +4,12 @@ Main stat coordination?
 
 Wants weapon mastery abilities.
 
+thrusting vs slashing
+blunt vs cutting vs piercing
+
 Slashing >  brutality
 Piercing > elegance
-Blunt > heavy
+Blunt > strength
 
 [[Speed Shooter]] - 
 [[Fan the Hammer]] - 
