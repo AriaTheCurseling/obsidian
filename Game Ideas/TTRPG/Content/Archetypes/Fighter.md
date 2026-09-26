@@ -24,4 +24,4 @@ Blunt > strength
 
 
 
-[[Montante]]
+[[]] - Keep enemies away with your weapon
