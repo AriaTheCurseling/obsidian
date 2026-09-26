@@ -1,3 +1,6 @@
+Ingredients:
+> 
+
 This spell can telekinetically control nearby materials for any single recipe. 
 
 This could be the components of a spell, the ingredients in a potion, the wood for a chair. 
