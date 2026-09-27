@@ -1,1 +1,5 @@
+#adjustment #spell-adjustment
 You may make a sound based effect apply to an additional target within range of the sound
+
+
+-- Upgrade: all possible targets
