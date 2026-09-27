@@ -5,4 +5,4 @@ Ingredients
 
 
 
-Directly controlled?
+Directly controlled? not when it steals your ability to wield a weapon
