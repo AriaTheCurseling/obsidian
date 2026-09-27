@@ -10,6 +10,7 @@ Physical - mental - soul
 
 Continuous - You do something until the start of your next turn
 Telegraphed - The action completes on your next turn (often interruptible)
+Stance - Active until you cancel or interrupt it
 
 Flourish - Can only do one of these per turn
 Pressed - Can only be done while under a repetition penalty
