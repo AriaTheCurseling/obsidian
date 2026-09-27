@@ -9,10 +9,11 @@ Big properties to effect:
 Repetition penalty of -4 on everything
 
 Ammo - Allows weapon to be better at the cost of reloading
-Ceaseless - First strike is at negative, unless
+Ceaseless - A weapon that needs to be used continuously
+Flurry - A weapon that can be used fast
 
 
-Multishot - If an attack fails you can retry on the same target
+
 
 Sweeping - If an attack fails you can retry on an adjacent target
 
