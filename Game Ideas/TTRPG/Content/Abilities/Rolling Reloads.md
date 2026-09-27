@@ -1,1 +1,1 @@
-Whenever you would [[roll]] or [[Reload]], you may do both instead.
+Whenever you would [[Roll]] or [[Reload]], you may do both instead.
