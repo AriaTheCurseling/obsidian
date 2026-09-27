@@ -1,0 +1,1 @@
+You can hit enemies further away with this
