@@ -20,4 +20,12 @@ weapon-catching - Can catch an opponents weapon, locking them together. Follow u
 
 
 
+Defensive - You get a bonus to ac
+
+
+
+
 Riposte - Telegraphed action, lets you counterattack
+
+
+Montante - Sweeping, Reach, Heavy
