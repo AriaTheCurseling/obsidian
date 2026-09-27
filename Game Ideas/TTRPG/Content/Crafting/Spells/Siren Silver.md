@@ -1,6 +1,6 @@
-#enchantment
+#enchantment #spell 
 Ingredients: 
-> piece of silver (changed)
+> piece of silver (enchanted)
 > feeling of fear (consumed)
 > voice of the caster (consumed)
 
