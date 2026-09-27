@@ -1,0 +1,1 @@
+Use the skill of someone dead for spells that consume ability 
