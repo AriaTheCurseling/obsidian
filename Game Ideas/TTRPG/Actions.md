@@ -10,9 +10,10 @@ Physical - mental - soul
 Continuous - You do something until the start of your next turn
 Telegraphed - The action completes on your next turn (often interruptible)
 
-Exhausting - Can only do one of these per turn
+Flourish - Can only do one of these per turn
+Pressed - Can only be done while under a repetition penalty
 
-Cooperative - Your ally gets to do something too!
+Teamwork - Your ally gets to do something too!
 #### Base Actions
 ##### Move
 You can move up to your characters movement as an action.
