@@ -1,3 +1,4 @@
+#enchantment #spell 
 Ingredients
 > Pebbles  (Changed)
 >...
