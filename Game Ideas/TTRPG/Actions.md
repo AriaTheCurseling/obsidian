@@ -10,7 +10,7 @@ Physical - mental - soul
 Continuous - You do something until the start of your next turn
 Telegraphed - The action completes on your next turn (often interruptible)
 
-
+Exhausting - Can only do one of these per turn
 
 Cooperative - Your ally gets to do something too!
 #### Base Actions

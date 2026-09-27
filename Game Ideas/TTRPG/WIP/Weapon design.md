@@ -9,6 +9,9 @@ Big properties to effect:
 
 
 Ammo - Allows weapon to be better at the cost of reloading
+Momentum - First strike is at negative, unless
+
+
 Multishot - If an attack fails you can retry on the same target
 
 Sweeping - If an attack fails you can retry on an adjacent target
@@ -19,8 +22,10 @@ weapon-catching - Can catch an opponents weapon, locking them together. Follow u
 
 
 
-
 Defensive - You get a bonus to ac
+
+
+
 
 
 
