@@ -1,6 +1,6 @@
 #enchantment #spell 
 Ingredients
-> Pebbles  (Changed)
+> Pebbles  (enchanted)
 >...
 
 
