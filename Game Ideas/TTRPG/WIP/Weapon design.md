@@ -13,4 +13,4 @@ Multishot - Allows retrying
 
 
 
-locking - Can catch an opponents wepong
+weapon-catching - Can catch an opponents weapon, locking them together. Follow up attacks gain a bonus, but you can't use this weapon while locked
