@@ -6,7 +6,7 @@ Big properties to effect:
 - Successes
 - Extra costs
 
-
+Repetition penalty of -4 on eve
 
 Ammo - Allows weapon to be better at the cost of reloading
 Momentum - First strike is at negative, unless
