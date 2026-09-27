@@ -7,13 +7,15 @@ A reckless action invites consequences, while a cautious action has reduced impa
 
 ### Types of actions
 Physical - mental - soul
+
 Continuous - You do something until the start of your next turn
 Telegraphed - The action completes on your next turn (often interruptible)
 
 Flourish - Can only do one of these per turn
 Pressed - Can only be done while under a repetition penalty
+Command - Gives your allies actions (you don't need to be involved)
 
-Teamwork - Your ally gets to do something too!
+Teamwork - Share an action with an ally (you need to be involved)
 #### Base Actions
 ##### Move
 You can move up to your characters movement as an action.
