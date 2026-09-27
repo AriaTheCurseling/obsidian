@@ -11,3 +11,6 @@ Big properties to effect:
 Ammo - Allows weapon to be better at the cost of reloading
 Multishot - Allows retrying
 
+
+
+locking - Can catch an opponents wepong
