@@ -9,7 +9,7 @@ Big properties to effect:
 Repetition penalty of -4 on everything
 
 Ammo - Allows weapon to be better at the cost of reloading
-Momentum - First strike is at negative, unless
+Ceaseless - First strike is at negative, unless
 
 
 Multishot - If an attack fails you can retry on the same target
