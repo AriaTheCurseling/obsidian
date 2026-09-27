@@ -24,7 +24,7 @@ Defensive - You get a bonus to ac
 
 
 
-
+Momentum/continuous - Telegraphed action, you may attack people who move into your range
 Riposte - Telegraphed action, lets you counterattack
 
 
