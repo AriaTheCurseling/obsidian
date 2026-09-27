@@ -20,4 +20,4 @@ weapon-catching - Can catch an opponents weapon, locking them together. Follow u
 
 
 
-Riposte - Telegraphed 
+Riposte - Telegraphed action, lets you counterattack
