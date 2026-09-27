@@ -1,6 +1,4 @@
 Main attribute fortitude.
 
 
-
-
-[[Held Effect]] - You may
+-- Use fortitude to hold onto spell effects
