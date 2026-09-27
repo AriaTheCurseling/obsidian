@@ -1,3 +1,4 @@
+#enchantment
 Ingredients: 
 > piece of silver (changed)
 > feeling of fear (consumed)
