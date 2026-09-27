@@ -1,1 +1,3 @@
-#teamwork #modifier
+#teamwork #adjustment #attack-adjustment
+
+
