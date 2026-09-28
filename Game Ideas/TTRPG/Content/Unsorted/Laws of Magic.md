@@ -12,6 +12,6 @@ Enchantments fade without structure - But can be made to last
 Enchantments can be dispelled - If you can figure out how
 
 Laws of Space
-Space and time are fundementally entw
+Space and time are fundamentally entwined
 
 
