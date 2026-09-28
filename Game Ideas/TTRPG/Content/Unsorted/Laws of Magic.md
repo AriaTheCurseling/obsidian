@@ -1,6 +1,6 @@
 
 
 ###### Law of Animation
-You cannot animate anything to do what you do not know how to do
+Animation requires the ability to do the skill you're animating
 ###### Law of Enchantment
-Enchantments on the same object are competing
+Enchantments on the same object incur the penalty of repetition
