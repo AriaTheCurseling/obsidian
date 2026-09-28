@@ -1,4 +1,6 @@
-
+#spell 
+Ingredients
+> Tail of salamander
 
 Leave behind your appearance, rendering yourself invisible. 
 
