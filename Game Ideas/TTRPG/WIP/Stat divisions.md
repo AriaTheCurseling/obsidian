@@ -10,9 +10,9 @@ Race:
 
 Body
 - Grace
-	- Coordination > Offensive
+	- Finesse | Was coordination > Offensive
 		- Used for attacking, card tricks, 
-	- Mobility > Defensive
+	- Agility | Was mobility > Defensive
 		- Used for moving through difficult terrain, sneaking, dodging
 - Physique
 	- Force
