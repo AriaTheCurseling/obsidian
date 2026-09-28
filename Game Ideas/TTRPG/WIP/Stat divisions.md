@@ -17,7 +17,7 @@ Body
 - Physique
 	- Force
 		- Used to deal damage, move things
-	- Fortitude
+	- Tenacity | was Fortitude
 		- Used to endure damage, resist injuries
 Mind
 - Perception
