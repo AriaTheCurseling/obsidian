@@ -2,9 +2,8 @@
 Ingredients
 > 
 > Tail of a two-headed salamander... will be consumed
-> Moonlight of a  
-> Skin?
-> 
+> The light of a purple moon... to weave into form
+> A clear night sky
 
 Leave behind your appearance, rendering yourself invisible. 
 
