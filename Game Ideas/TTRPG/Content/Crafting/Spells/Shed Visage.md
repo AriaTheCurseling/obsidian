@@ -20,9 +20,4 @@ Documented Risks:
 > **Mental Displacement**
 > A target with a mind might end up disconnected from their body, instead inhibiting the appearance. If such an appearance is worn, there's risk of possession
 > **Sound Displacement**
-> Sound is also ripped from the object and imposed on the appearance. The object is incapable of making sound, the appearance makes sounds as if it was real.
-> 
-
-
-flaw: the appearance is alive
-flaw: you become the appearance
+> Sound is also ripped from the object and imposed on the appearance. The object is incapable of making sound, the appearance makes sounds as if it was real. The object has trouble interacting with the world, exerting far less force than normal.
