@@ -11,11 +11,13 @@ Enchantments fill the material - You cannot enchant half a rock
 Enchantments compete - They are subject to repetition penalty
 Enchantments fade without structure - But can be made to last
 Enchantments can be dispelled - If you can figure out how
-
+Enchantments alter behavior - That's the point of the spell
 ###### Laws of Dreams (illusion magic)
 
 ###### Laws of Evocation
 Evocation is the magical of manipulating energy
+
+Evocation 
 
 Based on scale:
 Dark > Gravity > Kinetic > Sound > Thermal > Electrical > Chemical > Nuclear > Photonic
