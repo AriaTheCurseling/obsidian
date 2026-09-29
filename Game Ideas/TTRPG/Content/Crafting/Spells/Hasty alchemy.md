@@ -11,4 +11,4 @@ The process reacts rapidly, progressing by up to 10 minutes. The end result has 
 
 Creatures have some ability to resist this spell, but this spell make a poison or elixir act faster upon a creature, at the cost of reduced effect.
 
-In a pinch, this spell can help a creatures wounds from bleeding out.
+In a pinch, this spell can help a creatures wounds from bleeding out, as a creatures natural health is also affected by the spell.
