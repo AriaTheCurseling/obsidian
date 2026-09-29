@@ -19,5 +19,6 @@ Space and time are fundamentally entwined
 Evocation is the magical of manipulating energy
 
 Dark > Gravity > Kinetic > Sound > Thermal > Electrical > Chemical > Nuclear > Photonic
+Nuclear > Chemical > Electrical > Gravity > Kinetic > Photonic > Sound > Thermal > Dark
 
 Photonic gets Quantum?
