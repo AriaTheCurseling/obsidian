@@ -8,7 +8,11 @@ Ingredients
 
 Takes between 5 minutes and an hour.
 
+Seperate the targets physical form from its appearance. 
 
+The object no longer interacts with light, rendering it invisible. 
+
+The shed appearance reacts realistically to forces, you can pick it up and move it. If you drop it it falls to the floor
 
 
 Leave behind your appearance, rendering yourself invisible. 
