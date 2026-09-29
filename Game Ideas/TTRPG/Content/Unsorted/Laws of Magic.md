@@ -16,6 +16,7 @@ Enchantments alter behavior - That's the point of the spell
 
 ###### Laws of Evocation
 Evocation is the magical of manipulating energy
+Evocation affects a type - Thats the only targeting
 
 Evocation 
 
@@ -38,3 +39,5 @@ Can
 - End effects
 - Sever connections
 - Seperate things
+Can't
+- Counterspell (fuck counterspell)
