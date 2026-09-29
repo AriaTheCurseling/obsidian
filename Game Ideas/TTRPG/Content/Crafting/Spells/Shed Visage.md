@@ -1,7 +1,9 @@
 #spell #evocation
 Ingredients
 > Tail of salamander
-> ...
+> Moonlight
+> Skin?
+> 
 
 Leave behind your appearance, rendering yourself invisible. 
 
