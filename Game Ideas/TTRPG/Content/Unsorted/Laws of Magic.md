@@ -11,6 +11,9 @@ Enchantments fill the material - You cannot enchant half a rock
 Enchantments compete - They are subject to repetition penalty
 Enchantments fade without structure - But can be made to last
 Enchantments can be dispelled - If you can figure out how
+
+###### Laws of Dreams (illusion magic)
+
 ###### Laws of Evocation
 Evocation is the magical of manipulating energy
 
@@ -27,3 +30,5 @@ Photonic gets Quantum?
 
 ###### Laws of Space
 Space and time are fundamentally entwined
+
+###### Laws of abjuration (Abandonment, non-interaction)
