@@ -10,7 +10,7 @@ Race:
 
 Body
 - Grace
-	- Coordination > Offensive
+	- Finesse > Offensive
 		- Used for attacking, card tricks, 
 	- Agility > Defensive
 		- Used for moving through difficult terrain, sneaking, dodging
