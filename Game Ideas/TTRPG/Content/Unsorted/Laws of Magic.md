@@ -23,7 +23,7 @@ Dark > Gravity > Kinetic > Sound > Thermal > Electrical > Chemical > Nuclear > P
 
 Based on entropy:
 Nuclear > Chemical > Electrical > Kinetic > Sound > Thermal
-Dark > Gravity > Photonic
+Dark, Gravity, Photonic, Space, Time
 
 Based on transmutation:
 
