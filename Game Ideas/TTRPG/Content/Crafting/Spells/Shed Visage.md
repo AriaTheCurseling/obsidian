@@ -1,12 +1,14 @@
 #spell #evocation
 Ingredients
-> A physical object covered in
+> An object covered in soot... As the target
 > Tail of a two-headed salamander... will be consumed
 > The light of a purple moon... to weave into form
-> A starry night sky... unaffected by the spell
-> 
+> A starry night sky
+> No other forms of light
 
 Takes between 5 minutes and an hour.
+
+
 
 
 Leave behind your appearance, rendering yourself invisible. 
