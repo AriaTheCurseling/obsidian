@@ -12,7 +12,7 @@ Body
 - Grace
 	- Coordination > Offensive
 		- Used for attacking, card tricks, 
-	- Mobility > Defensive
+	- Agility > Defensive
 		- Used for moving through difficult terrain, sneaking, dodging
 - Physique
 	- Prowess
