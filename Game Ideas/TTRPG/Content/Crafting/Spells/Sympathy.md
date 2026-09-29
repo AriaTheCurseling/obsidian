@@ -1,0 +1,3 @@
+Metamagic
+
+Spread an effect to a creature of same species, object of similar make...
