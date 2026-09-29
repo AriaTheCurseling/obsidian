@@ -1,4 +1,4 @@
-#spell #evocation
+#spell #evocation #abjuration
 Ingredients
 > An object covered in soot... As the target
 > Tail of a two-headed salamander... will be consumed
