@@ -1,7 +1,8 @@
 #spell #evocation
 Ingredients
-> Tail of salamander
-> Moonlight 
+> 
+> Tail of a two-headed salamander... will be consumed
+> Moonlight of a  
 > Skin?
 > 
 
