@@ -22,7 +22,8 @@ Based on scale:
 Dark > Gravity > Kinetic > Sound > Thermal > Electrical > Chemical > Nuclear > Photonic
 
 Based on entropy:
-Nuclear > Chemical > Electrical > Gravity > Kinetic > Photonic > Sound > Thermal > Dark
+Nuclear > Chemical > Electrical > Kinetic > Sound > Thermal
+Dark > Gravity > Photonic
 
 Based on transmutation:
 
