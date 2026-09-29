@@ -18,7 +18,12 @@ Space and time are fundamentally entwined
 ###### Laws of Evocation
 Evocation is the magical of manipulating energy
 
+Based on scale:
 Dark > Gravity > Kinetic > Sound > Thermal > Electrical > Chemical > Nuclear > Photonic
+
+Based on entropy:
 Nuclear > Chemical > Electrical > Gravity > Kinetic > Photonic > Sound > Thermal > Dark
+
+Based on transmutation:
 
 Photonic gets Quantum?
