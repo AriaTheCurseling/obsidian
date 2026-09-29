@@ -16,15 +16,13 @@ Enchantments alter behavior - That's the point of the spell
 
 ###### Laws of Evocation
 Evocation is the magical of manipulating energy
-Evocation affects a type - Thats the only targeting
-
-Evocation 
+Evocation affects a type - That's the only targeting
 
 Based on scale:
 Dark > Gravity > Kinetic > Sound > Thermal > Electrical > Chemical > Nuclear > Photonic
 
 Based on entropy:
-Nuclear > Chemical > Electrical > Kinetic > Sound > Thermal
+Nuclear > Alchemical > Electrical > Kinetic > Sound > Thermal
 Dark, Gravity, Photonic, Space, Time
 
 Based on transmutation:
