@@ -17,4 +17,9 @@ Space and time are fundamentally entwined
 
 ###### Laws of Evocation
 Evocation is the magical of manipulating energy
-Heat, Gravity, Weight, Electricity, Kinetic, Chemical, Light
+Heat, Gravity, Weight, Electricity, Kinetic, Chemical, Light, Sound
+
+Dark > Gravity
+
+
+Motion > Sound > Thermal > 
