@@ -1,7 +1,7 @@
 #spell #evocation
 Ingredients
 > Tail of salamander
-> Unbent moonlight 
+> Moonlight 
 > Skin?
 > 
 
