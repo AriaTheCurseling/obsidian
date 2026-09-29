@@ -1,4 +1,4 @@
-#spell 
+#spell #evocation
 Ingredients
 > Tail of salamander
 > ...
