@@ -34,3 +34,7 @@ Photonic gets Quantum?
 Space and time are fundamentally entwined
 
 ###### Laws of abjuration (Abandonment, non-interaction, separation)
+Can
+- End effects
+- Sever connections
+- Seperate things
