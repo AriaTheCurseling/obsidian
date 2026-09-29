@@ -10,14 +10,14 @@ Race:
 
 Body
 - Grace
-	- Finesse | Was coordination > Offensive
+	- Coordination > Offensive
 		- Used for attacking, card tricks, 
-	- Agility | Was mobility > Defensive
+	- Mobility > Defensive
 		- Used for moving through difficult terrain, sneaking, dodging
 - Physique
-	- Force
+	- Prowess
 		- Used to deal damage, move things
-	- Tenacity | was Fortitude
+	- Fortitude
 		- Used to endure damage, resist injuries
 Mind
 - Perception
