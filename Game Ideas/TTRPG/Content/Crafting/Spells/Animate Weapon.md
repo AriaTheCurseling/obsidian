@@ -1,7 +1,7 @@
 #enchantment #spell 
 Ingredients
 > A weapon (enchanted)
-> Your skill with the weapon (Consumed)
+> Your skill with the weapon (infused)
 > ...
 
 
