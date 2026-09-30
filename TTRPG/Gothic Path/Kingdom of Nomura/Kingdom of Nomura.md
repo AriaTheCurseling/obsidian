@@ -4,12 +4,10 @@ Locals wear **colourful headdresses and amulets of feathers and beads of stone, 
 
 #### Territory
 Its borders extend to ..
-
 - the **Katou reef** in the East,
 - the **Chousokabe bay** in the West,
 - the **Morikawa forest (broadleaf)** in the North
 - and the **Nabeshima sea** in the South.
-
 #### Politics
  - Trouble: **A new fanatic religious sect is gaining popularity**.
 - Fortune: **A new trade agreement with a distant kingdom is bringing in exotic textiles, spices and crafts**.

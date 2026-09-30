@@ -1,6 +1,6 @@
 Aesthetic: **Sumerian**
 
-Locals wear **jewelled necklaces, brooches, rings and earrings that display the wearer's wealth**.
+Locals wear **jewelled necklaces, brooches, rings and earrings that display the wearer's wealth**. These are almost always enchanted
 
 #### Territory
 
