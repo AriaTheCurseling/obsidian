@@ -12,4 +12,4 @@
 - Trouble: **An indebted ruler**.
 - Fortune: **A new mining endeavor has become a source of wealth**.
 - Dispute with one neighboring kingdom: **Bandits and criminals are taking refuge in their lands**.
-- Positive tie with one neighboring kingdom: **They are in a mutual defense pact with this kingdom**.
+- Positive tie with Nomura: **They are in a mutual defense pact with this kingdom**.
