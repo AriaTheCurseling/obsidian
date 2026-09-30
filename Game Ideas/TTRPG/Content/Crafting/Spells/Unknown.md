@@ -1,6 +1,6 @@
 
 Ingredients:
-> Unseen... consumed
+> Undetected... consumed
 
 
-Brief render an object undetectable
+Briefly render an object undetectable
