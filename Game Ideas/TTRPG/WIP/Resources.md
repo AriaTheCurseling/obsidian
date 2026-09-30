@@ -1,5 +1,5 @@
 
 Stamina > Exhausted
-Strain > Broken
+Strain > Battered
 Stress > Overwhelmed
-Stability > Broken
+Stability > Distraught
