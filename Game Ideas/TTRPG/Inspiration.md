@@ -84,7 +84,8 @@ Fate Core
 - I like that it slots everything into a couple ways of using it
 - Helps define what they can and cant do
 
-
+Fatebenders
+- DC to heal based on roll to hit
 
 
 Magic systems to check:
