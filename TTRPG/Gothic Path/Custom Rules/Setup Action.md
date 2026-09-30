@@ -7,5 +7,4 @@ Alternatively, the ally can choose to move their initiative **up** to act immedi
 -# An ally cannot choose this option if their initiative is higher than yours
 
 **Critical Success** You grant your ally a +2 circumstance bonus to their check.
-**Success** You grant your ally a +1 circumstance bonus to the their check.  
-**Critical Failure** Your ally takes a –1 circumstance penalty to the their check.
+**Success** You grant your ally a +1 circumstance bonus to their check.  
