@@ -1,7 +1,6 @@
 Aesthetic: **Gothic**
 
 Locals wear **dresses with woven patterns that tell of the family's past achievements, each new achievement is added to the dress**.
-
 #### Territory
 Its borders extend to ..
 - the **Theodananda grassland** in the West,
@@ -21,10 +20,8 @@ Its borders extend to ..
 
 #### Brunihild Castle
 A thriving ruler's court led by **Her Majesty Amalgard, a former general who seized the throne by force**.
-
 #### Lower city
 **The Devils** - An efficient gang of urchins.
-
 #### Docks
 **The Silent Serpent** - An insular smuggling ring.
 #### Market
@@ -32,7 +29,7 @@ A richly-sponsored foreign merchant guild led by **Guildmaster Alhreiks**.
 #### Workshops
 A divided **Shipwrights guild** led by **Mistress Sunilda**.
 #### Temple hill
-A pious order of **The hidden souls** led by **head priest Hisarna**.
+A pious order of **The hidden souls of object** led by **head templar Hisarna**.
 #### Entertainment district
 **The Burning Jester** - A xenophobic criminal organisation.
 #### Barracks
@@ -49,7 +46,6 @@ A righteous noble house led by **Lord Gutthikas**.
 Random location: **Castle dungeon**
 
 Random guard **Theudefred** (age **22**, level **8**) who **desires to have authority**
-
 - Is Attuned and prefers to use **Fortify**
 - Is armed with a **spear** and a **large shield**, has a **sword** as a sidearm and wears **plate** armour
 - Weakness: **Heretic**
