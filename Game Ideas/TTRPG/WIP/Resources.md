@@ -1,7 +1,7 @@
 
 Positive
 > Stamina > Exhausted
-> Endurance | Grit > Battered
+> Grit > Battered
 > Awareness > Overwhelmed
 > Stability > Distraught
 
