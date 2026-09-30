@@ -32,7 +32,7 @@ A richly-sponsored foreign merchant guild led by **Guildmaster Alhreiks**.
 #### Workshops
 A divided **Shipwrights guild** led by **Mistress Sunilda**.
 #### Temple hill
-A pious order of **Amalberga, the goddess of health and healing** led by **head priest Hisarna**.
+A pious order of **The hidden souls** led by **head priest Hisarna**.
 #### Entertainment district
 **The Burning Jester** - A xenophobic criminal organisation.
 #### Barracks
