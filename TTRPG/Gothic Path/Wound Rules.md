@@ -5,7 +5,8 @@ class hp - 6 to 12 + con
 
 class/2
 
-6 to 11
+9 to 13
+8 to 22
 
 reduction = lvl * con + armor 
 
