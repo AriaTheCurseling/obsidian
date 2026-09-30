@@ -1,1 +1,3 @@
-compensate race HP
+compensate 
+race
+class
