@@ -1,7 +1,14 @@
 
-Stamina | Fatigue | Exhaustion > Exhausted | Fatigued
-Strain > Battered | Strained
-Stress > Overwhelmed | Stressed
-Stability | Volatility > Distraught | Volatile
+Positive
+> Stamina > Exhausted
+> Endurance | Grit > Battered
+> Awareness > Overwhelmed
+> Stability > Distraught
+
+Negative:
+> Exhaustion > Fatigued
+> Strain > Strained
+> Stress >Stressed
+> Volatility > Volatile
 
 Rest action lets you recover, but its telegraphed and easy to interrupt!
