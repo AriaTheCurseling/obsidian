@@ -1,5 +1,5 @@
 
-Stamina | Fatigue | Exhaustio > Exhausted |
+Stamina | Fatigue | Exhaustion > Exhausted | Fatigued
 Strain > Battered | Strained
 Stress > Overwhelmed | Stressed
 Stability | Volatility > Distraught | Volatile
