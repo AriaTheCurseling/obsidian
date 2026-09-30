@@ -1,0 +1,4 @@
+
+Stamina
+Strain
+Stress
