@@ -5,7 +5,9 @@ class hp - 6 to 12 + con
 
 class/2
 
-reduction = con + armor 
+6 to 11
 
-moderate = level          
-critical      = level + race 
+reduction = lvl * con + armor 
+
+moderate = hp / 4          
+critical      = hp / 2
