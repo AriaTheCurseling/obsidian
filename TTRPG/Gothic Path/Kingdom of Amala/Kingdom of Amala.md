@@ -9,10 +9,10 @@ Its borders extend to ..
 - and the **Melle salt lake** in the North.
 
 #### Politics
-- Trouble: **Losing a war with a neighboring kingdom**.
+- Trouble: **Losing a war with a Urbau.
 - Fortune: **A just leader is weeding out corrupt officials**.
-- Dispute with one neighboring kingdom: **They are suffocating the only trade route available to this kingdom with high border tariffs**.
-- Positive tie with one neighboring kingdom: **They recently conceded some disputed land**.
+- Dispute with Nomura: **They are suffocating the only trade route available to this kingdom with high border tariffs**.
+- Positive tie with Urbau: **They took in this kingdom's refugees**.
 
 ## Brunihild, the capital of Amala
 **Narrow streets and thick mud brick walls provide coolness and shade from the scorching sun.**

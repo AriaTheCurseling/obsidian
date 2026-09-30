@@ -11,11 +11,10 @@ Its borders extend to ..
 - and the **Nabeshima sea** in the South.
 
 #### Politics
-
-- Trouble: **Losing a war with a neighboring kingdom**.
+ - Trouble: **A new fanatic religious sect is gaining popularity**.
 - Fortune: **A new trade agreement with a distant kingdom is bringing in exotic textiles, spices and crafts**.
-- Dispute with one neighboring kingdom: **They are cooperating with a hostile kingdom**.
-- Positive tie with one neighboring kingdom: **Their religious order is popular here**.
+- Dispute with Amala: **They refused to give aid for disaster relief**. (A generation ago)
+- Positive tie with Urbau: **Their religious order is popular here**.
 
 ## Takayama, the capital of Nomura
 **Flanked by a high sandstone cliff shaped into reliefs of gods or kings and housing the temple district at its peak as well as in the caves of the cliff face.**

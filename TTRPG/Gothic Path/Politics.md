@@ -2,12 +2,12 @@
 - Trouble: **Losing a war with a Urbau.
 - Fortune: **A just leader is weeding out corrupt officials**.
 - Dispute with Nomura: **They are suffocating the only trade route available to this kingdom with high border tariffs**.
-- Positive tie with one neighboring kingdom: **They recently conceded some disputed land**.
+- Positive tie with Urbau: **They took in this kingdom's refugees**.
 #### Nomura
  - Trouble: **A new fanatic religious sect is gaining popularity**.
 - Fortune: **A new trade agreement with a distant kingdom is bringing in exotic textiles, spices and crafts**.
-- Dispute with one neighboring kingdom: **They are cooperating with a hostile kingdom**.
-- Positive tie with one neighboring kingdom: **Their religious order is popular here**.
+- Dispute with Amala: **They refused to give aid for disaster relief**. (A generation ago)
+- Positive tie with Urbau: **Their religious order is popular here**.
 #### Urbau
 - Trouble: **Corrupt officials and law enforcers**.
 - Fortune: **A new mining endeavor has become a source of wealth**.
