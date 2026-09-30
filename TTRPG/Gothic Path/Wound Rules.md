@@ -8,7 +8,9 @@ class/2
 8 to 18
 10 to 22
 
-reduction = con + armor 
+6 to 11
 
-moderate = hp / 4          
-critical      = hp / 2
+reduction = con + armor
+
+moderate = level
+critical      = half hp
