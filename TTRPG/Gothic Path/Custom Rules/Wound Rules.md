@@ -5,9 +5,15 @@ Instead of HP, characters have wound slots. Each time they take damage a slot is
 
 The "damage" is used as a DC for restoring the wound.
 
-Each character has a number of slots for each type:
-3+con minor, 2 Serious, 1 Grave, 1 Lethal
+Whenever you take damage, you mark down an injury instead of reducing HP. An injury consists of 3 parts:
+1. How you got it. "Stabbed in the gut"
+2. 
 
+Type     · amount · threshold
+lethal    ·           1 · hp x 3
+grave    ·           1 · hp
+serious  ·           2 · hp / 3
+minor    · 3 + con
 
 -- Notes
 compensate 
