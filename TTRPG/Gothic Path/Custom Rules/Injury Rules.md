@@ -12,7 +12,11 @@ grave    ·           1 · hp
 serious  ·           2 · hp / 3
 minor    · 3 + con
 
-**Recovering** There are two ways to recover: treatmen
+**Recovering** There are two ways to recover: treatment and healing
+- **Healing.** Removes the injury if it beats the DC. This is spells and potions.
+- **Treatment.** Removes side effects from the injury. This is non-magical.
+
+**Dying.** When you first take lethal damage, and at the end of every tu
 
 
 -- Notes
