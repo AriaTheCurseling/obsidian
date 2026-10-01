@@ -21,7 +21,8 @@ class hp - 6 to 12 + con
 
 6 to 11
 
-
+26/3
+4-8
 
 moderate = hp/4
 critical      = hp
