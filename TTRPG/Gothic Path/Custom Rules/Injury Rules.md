@@ -22,6 +22,7 @@ minor    · 3 + con
 **Failure:** You are unconscious and have no actions.
 **Critical Failure:**
 
+**Persistent Damage.** Is now stackable. The different types will work differently, either 
 
 -- Notes
 compensate 
