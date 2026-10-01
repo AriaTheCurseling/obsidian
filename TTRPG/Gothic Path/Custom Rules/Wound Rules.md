@@ -1,3 +1,10 @@
+1 Lethal slot
+1 Critical slot
+2 Severe slot
+3+con
+
+
+-- Notes
 compensate 
 race hp - 6 to 10
 class hp - 6 to 12 + con 
