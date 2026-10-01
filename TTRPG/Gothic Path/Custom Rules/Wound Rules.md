@@ -1,7 +1,6 @@
-1 Lethal slot
-1 Critical slot
-2 Severe slot
-3+con
+
+Each character has a number of slots for each type:
+3+con minor, 2 Serious, 1 Grave, 1 Lethal
 
 
 -- Notes
