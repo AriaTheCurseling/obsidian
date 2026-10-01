@@ -22,7 +22,7 @@ minor    · 3 + con
 **Failure:** You are unconscious and have no actions.
 **Critical Failure:**
 
-**Persistent Damage.** Is now stackable. The different types will work differently, either 
+**Persistent Damage.** Persistent damage is now stackable but only hits once per turn. There are two categories: wounding and worsening. Worsening damage increases the DC of existing injuries first, injuring you only if you have none. Wounding damage adds injuries, unless you already have a matching Severe or worse injury, in which case it adds to DC. (So you can only have on "Bleeding out" injury, but it will get worse and worse.)
 
 -- Notes
 compensate 
