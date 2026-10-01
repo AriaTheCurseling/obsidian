@@ -16,7 +16,11 @@ minor    · 3 + con
 - **Healing.** Removes the injury if it beats the DC. This is spells and potions.
 - **Treatment.** Removes side effects from the injury. This is non-magical.
 
-**Dying.** When you first take lethal damage, and at the end of every tu
+**Dying.** You roll a death save immediately when you take lethal a lethal injury, and at the end of every turn until the injury is treated or healed. The save DC is the injury DC.
+**Critical Success:** You only have 2 actions per turn. Mark one success.
+**Success:** You only have 1 action per turn.
+**Failure:** You are unconscious and have no actions.
+**Critical Failure:**
 
 
 -- Notes
