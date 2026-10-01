@@ -1,4 +1,4 @@
-### Setup
+### Setup (Action)
 You try to set an ally up for a task. You must explain to the GM exactly how you're trying to help, and they determine whether you can setup your ally and what the DC is.
 
 They are immediately allowed 1 action to follow your setup.
