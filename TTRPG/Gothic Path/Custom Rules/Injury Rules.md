@@ -20,7 +20,9 @@ minor    · 3 + con
 **Critical Success:** You only have 2 actions per turn. Mark one success.
 **Success:** You only have 1 action per turn.
 **Failure:** You are unconscious and have no actions.
-**Critical Failure:**
+**Critical Failure:** You are unconscious and have no actions. Mark one failure. 
+
+You cannot regain actions lost this way unless the injury is treated or healed. (but can drift in and out of consciousness)
 
 **Persistent Damage.** Persistent damage is now stackable but only hits once per turn. There are two categories: wounding and worsening. Worsening damage increases the DC of existing injuries first, injuring you only if you have none. Wounding damage adds injuries, unless you already have a matching Severe or worse injury, in which case it adds to DC. (So you can only have on "Bleeding out" injury, but it will get worse and worse.)
 
