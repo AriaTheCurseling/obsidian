@@ -1,4 +1,4 @@
-You may use a [[Ceaseless]] weapon to keep an area unsafe.
+You may use a [[Game Ideas/TTRPG/Content/Keywords/Ceaseless]] weapon to keep an area unsafe.
 
 This is a telegraphed action.
 
