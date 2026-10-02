@@ -4,4 +4,4 @@ Amplifies momentum and reduces inertia. Objects affected are faster, hit harder 
 
 Terrain: Requires an agility check to change direction, increases speed.
 Objects: Harder to control, but move faster and harder.
-Armor:
+Armor: Makes moving difficult, and you're likely to stumble.
