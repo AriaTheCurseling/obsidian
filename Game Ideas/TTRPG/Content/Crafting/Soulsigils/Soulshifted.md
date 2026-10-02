@@ -5,3 +5,5 @@ Shifts things into a soul realm, replacing physical stats with mental and requir
 
 Inscribed on armor: Wearer needs to do a check to keep the armor physical, on success its stronger
 Inscribed on terrain: Anyone moving through needs a check, but move at double speed
+
+--TODO:: emphatize that it makes things more real, harder to move
