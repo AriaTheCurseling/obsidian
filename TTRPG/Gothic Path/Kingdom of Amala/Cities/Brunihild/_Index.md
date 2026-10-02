@@ -5,11 +5,11 @@
 A thriving ruler's court led by **Her Majesty Amalgard, a former general who seized the throne by force**.
 #### [[Lower city]]
 **The Devils** - An efficient gang of urchins.
-#### Docks
+#### [[Docks]]
 **The Silent Serpent** - An insular smuggling ring.
 #### [[Market]]
 A richly-sponsored foreign merchant guild led by **Guildmaster Alhreiks**.
-#### Workshops
+#### [[Workshops]]
 A divided **Shipwrights guild** led by **Mistress Sunilda**.
 #### Temple hill
 A pious order of **The hidden souls of object** led by **head templar Hisarna**.
@@ -24,102 +24,10 @@ A righteous noble house led by **Lord Gutthikas**.
 
 ### Above chapters can be sent to players. Below chapters contain GM secrets.
 
-### Brunihild castle
-
-
-
-
-
-### Lower city
-
-
-
-### Docks
-
-Random location: **Granary**
-
-Random sailor or fisher **Amalaswintha** (age **38**, level **2**) who **is looking for a teacher to improve their skill**
-
-- Weakness: **Obsessed with cleanness and orderliness**
-- Asset: **Feared**
-- Attitude towards the party: (define after encountering them)
-
-#### **The Silent Serpent** - An insular smuggling ring
-
-Led by **Ariaric known as the Bone** (age **29**, level **8**)
-
-- Is Attuned and prefers to use **Fly, Flow**
-- Weakness: **Wants to curry favor with any member of a certain faction**
-- Asset: **Impersonator**
-- Attitude towards the party: (define after encountering them)
-- Goal: **change a law that stands in the way of their ambition**
-- Plan to attain their goal: (outline the plan in a few sentences)
-
-Party's first contact in the ring: **Chlotsuintha** (age **35**, level **3**) who **wants to prevent a tragedy**
-
-- Weakness: **Mistakes the party for a group they've been expecting**
-- Asset: **Excellent liar**
-- Attitude towards the party: (define after encountering them)
-
-Ring members follow their leader's assignments, such as acquiring or guarding illegal or heavily taxed goods, smuggling them into or out of a city or looking for buyers.
-
-### Market
-
-### Workshops
-
-Random location: **Taylor's workshop**
-
-Random smith, craftsman or shop vendor **Mia-Selina** (age **41**, level **3**) who **wants justice**
-
-- Weakness: **Curiosity beats caution**
-- Asset: **Well-stocked library**
-- Attitude towards the party: (define after encountering them)
-
-#### A divided **Shipwrights guild**
-
-Led by **Mistress Sunilda** (age **50**, level **9**)
-
-- Weakness: **Can't count**
-- Asset: **War hero**
-- Attitude towards the party: (define after encountering them)
-- Goal: **become part of the nobility if they're a commoner, part of the royalty if they're a nobility or a free and anonymous commoner if they're royalty**
-- Plan to attain their goal: (outline the plan in a few sentences)
-
-Party's first contact with a guild member: **Gailavir** (age **44**, level **5**) who **is looking for a teacher to improve their skill**
-
-- Weakness: **Kleptomanic**
-- Asset: **Learned**
-- Attitude towards the party: (define after encountering them)
-
-A crafts guild establishes a monopoly in the city by uniting all craftsmen of their trade. They set and verify prices and quality standards of their products and services and pressure or bribe the city's ruler into cutting taxes on their goods or providing military or legal protection.
 
 ### Temple hill
 
-Random location: **Temple of the sleeping souls**.
 
-Random nun or priestess **Hunila** (age **28**, level **9**) who **needs money urgently**
-
-- Weakness: **Superstitious**
-- Asset: **Charming**
-- Attitude towards the party: (define after encountering them)
-
-#### A pious order of **the sleeping souls**
-
-The order is led by **head priest Hisarna** (age **59**, level **10**)
-
-- Weakness: **Afraid of the dark**
-- Asset: **Charming**
-- Attitude towards the party: (define after encountering them)
-- Goal: **become more popular than any other faction leader**
-- Plan to attain their goal: (outline the plan in a few sentences)
-
-Party's first contact in the order: **Fredegond** (age **23**, level **3**) who **desires to acquire beauty**
-
-- Weakness: **Kleptomanic**
-- Asset: **Friends with a faction leader**
-- Attitude towards the party: (define after encountering them)
-
-Aside from regular prayer, monks and nuns do general labour for the temple as well as create art, perform music and copy scriptures. Priests and priestesses promote the god of their temple by leading rituals for annual events like solstices or equinoxes, deaths, new buildings, new mines, new ships, new trade missions or new military campaigns, depending on their god's domain.
 
 ### Entertainment district
 

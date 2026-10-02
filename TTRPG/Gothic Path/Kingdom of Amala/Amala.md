@@ -14,4 +14,4 @@ Its borders extend to ..
 - Dispute with [[Nomura]]: **They are suffocating the only trade route available to this kingdom with high border tariffs**.
 - Positive tie with [[Urbau]]: **They took in this kingdom's refugees**.
 
-## [[Brunihild]], the capital of Amala
+## [[_Index]], the capital of Amala
