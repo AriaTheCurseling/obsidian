@@ -111,7 +111,6 @@ Party's first contact in the ring: **Chlotsuintha** (age **35**, level **3**) wh
 Ring members follow their leader's assignments, such as acquiring or guarding illegal or heavily taxed goods, smuggling them into or out of a city or looking for buyers.
 
 ### Market
-
 Random location: **Brewery**
 
 Random peddler or shopkeeper **Gailavira** (age **25**, level **4**) who **needs protection from a violent faction**
@@ -168,7 +167,7 @@ A crafts guild establishes a monopoly in the city by uniting all craftsmen of th
 
 ### Temple hill
 
-Random location: **Temple of Vittamar, the god of fertility and agriculture**.
+Random location: **Temple of the sleeping souls**.
 
 Random nun or priestess **Hunila** (age **28**, level **9**) who **needs money urgently**
 
@@ -176,7 +175,7 @@ Random nun or priestess **Hunila** (age **28**, level **9**) who **needs money u
 - Asset: **Charming**
 - Attitude towards the party: (define after encountering them)
 
-#### A pious order of **Amalberga, the goddess of health and healing**
+#### A pious order of **the sleeping souls**
 
 The order is led by **head priest Hisarna** (age **59**, level **10**)
 
@@ -192,7 +191,9 @@ Party's first contact in the order: **Fredegond** (age **23**, level **3**) who 
 - Asset: **Friends with a faction leader**
 - Attitude towards the party: (define after encountering them)
 
-Aside from regular prayer, monks and nuns do general labour for the temple as well as create art, perform music and copy scriptures. Priests and priestesses promote the god of their temple by leading rituals for annual events like solstices or equinoxes, blessing births, marriages or deaths, new buildings, new mines, new ships, new trade missions or new military campaigns, depending on their god's domain.
+Templars 
+
+Aside from regular prayer, monks and nuns do general labour for the temple as well as create art, perform music and copy scriptures. Priests and priestesses promote the god of their temple by leading rituals for annual events like solstices or equinoxes, deaths, new buildings, new mines, new ships, new trade missions or new military campaigns, depending on their god's domain.
 
 ### Entertainment district
 
