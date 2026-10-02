@@ -23,3 +23,6 @@ Party's first contact in the order: **Fredegond** (age **23**, level **3**) who 
 - Attitude towards the party: (define after encountering them)
 
 Aside from regular prayer, monks and nuns do general labour for the temple as well as create art, perform music and copy scriptures. Priests and priestesses promote the god of their temple by leading rituals for annual events like solstices or equinoxes, deaths, new buildings, new mines, new ships, new trade missions or new military campaigns, depending on their god's domain.
+
+
+The templars use soul-sigils to
