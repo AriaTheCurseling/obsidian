@@ -25,4 +25,5 @@ Party's first contact in the order: **Fredegond** (age **23**, level **3**) who 
 Aside from regular prayer, monks and nuns do general labour for the temple as well as create art, perform music and copy scriptures. Priests and priestesses promote the god of their temple by leading rituals for annual events like solstices or equinoxes, deaths, new buildings, new mines, new ships, new trade missions or new military campaigns, depending on their god's domain.
 
 
-The templars use soul-sigils to
+
+Templars use soul-sigils to awaken dormant properties in the world around them. Soul-runes are typically quite impermanent without constant upkeep, but can in some circumstances be made permanent. A permanent soul-rune is always attached to a living being, typically skeletons or automata. A soul-rune on a being that already has a soul wounds them permanently, and is incredibly hard to cure. Inscribing soul-runes on beings of flesh and blood is taboo.
