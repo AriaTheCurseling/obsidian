@@ -4,5 +4,4 @@ Collects the souled remains of scattered runes to animate an object or piece of 
 
 Animates whatever it is inscribed upon. The newly animated creature has 1 action per round, and acts immediately before you in combat order.
 
-
-Flaw: The animated creature is hostile to you
+Creature: Second initiative, it may use the creatures skills and abilities
