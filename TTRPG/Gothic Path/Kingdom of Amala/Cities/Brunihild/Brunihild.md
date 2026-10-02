@@ -1,13 +1,13 @@
 **Narrow streets and thick mud brick walls provide coolness and shade from the scorching sun.**
 ### District and faction summary for players
 
-#### Brunihild Castle
+#### Brunihild [[Castle]]
 A thriving ruler's court led by **Her Majesty Amalgard, a former general who seized the throne by force**.
-#### Lower city
+#### [[Lower city]]
 **The Devils** - An efficient gang of urchins.
 #### Docks
 **The Silent Serpent** - An insular smuggling ring.
-#### Market
+#### [[Market]]
 A richly-sponsored foreign merchant guild led by **Guildmaster Alhreiks**.
 #### Workshops
 A divided **Shipwrights guild** led by **Mistress Sunilda**.
@@ -26,60 +26,13 @@ A righteous noble house led by **Lord Gutthikas**.
 
 ### Brunihild castle
 
-Random location: **Castle dungeon**
 
-Random guard **Theudefred** (age **22**, level **8**) who **desires to have authority**
-- Is Attuned and prefers to use **Fortify**
-- Is armed with a **spear** and a **large shield**, has a **sword** as a sidearm and wears **plate** armour
-- Weakness: **Heretic**
-- Asset: **Huge family**
-- Attitude towards the party: (define after encountering them)
 
-#### A thriving ruler's court
 
-Ruled by **Her Majesty Amalgard, a former general who seized the throne by force** (age **62**, level **10**)
-
-- Weakness: **Afraid of fire**
-- Asset: **Trusted**
-- Attitude towards the party: (define after encountering them)
-- Goal: **become more popular than any other faction leader**
-- Plan to attain their goal: (outline the plan in a few sentences)
-
-Party's first contact with a court member: **Hermangild** (age **38**, level **8**) who **needs expert advice**
-
-- Weakness: **Afraid of spiders or other insects**
-- Asset: **Friends with a faction leader**
-- Attitude towards the party: (define after encountering them)
-
-Court members are members of the ruling family and branch families, their advisors and attendants.
 
 ### Lower city
 
-Random location: **Butcher's shop**
 
-Random youth **Mira** (age **8**, level **1**) who **wants justice**
-
-- Weakness: **Addicted**
-- Asset: **Avoids detection**
-- Attitude towards the party: (define after encountering them)
-
-#### **The Devils** - An efficient gang of urchins
-
-Led by **Matasvintha** (age **16**, level **6**)
-
-- Weakness: **Wants to curry favor with any member of a certain faction**
-- Asset: **Avoids detection**
-- Attitude towards the party: (define after encountering them)
-- Goal: **defame another faction**
-- Plan to attain their goal: (outline the plan in a few sentences)
-
-Party's first contact in the gang: **Theoderid** (age **9**, level **3**) who **needs consolation**
-
-- Weakness: **Heretic**
-- Asset: **Excellent liar**
-- Attitude towards the party: (define after encountering them)
-
-The gang lives off theft, fraud, begging, keeping watch and running errands - sometimes all at once. They share their spoils and take turns keeping watch at their secret hideout.
 
 ### Docks
 
@@ -111,31 +64,6 @@ Party's first contact in the ring: **Chlotsuintha** (age **35**, level **3**) wh
 Ring members follow their leader's assignments, such as acquiring or guarding illegal or heavily taxed goods, smuggling them into or out of a city or looking for buyers.
 
 ### Market
-Random location: **Brewery**
-
-Random peddler or shopkeeper **Gailavira** (age **25**, level **4**) who **needs protection from a violent faction**
-
-- Weakness: **Never asks for help**
-- Asset: **Well-known**
-- Attitude towards the party: (define after encountering them)
-
-#### A richly-sponsored foreign merchant guild
-
-Led by **Guildmaster Alhreiks** (age **54**, level **12**)
-
-- Weakness: **Trusts all worshippers of their religion**
-- Asset: **Loyal henchmen**
-- Attitude towards the party: (define after encountering them)
-- Goal: **defend or expand their territory**
-- Plan to attain their goal: (outline the plan in a few sentences)
-
-Party's first contact with a guild member: **Chlodoswinth** (age **23**, level **4**) who **wants to resolve a dispute they have with another known NPC**
-
-- Weakness: **Blind in one eye**
-- Asset: **Charming**
-- Attitude towards the party: (define after encountering them)
-
-Guild members are merchants who import goods from their homeland and from other kingdoms covered by this guild's trade routes as well as local shop owners who have attained the right to sell these goods by becoming members of this guild.
 
 ### Workshops
 
