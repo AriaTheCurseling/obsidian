@@ -1,0 +1,3 @@
+A turn consists of three separate actions. This can be any combination of things the character knows to do, in any order. A character can additionally choose what they are actively doing between the current turn an the next - this can be a fighting stance or continuous action.
+
+Repeating the same action, such as casting two spells or attacking two times, incurs a repetition penalty of -4, but there is no penalty to different types of actions.
