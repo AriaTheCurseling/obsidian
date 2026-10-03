@@ -8,6 +8,8 @@ Fortitude
 - Resistance, 
 
 Empathy - Your ability to know and assist others.
+- Insight: Glance into another's thoughts and emotions.
+- Teamwork?
 - Social: Gain insight into another's current thoughts or feelings
 - Magic: Use others in place of "self"
 - Crafting: Used to customize to a specific person
@@ -18,13 +20,16 @@ Acuity - Instinct
 - Crafting: Find novel ways to do things
 - Generic: 
 Eloquence
+- Influence: Can be used to influence peoples emotions, giving them hope or fear.
+- Reframe:
 - Social:
 - Magic:
 - Generic: Use to influence others (emotional status effects)
 Composure
+- 
 - Social: 
 - Magic: Give yourself a condition
-- Combat:
+- Combat: Resist influence and make you hard to read
 - General: Use to influence yourself and resist influence.
 
 
