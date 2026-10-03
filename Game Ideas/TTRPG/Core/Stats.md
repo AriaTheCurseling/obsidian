@@ -29,6 +29,7 @@ Eloquence
 Composure
 - Passively:
 - Resist:
+- Attune/Regulate:
 - 
 - Social: 
 - Magic: Give yourself a condition
