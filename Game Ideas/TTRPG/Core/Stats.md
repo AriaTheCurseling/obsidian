@@ -1,8 +1,8 @@
-Coordination
+Finesse
 - Tool use, Weapon attack rolls
 Mobility
 - Moving over difficult terrain, swimming, climbing, dancing...
-Force
+Prowess
 - Pure power, ability to push things around
 Fortitude
 - Resistance, 
@@ -10,9 +10,12 @@ Fortitude
 Empathy
 - Social: Gain insight into another's current thoughts or feelings
 - Magic: Use others in place of "self"
+- Crafting:
+- Generic: Use to assist 
 Acuity
 - Social:
-- Magic
+- Magic:
+- Crafting:
 Eloquence
 - Social:
 - Magic:
