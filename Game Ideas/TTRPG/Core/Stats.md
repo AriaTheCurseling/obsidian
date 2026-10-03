@@ -15,6 +15,7 @@ Empathy - Your ability to know and assist others.
 - Crafting: Used to customize to a specific person
 - Generic: Use to assist others.
 Acuity - Instinct
+- Invention: 
 - Social:
 - Magic:
 - Crafting: Find novel ways to do things
@@ -27,6 +28,7 @@ Eloquence
 - Generic: Use to influence others (emotional status effects)
 Composure
 - Passively:
+- Resist:
 - 
 - Social: 
 - Magic: Give yourself a condition
