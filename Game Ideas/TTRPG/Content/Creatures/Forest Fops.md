@@ -1,0 +1,1 @@
+A transparent being of spirit, looking through it shows a forested version of what's behind it, making it hard to spot inside forests but clearly stand out outside of them
