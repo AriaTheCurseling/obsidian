@@ -1,9 +1,7 @@
-ingredients
+Ingredients
 > Any target
 > Its reflection... consumed by the spell
-> A mirror  
-> - Reflecting the target
-> - Atleast as big as the target
+> A mirror that fits the target
 
 Duplicate the target by drawing its reflection out of a mirror. 
 
