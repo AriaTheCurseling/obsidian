@@ -1,7 +1,7 @@
-Finesse - How well finely manipulate objects, tools and weapons
+Finesse - How well you can finely manipulate objects, tools and weapons
 Mobility - How well you move, dance, swim or sneak through terrain.
-Prowess - How easily you can carry, move or destroy heavy and tough things.
-Fortitude
+Prowess - How well you can carry, move or destroy heavy and tough things.
+Fortitude - How well you resist and carry on
 - Resistance, 
 
 Empathy - Your ability to know and assist others.
