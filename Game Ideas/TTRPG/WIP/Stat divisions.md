@@ -21,7 +21,7 @@ Body
 		- Used to endure damage, resist injuries
 Mind
 - Perception
-	- Acuity > Defensive
+	- Acuity > Defensive ?Instinct?
 		- Can be used to notice things in the past (when we where at x, did i see...)
 	- Empathy > Offensive
 		- Used for telling emotion and current thought
