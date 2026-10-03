@@ -1,2 +1,2 @@
-[[Cutting]], [[Rolling]], [[Portioning]]
+[[Cutting]], [[Portioning]]
 
