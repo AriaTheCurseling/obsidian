@@ -15,7 +15,7 @@ Empathy - Your ability to know and assist others.
 - Crafting: Used to customize to a specific person
 - Generic: Use to assist others.
 Acuity - Instinct
-- Invent - Intuit - Modify - Bodging
+- Invent - Intuit - Modify - Bodging - Improvise
 - Social:
 - Magic:
 - Crafting: Find novel ways to do things
