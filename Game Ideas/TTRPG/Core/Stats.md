@@ -26,6 +26,7 @@ Eloquence
 - Magic:
 - Generic: Use to influence others (emotional status effects)
 Composure
+- Passively:
 - 
 - Social: 
 - Magic: Give yourself a condition
