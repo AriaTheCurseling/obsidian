@@ -15,17 +15,14 @@ Empathy - Your ability to know and assist others.
 - Crafting: Used to customize to a specific person
 - Generic: Use to assist others.
 Acuity - Instinct
-- Invention: 
+- Invent - Intuit - 
 - Social:
 - Magic:
 - Crafting: Find novel ways to do things
 - Generic: 
 Eloquence
 - Influence: Can be used to influence peoples emotions, giving them hope or fear.
-- Reframe:
-- Social:
-- Magic:
-- Generic: Use to influence others (emotional status effects)
+- Reframe: 
 Composure
 - Sustain: Keep a magical effect active beyond its duration
 - Attune: Put yourself under the effect of active magic or emotional effects
