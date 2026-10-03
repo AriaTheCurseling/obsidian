@@ -29,8 +29,7 @@ Eloquence
 Composure
 - Passively:
 - Resist:
-- Attune/Regulate:
-- 
+- Attune: Put yourself under the effect of active magic or emotional effects
 - Social: 
 - Magic: Give yourself a condition
 - Combat: Resist influence and make you hard to read
