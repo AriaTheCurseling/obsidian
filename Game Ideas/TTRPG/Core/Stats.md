@@ -1,9 +1,6 @@
-Finesse
-- Tool use, Weapon attack rolls
-Mobility
-- Moving over difficult terrain, swimming, climbing, dancing...
-Prowess
-- Pure power, ability to push things around
+Finesse - How well finely manipulate objects, tools and weapons
+Mobility - How well you move, dance, swim or sneak through terrain.
+Prowess - How easily you can carry, move or destroy heavy and tough things.
 Fortitude
 - Resistance, 
 
