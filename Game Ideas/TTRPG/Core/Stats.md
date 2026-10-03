@@ -7,11 +7,11 @@ Prowess
 Fortitude
 - Resistance, 
 
-Empathy
+Empathy - Your ability to know and assist others.
 - Social: Gain insight into another's current thoughts or feelings
 - Magic: Use others in place of "self"
-- Crafting:
-- Generic: Use to assist 
+- Crafting: Used to customize to a specific person
+- Generic: Use to assist others.
 Acuity
 - Social:
 - Magic:
@@ -19,10 +19,12 @@ Acuity
 Eloquence
 - Social:
 - Magic:
+- Generic: Use to influence others (emotional status effects)
 Composure
 - Social: 
 - Magic: Give yourself a condition
 - Combat:
+- General: Use to influence yourself and resist influence.
 
 
 
