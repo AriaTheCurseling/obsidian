@@ -12,10 +12,11 @@ Empathy - Your ability to know and assist others.
 - Magic: Use others in place of "self"
 - Crafting: Used to customize to a specific person
 - Generic: Use to assist others.
-Acuity
+Acuity - Instinct
 - Social:
 - Magic:
-- Crafting:
+- Crafting: Find novel ways to do things
+- Generic: 
 Eloquence
 - Social:
 - Magic:
