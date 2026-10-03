@@ -27,13 +27,8 @@ Eloquence
 - Magic:
 - Generic: Use to influence others (emotional status effects)
 Composure
-- Passively:
-- Resist:
+- Sustain: Keep a magical effect active beyond its duration
 - Attune: Put yourself under the effect of active magic or emotional effects
-- Social: 
-- Magic: Give yourself a condition
-- Combat: Resist influence and make you hard to read
-- General: Use to influence yourself and resist influence.
 
 
 
