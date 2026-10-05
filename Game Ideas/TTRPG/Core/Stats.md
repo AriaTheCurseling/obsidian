@@ -5,7 +5,7 @@ Fortitude - How well you resist and carry on
 
 Empathy - Your ability to know and assist others.
 - Insight: Glance into another's thoughts and emotions.
-- Teamwork?
+- Sympathy?:
 - Social: Gain insight into another's current thoughts or feelings
 - Magic: Use others in place of "self"
 - Crafting: Used to customize to a specific person
