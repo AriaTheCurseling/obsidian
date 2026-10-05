@@ -1,13 +1,15 @@
 Finesse - How well you can finely manipulate objects, tools and weapons
-- Card trick - sleight oif
+- Card trick - sleight of hand - flourish
 Mobility - How well you move, dance, swim or sneak through terrain.
+- Stealth - climbing - acrobatics - dance
 Prowess - How well you can carry, move or destroy heavy and tough things.
 Fortitude - How well you resist and carry on
+- Carry - Endure - 
 
-Empathy - Your ability to know and assist others.
+Empathy - How well you know and assist others.
 - Insight: Glance into another's thoughts and emotions.
 - Sympathy?: Share self spells with another, act in another's place, bonus to assist rolls
-Acuity - Instinct
+Acuity - Instinct - How well you perform without experience
 - Improvise
 - Mimic - Intuit - Copy - Repeat:
 Eloquence
