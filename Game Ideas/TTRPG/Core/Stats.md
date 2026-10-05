@@ -4,15 +4,11 @@ Prowess - How well you can carry, move or destroy heavy and tough things.
 Fortitude - How well you resist and carry on
 
 Empathy - Your ability to know and assist others.
-- Insight: Glance into another's thoughts and emotions.
-- Sympathy?:
-- Social: Gain insight into another's current thoughts or feelings
-- Magic: Use others in place of "self"
-- Crafting: Used to customize to a specific person
-- Generic: Use to assist others.
+- Insight: Glance into another's thoughts and emotions. Helps against feinting
+- Sympathy?: Share self spells with another, act in another's place, bonus to assist rolls
 Acuity - Instinct
-- Invent - Intuit - Modify - Bodging - Improvise - Adapt
-- Mimic:
+- Improvise
+- Mimic - Intuit - Copy - Repeat:
 - Social:
 - Magic:
 - Crafting: Find novel ways to do things
