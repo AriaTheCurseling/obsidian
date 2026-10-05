@@ -12,6 +12,7 @@ Empathy - Your ability to know and assist others.
 - Generic: Use to assist others.
 Acuity - Instinct
 - Invent - Intuit - Modify - Bodging - Improvise - Adapt
+- Mimic:
 - Social:
 - Magic:
 - Crafting: Find novel ways to do things
