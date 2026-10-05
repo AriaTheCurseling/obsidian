@@ -10,12 +10,12 @@ Empathy - How well you know and assist others.
 - Insight: Glance into another's thoughts and emotions.
 - Sympathy?: Share self spells with another, act in another's place, bonus to assist rolls
 Acuity - Instinct - How well you perform without experience
-- Improvise
+- Improvise: Substitute components, skills or emotions
 - Mimic - Intuit - Copy - Repeat:
-Eloquence
+Eloquence - How well you steer conversation and influence people
 - Influence: Can be used to influence peoples emotions, giving them hope or fear.
 - Reframe: ----- basically lying...
-Composure
+Composure - How well you control yourself and things affecting you
 - Sustain: Keep a magical effect active beyond its duration
 - Attune: Put yourself under the effect of active magic or emotional effects
 
