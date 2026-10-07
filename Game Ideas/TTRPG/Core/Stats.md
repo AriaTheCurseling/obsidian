@@ -9,10 +9,10 @@ Fortitude - How well you resist and carry on
 
 Empathy - Insight - How well you know and assist others.
 - Insight - ???: Glance into another's thoughts and emotions.
-- Sympathy? - Connect: Share self spells with another, act in another's place, bonus to assist rolls
+- Sympathy: Replace with another of the same kind, help people
 Acuity - Intuition - Perceives Circumstance
+- Imitate: Repeat a skill someone else has j
 - Improvise: Substitute components, skills or emotions
-- Mimic:
 Eloquence - How well you steer conversation and influence people
 - Influence: Can be used to influence peoples emotions, giving them hope or fear.
 - Reframe: ----- basically lying...
