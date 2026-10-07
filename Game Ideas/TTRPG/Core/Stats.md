@@ -7,11 +7,11 @@ Prowess - How well you can carry, move or destroy heavy and tough things.
 Fortitude - How well you resist and carry on
 - Carry - Endure - 
 
-Empathy - Insight - How well you know and assist others.
-- Insight - ???: Glance into another's thoughts and emotions.
+Insight - How well you know and assist others.
+- Empathy: Glance into another's thoughts and emotions.
 - Sympathy: Replace with another of the same kind, help people
 Acuity - Intuition - Perceives Circumstance
-- Imitate: Repeat a skill someone else has j
+- Imitate: Repeat a skill someone else has just performed using their capability
 - Improvise: Substitute components, skills or emotions
 Eloquence - How well you steer conversation and influence people
 - Influence: Can be used to influence peoples emotions, giving them hope or fear.
