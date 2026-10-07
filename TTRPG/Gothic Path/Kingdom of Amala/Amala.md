@@ -1,6 +1,8 @@
 Aesthetic: **Gothic**
 
 Locals wear **dresses with woven patterns that tell of the family's past achievements, each new achievement is added to the dress**.
+
+Cold!
 #### Territory
 Its borders extend to ..
 - the **Theodananda grassland** in the West,
