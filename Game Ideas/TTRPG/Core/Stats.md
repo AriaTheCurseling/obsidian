@@ -33,7 +33,5 @@ Perception = full acuity plus half empathy
 Presence = full composure plus half
 - Resists empathy
 
-Perception
-- Minds, few complex things, the hidden
-- Circumstance, many simple things, the visible
+Attackin
 
