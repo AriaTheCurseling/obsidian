@@ -7,7 +7,7 @@ Random innkeeper or tavernkeeper **Avagis** (age **21**, level **5**) who **need
 - Asset: **Calls in favours**
 - Attitude towards the party: (define after encountering them)
 
-#### **The Burning Jester** - A xenophobic criminal organisation
+#### **The Burning Jesters** - A xenophobic criminal organisation
 
 Led by **Narin the Rogue** (age **32**, level **10**)
 
