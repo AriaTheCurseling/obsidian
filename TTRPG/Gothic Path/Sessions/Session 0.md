@@ -1,5 +1,5 @@
 Stealth enemies - Casper
-Smelling - 
+Smelling - Casper
 Winter wonderland - Casper
 People to heal - Mathias
 Plant talking - Mathias
