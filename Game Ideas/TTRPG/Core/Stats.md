@@ -7,10 +7,10 @@ Prowess - How well you can carry, move or destroy heavy and tough things.
 Fortitude - How well you resist and carry on
 - Carry - Endure - 
 
-Empathy - How well you know and assist others.
+Empathy - Insight - How well you know and assist others.
 - Insight: Glance into another's thoughts and emotions.
 - Sympathy?: Share self spells with another, act in another's place, bonus to assist rolls
-Acuity - Instinct - Intuition - How well you perform without experience
+Acuity - Intuition - Perceives Circumstance
 - Improvise: Substitute components, skills or emotions
 - Mimic - Intuit - Copy - Repeat:
 Eloquence - How well you steer conversation and influence people
