@@ -8,8 +8,8 @@ Fortitude - How well you resist and carry on
 - Carry - Endure - 
 
 Empathy - Insight - How well you know and assist others.
-- Insight: Glance into another's thoughts and emotions.
-- Sympathy?: Share self spells with another, act in another's place, bonus to assist rolls
+- Insight - ???: Glance into another's thoughts and emotions.
+- Sympathy? - Connect: Share self spells with another, act in another's place, bonus to assist rolls
 Acuity - Intuition - Perceives Circumstance
 - Improvise: Substitute components, skills or emotions
 - Mimic - Intuit - Copy - Repeat:
@@ -22,6 +22,7 @@ Composure - How well you control yourself and things affecting you
 
 
 
+
 Grace = full mobility plus half coordination
 - resists coordination
 Physique = full endurance plus half force
@@ -31,3 +32,8 @@ Perception = full acuity plus half empathy
 - Resists eloquence
 Presence = full composure plus half
 - Resists empathy
+
+Perception
+- Minds, few complex things, the hidden
+- Circumstance, many simple things, the visible
+
