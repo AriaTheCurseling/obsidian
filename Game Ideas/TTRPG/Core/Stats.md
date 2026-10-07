@@ -33,5 +33,16 @@ Perception = full acuity plus half empathy
 Presence = full composure plus half
 - Resists empathy
 
-Attackin
-
+Attacking the saves:
+Presence
+- High - searching spells
+- Low - mental damage
+Perception
+- High - attacking vision, gaze attacks, Loud noise
+- Low - Hidden things, stealth
+Physique
+- High - 
+- Low - Damage
+Grace
+- High - 
+- Low - Hitting, something to dodge
