@@ -10,7 +10,7 @@ Random peddler or shopkeeper **Gailavira** (age **25**, level **4**) who **needs
 
 Led by **Guildmaster Alhreiks** (age **54**, level **12**)
 
-- Weakness: **Trusts all worshippers of their religion**
+- Weakness: **Trusts all worshippers of their religion (Angradd)**
 - Asset: **Loyal henchmen**
 - Attitude towards the party: (define after encountering them)
 - Goal: **defend or expand their territory**
