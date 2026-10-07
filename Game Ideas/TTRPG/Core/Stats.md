@@ -10,7 +10,7 @@ Fortitude - How well you resist and carry on
 Insight - How well you know and assist others.
 - Empathy: Glance into another's thoughts and emotions.
 - Sympathy: Replace with another of the same kind, help people
-Acuity - Intuition - Perceives Circumstance
+Intuition - Perceives Circumstance
 - Imitate: Repeat a skill someone else has just performed using their capability
 - Improvise: Substitute components, skills or emotions
 Eloquence - How well you steer conversation and influence people
