@@ -15,7 +15,7 @@ Intuition - Perceives Circumstance
 - Improvise: Substitute components, skills or emotions
 Eloquence - How well you steer conversation and influence people
 - Influence: Can be used to influence peoples emotions, giving them hope or fear.
-- Reframe - Obscure - Obfuscate: Obscure the truth in from observation
+- Reframe: Obscure the truth in from observation
 Composure - How well you control yourself and things affecting you
 - Sustain: Keep a magical effect active beyond its duration
 - Attune: Put yourself under the effect of active magic or emotional effects
