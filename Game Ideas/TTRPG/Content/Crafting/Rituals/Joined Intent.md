@@ -1,0 +1,1 @@
+Bypass empathy requirement with willing beings.
