@@ -1,5 +1,5 @@
 
 Skill
-Emotion
+Emotion - Motus
 Faculty - Anima
-Eqperiance
+Experience
