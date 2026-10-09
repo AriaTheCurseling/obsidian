@@ -1,9 +1,9 @@
 
 Skill - Ars - Periria | Animation
-Emotion - Motus | Transmutation... Evocation
+Emotion - Motus | Transmutation
 Faculty - Anima | Enchanting
-Experience - Eventus
-Knowledge - sapio
+Experience - Eventus 
+Knowledge - sapio | Evocation
 
 
 
