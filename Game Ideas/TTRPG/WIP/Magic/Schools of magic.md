@@ -1,0 +1,4 @@
+
+Skill
+Emotion
+Faculty
