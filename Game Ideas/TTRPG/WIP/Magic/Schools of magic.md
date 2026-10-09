@@ -11,7 +11,13 @@ Evocation wheel
         Sound             Photonic
     Kinetic                                 Electrical
 					Alchemical
-			Nuclear
+			   Nuclear
+
+
+Nuclear > Kinetic, Electrical(photonic)
+
+
+
 
 Nuclear > Alchemical > Electrical > Kinetic > Sound > 
 Dark, Gravity, Photonic, 
