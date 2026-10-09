@@ -1,7 +1,7 @@
 
-Skill - Ars - Periria
+Skill - Ars - Periria | Animation
 Emotion - Motus
-Faculty - Anima
+Faculty - Anima | Enchanting
 Experience - Eventus
 
 
