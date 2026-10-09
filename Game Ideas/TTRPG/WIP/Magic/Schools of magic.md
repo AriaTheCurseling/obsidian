@@ -3,7 +3,7 @@ Skill - Ars - Periria | Animation
 Emotion - Motus
 Faculty - Anima | Enchanting
 Experience - Eventus
-
+Knowledge - sapio
 
 
 
