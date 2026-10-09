@@ -6,6 +6,9 @@ Experience - Eventus
 
 
 
+
+
+
 Evocation wheel
 	           Thermal
         Sound             Photonic
@@ -16,6 +19,11 @@ Evocation wheel
 
 Nuclear > Kinetic, Electrical(photonic)
 
+
+Gluonic
+Photonic
+Bosonic
+Gravitonic
 
 
 
