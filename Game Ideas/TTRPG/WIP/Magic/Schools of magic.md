@@ -27,8 +27,16 @@ Gravitonic
 
 
 
-Nuclear > Alchemical > Electrical > Kinetic > Sound > 
+Nuclear > Alchemical > Electrical > Kinetic > Sound > Thermal
 Dark, Gravity, Photonic, 
 
 
 Space, Time
+
+Nuclear > 
+Alchemical | Water
+Electrical | Metal
+Kinetic | Earth
+Sound | Air
+Thermal | Fire
+Dark, Gravity, Photonic, 
