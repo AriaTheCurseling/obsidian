@@ -1,6 +1,7 @@
 #spell #evocation 
 Ingredients
 > Any mundane poison, brew, elixir or similar... To be speed up
+> Fire... Loses the ability to burn
 > ...
 
 Takes 2 to 6 seconds
