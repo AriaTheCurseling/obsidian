@@ -1,5 +1,5 @@
 ingredients
-> A precarious rock stack... topples over
+> A rock stack... topples over
 
 
 Bless a number of people with the stability and sureness of stone.
