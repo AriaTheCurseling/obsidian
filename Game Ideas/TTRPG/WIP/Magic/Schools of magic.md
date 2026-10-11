@@ -45,8 +45,18 @@ Dark, Gravity, Photonic,
 
 
 Earth
-
+		Abjuration
 Crystal
-
+		Divination
 Water
-
+		Transmutation
+Flora
+		
+Light 
+		
+Smoke
+		
+Wind
+		Conjuration
+???
+		
