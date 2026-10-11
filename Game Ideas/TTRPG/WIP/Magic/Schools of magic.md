@@ -49,9 +49,9 @@ Earth
 Crystal
 		Divination
 Water
-		Transmutation
-Flora
 		Necromancy
+Flora
+		Transmutation
 Energy 
 		Evocation
 Smoke
