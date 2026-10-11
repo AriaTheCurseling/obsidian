@@ -6,16 +6,10 @@ ingredients
 
 Bless a number of people with the stability and sureness of stone. 
 
-The blessing remains for as long as the stones have withstood the wind and rain, 
+The blessing remains for as long as the stones have withstood the wind and rain.
 
 
-For each stone in the stack a 
+The precarious stack of rocks topples over. Each stone carries with it the stability and sureness that has let it withstand the forces of nature, 
 
+Anyone picking up a stone will gain its blessing for as long as they keep it close.
 
-
-The rock stack topples over, 
-
-One person per rock
-Lasts for as long as the rocks where balanced
-
-Duration is based on how long the rocks have been balanced, strength is based on how
