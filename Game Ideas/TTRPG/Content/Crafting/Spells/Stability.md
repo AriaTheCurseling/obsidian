@@ -1,8 +1,8 @@
 ingredients
-> A rock stack... topples over
+> A stack of rocks... topples over
 
 
-Bless a number of people with the stability and sureness of stone.
+Bless a number of people with the stability and sureness of stone. 
 
 The rock stack topples over, 
 
