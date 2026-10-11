@@ -1,7 +1,7 @@
 ingredients
 > A precarious stack of rocks... topples over
 > A sprinkle of water...
-> 
+> A goats hoof...
 
 1 minute.
 
