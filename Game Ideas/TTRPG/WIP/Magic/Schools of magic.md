@@ -51,12 +51,12 @@ Crystal
 Water
 		Transmutation
 Flora
-		
-Light 
-		
+		Necromancy
+Energy 
+		Evocation
 Smoke
-		
+		Illusion
 Wind
 		Conjuration
-???
-		
+Dust
+		Enchantment
