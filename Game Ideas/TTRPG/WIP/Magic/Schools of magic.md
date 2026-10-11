@@ -40,3 +40,13 @@ Kinetic | Earth
 Sound | Air
 Thermal | Fire
 Dark, Gravity, Photonic, 
+
+
+
+
+Earth
+
+Crystal
+
+Water
+
