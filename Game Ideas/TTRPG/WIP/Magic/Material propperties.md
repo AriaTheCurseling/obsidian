@@ -19,6 +19,7 @@ How does it impact other materials with missing effects?
 ###### Gain
 How many effects can the material hold?
 How long does the material hold effects?
+How does it handle contradicting effects?
 ###### Loss
 How many effects can the material loose?
 How does the material remain connected to the effect?
@@ -66,8 +67,8 @@ Critical(x) -> X happens when critical
 
 Do properties change at capacity: yes, no, can't happen
 
-Metal      --- Singular, 
-Crystal    --- Lasting, 
+Metal      --- Lasting, 
+Crystal    --- Lasting, Boundless
 Water     --- Fleeting, ?Chaotic?
 
 Flesh      --- Selective, ??
