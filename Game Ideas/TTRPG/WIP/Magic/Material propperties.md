@@ -82,7 +82,7 @@ Do properties change at capacity: yes, no, can't happen
 
 Metal      --- Lasting, 
 Crystal    --- Lasting, Boundless
-Water     --- Fleeting, ?Chaotic?
+Water     --- Fleeting, 
 
 Flesh      --- Selective, ??
 Flora      --- Absorbent, Amplifying, Critical(Emissive)
