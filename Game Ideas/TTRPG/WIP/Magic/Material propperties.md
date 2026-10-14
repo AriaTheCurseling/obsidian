@@ -47,6 +47,7 @@ Boundless - - Singular           --- How many effects can it hold
 Fleeting - - Lasting                --- How fast effects are released
 Amplifying - - Diminishing    --- How strong effects are
 Absorbent - - Selective         --- How easily its given an effect
+Reconciling - - Rebutive        --- How it reacts to paradoxes
 
 Mnemonic -- keeps a piece of past properties
 Dispersive -- Shares its property
