@@ -9,13 +9,16 @@ Trasmutive - ?? - ???
 Mnemonic - - Transitory
 Critical       - - Saturating 
 
+
+
+
+##### Questions
 ###### Impact
 How does it impact other materials with added effects?
 How does it impact other materials with missing effects?
 
 How is it impacted by materials with added effects?
 How is it impacted by materials with missing effects?
-##### Questions
 ###### Gain
 How many effects can the material hold?
 How long does the material hold effects?
@@ -34,6 +37,10 @@ How does the material respond to magical-properties?
 Absorbent - Imparting --- Does it give or take?
 Receptive - Emissive --- Does it affect its surroundings or is it affected by them?
 
+Stabilizing - Destabilizing --- 
+Contaminating ---
+
+Stabilizing
 Contaminating -- Emits its natural effects onto nearby negative materials
 
 Absorbent -- Actively takes magical effects from its surroundings
