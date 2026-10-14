@@ -6,7 +6,6 @@ Solid - Liquid - Gas
 
 Trasmutive - ?? - ???
 
-Directional - - Topological
 Mnemonic - - Transitory
 Critical       - - Saturating 
 
@@ -46,8 +45,8 @@ How fast does it loose them when no longer actively applied?
 Boundless - - Singular           --- How many effects can it hold
 Fleeting - - Lasting                --- How fast effects are released
 Amplifying - - Diminishing    --- How strong effects are
-Absorbent - - Selective         --- How easily its given an effect
-Reconciling - - Rebutive        --- How it reacts to paradoxes
+Absorbent - - Selective          --- How easily its given an effect
+Reconciling - - Destructive     --- How it reacts to paradoxes
 
 Mnemonic -- keeps a piece of past properties
 Dispersive -- Shares its property
