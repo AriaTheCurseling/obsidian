@@ -24,6 +24,9 @@ How easy is it to add an effect?
 ###### Loss
 How many effects can the material loose?
 How does the material remain connected to the effect?
+###### Replaced
+How does the material act with replacements?
+
 
 
 Impact
