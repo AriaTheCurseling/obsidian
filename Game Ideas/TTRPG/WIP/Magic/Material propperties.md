@@ -30,7 +30,7 @@ How does the material act with replacements?
 How does the material respond to magical-properties?
 ##### Properties
 
-Impact
+###### Impact
 Absorbent - Imparting --- Does it give or take?
 Receptive - Emissive --- Does it affect its surroundings or is it affected by them?
 
@@ -40,22 +40,15 @@ Imparting -- Actively spreads its magical effect
 Emissive -- Shares its effect with surroundings
 Receptive -- Utilizes the effects of its surroundings
 
-Properties for addition
-How many can it hold?
-How fast does it loose them when no longer actively applied?
-
+###### Addition
 Boundless - - Singular           --- How many effects can it hold
 Fleeting - - Lasting                --- How fast effects are released
 Amplifying - - Diminishing    --- How strong effects are
-Absorbent - - Selective          --- How easily its given an effect
+??              - - Selective          --- How easily its given an effect
 Reconciling - - Destructive     --- How it reacts to paradoxes
 
 Mnemonic -- keeps a piece of past properties
-Dispersive -- Shares its property
-
-
-
-Properties for subtraction
+###### Subtraction
 - Removal
 	- Tiers of ease
 	- Chaos
