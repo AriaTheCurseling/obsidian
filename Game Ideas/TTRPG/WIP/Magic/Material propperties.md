@@ -13,21 +13,20 @@ Directional - - Topological
 Mnemonic - - Transitory
 Critical       - - Saturating 
 
-Water - Slippery, Transmutative
 
 Properties for addition
 How many can it hold?
 How fast does it loose them when no longer actively applied?
 
-Boundless - Poly - Singular   --- How many additions can it hold
-Slippery - Elastic - Tenacious --- How fast does it release
+Boundless - - Singular           --- How many effects can it hold
+Fleeting - - Lasting                --- How fast effects are released
 
 Mnemonic -- keeps a piece of past properties
 Dispersive -- Shares its property
 
-Amplifying
+Amplifying                           --- How strong effects 
 
-Absorbent - - Selective --- How easily its given
+Absorbent - - Selective --- How easily its given an effect
 
 Properties for subtraction
 - Removal
@@ -56,12 +55,12 @@ Critical(x) -> X happens when critical
 
 Do properties change at capacity: yes, no, can't happen
 
-Metal
-Crystal
-Water
+Metal      --- Singular, 
+Crystal    --- Lasting, 
+Water     --- Fleeting, ?Chaotic?
 Ground
-Flesh
-Flora
+Flesh      --- Selective
+Flora      --- Absorbent
 
 
 Topological Insulator
