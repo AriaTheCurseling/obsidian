@@ -4,6 +4,7 @@ Solids
 
 Crystal - Half-Crystal - Non-Crystal
 Insulating - Semiconducter - Transmitive
+
 Solid - Liquid - Gas
 
 Trasmutive - ?? - ???
@@ -12,10 +13,22 @@ Directional - - Topological
 Mnemonic - - Transitory
 Critical       - - Saturating 
 
+Water - Slippery, Transmutative
 
-Properties for additon
+
+Properties for addition
 Boundless - Poly - Singular   --- How many additions can it hold
-Slippery - Elastic - Tenacious 
+Slippery - Elastic - Tenacious --- How fast does it release
+
+
+Properties for subtraction
+- Removal
+- Retrieval - default snaps back
+	- Rebounds
+	- 
+
+Rebound - - Gradual   --- How does a material reclaim its property
+
 
 How much addition.
 How much subtraction.
