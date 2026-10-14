@@ -1,4 +1,6 @@
 
+The more fundamental a property is, the harder it is to move
+
 ###### Laws of Connection
 Connection lets spells interact differently with whom they are connected
 Connection is required for spell dismissal, control, typical channeling

@@ -1,4 +1,5 @@
 
+
 Solids
 
 Crystal - Half-Crystal - Non-Crystal
@@ -9,7 +10,13 @@ Trasmutive - ?? - ???
 
 Directional -
 Mnemonic -  - Burnout
-Changes -  - 
+Material changes on exposure -  - 
+
+
+Mnemonic -> Hangs onto magic even after the spell is done
+
+
+Do properties change at capacity: yes, no, can't happen
 
 Metal
 Crystal
