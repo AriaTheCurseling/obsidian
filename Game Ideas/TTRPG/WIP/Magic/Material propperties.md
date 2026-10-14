@@ -8,9 +8,9 @@ Solid - Liquid - Gas
 
 Trasmutive - ?? - ???
 
-Directional -
-Mnemonic -  - Transitory
-Critical -  - Saturating 
+Directional - - Topological
+Mnemonic - - Transitory
+Critical       - - Saturating 
 
 
 Mnemonic -> Hangs onto magic even after the spell is done
