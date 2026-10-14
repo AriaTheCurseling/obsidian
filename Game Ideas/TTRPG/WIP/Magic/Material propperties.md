@@ -20,6 +20,7 @@ How does it impact other materials with missing effects?
 How many effects can the material hold?
 How long does the material hold effects?
 How does it handle contradicting effects?
+
 ###### Loss
 How many effects can the material loose?
 How does the material remain connected to the effect?
