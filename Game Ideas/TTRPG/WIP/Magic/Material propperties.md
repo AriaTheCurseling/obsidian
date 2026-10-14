@@ -13,6 +13,16 @@ Directional - - Topological
 Mnemonic - - Transitory
 Critical       - - Saturating 
 
+###### Impact
+How does it impact other materials with added effects?
+How does it impact other materials with missing effects?
+###### Gain
+How many effects can the material hold?
+How long does the material hold effects?
+###### Loss
+How many effects can the material loose?
+How does the material remain connected to the effect?
+
 
 Properties for addition
 How many can it hold?
@@ -59,8 +69,7 @@ Do properties change at capacity: yes, no, can't happen
 Metal      --- Singular, 
 Crystal    --- Lasting, 
 Water     --- Fleeting, ?Chaotic?
-Ground
 
-Flesh      --- Selective
+Flesh      --- Selective, ??
 Flora      --- Absorbent, Amplifying
-Fungi     --- Imparting
+Fungi     --- Imparting, ???
