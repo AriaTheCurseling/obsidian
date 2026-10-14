@@ -15,6 +15,7 @@ How does it impact other materials with missing effects?
 
 How is it impacted by materials with added effects?
 How is it impacted by materials with missing effects?
+##### Questions
 ###### Gain
 How many effects can the material hold?
 How long does the material hold effects?
@@ -25,8 +26,9 @@ How many effects can the material loose?
 How does the material remain connected to the effect?
 ###### Replaced
 How does the material act with replacements?
-
-
+###### Meta
+How does the material respond to magical-properties?
+##### Properties
 
 Impact
 Absorbent - Imparting --- Does it give or take?
@@ -56,6 +58,7 @@ Dispersive -- Shares its property
 Properties for subtraction
 - Removal
 	- Tiers of ease
+	- Chaos
 - Intermediate
 	- Tethered - The object retains use of the property through connection
 	- Remnants - The property can be taken once, but the object keeps it
@@ -80,10 +83,13 @@ Critical(x) -> X happens when critical
 
 Do properties change at capacity: yes, no, can't happen
 
+##### Common Materials
 Metal      --- Lasting, 
 Crystal    --- Lasting, Boundless
 Water     --- Fleeting, 
+Rock       ---
+
 
 Flesh      --- Selective, ??
-Flora      --- Absorbent, Amplifying, Critical(Emissive)
-Fungi     --- Imparting, ???
+Flora      --- Absorbent, Amplifying, Critically Emissive
+Fungi     --- Imparting, , subCritically Receptive
