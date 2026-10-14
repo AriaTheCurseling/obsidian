@@ -26,6 +26,14 @@ How many effects can the material loose?
 How does the material remain connected to the effect?
 
 
+Impact
+Absorbent - Imparting --- Does it give or take?
+Emissive -  --- Does it affect its surroundings or is it affected by them
+
+Absorbent -- Actively takes magical effects from its surroundings
+Imparting -- Actively spreads its magical effect
+
+
 Properties for addition
 How many can it hold?
 How fast does it loose them when no longer actively applied?
@@ -38,8 +46,8 @@ Absorbent - - Selective         --- How easily its given an effect
 Mnemonic -- keeps a piece of past properties
 Dispersive -- Shares its property
 
-Absorbent -- Actively takes magical effects from its surroundings
-Imparting -- Actively spreads its magical effect
+
+Emissive -- Shares its effect with surroundings
 
 Properties for subtraction
 - Removal
@@ -73,5 +81,5 @@ Crystal    --- Lasting, Boundless
 Water     --- Fleeting, ?Chaotic?
 
 Flesh      --- Selective, ??
-Flora      --- Absorbent, Amplifying
+Flora      --- Absorbent, Amplifying, Critical(Emissive)
 Fungi     --- Imparting, ???
