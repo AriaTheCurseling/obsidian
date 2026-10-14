@@ -1,7 +1,4 @@
 
-
-Solids
-
 Crystal - Half-Crystal - Non-Crystal
 Insulating - Semiconducter - Transmitive
 
@@ -16,6 +13,9 @@ Critical       - - Saturating
 ###### Impact
 How does it impact other materials with added effects?
 How does it impact other materials with missing effects?
+
+How is it impacted by materials with added effects?
+How is it impacted by materials with missing effects?
 ###### Gain
 How many effects can the material hold?
 How long does the material hold effects?
@@ -28,11 +28,13 @@ How does the material remain connected to the effect?
 
 Impact
 Absorbent - Imparting --- Does it give or take?
-Emissive -  --- Does it affect its surroundings or is it affected by them
+Receptive - Emissive --- Does it affect its surroundings or is it affected by them?
 
 Absorbent -- Actively takes magical effects from its surroundings
 Imparting -- Actively spreads its magical effect
 
+Emissive -- Shares its effect with surroundings
+Receptive -- Utilizes the effects of its surroundings
 
 Properties for addition
 How many can it hold?
@@ -47,7 +49,6 @@ Mnemonic -- keeps a piece of past properties
 Dispersive -- Shares its property
 
 
-Emissive -- Shares its effect with surroundings
 
 Properties for subtraction
 - Removal
