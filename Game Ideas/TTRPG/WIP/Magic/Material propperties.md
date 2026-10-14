@@ -84,12 +84,12 @@ Critical(x) -> X happens when critical
 Do properties change at capacity: yes, no, can't happen
 
 ##### Common Materials
-Metal      --- Lasting, 
+Metal      --- 
 Crystal    --- Lasting, Boundless
 Water     --- Fleeting, 
-Rock       ---
+Earth       ---
 
 
-Flesh      --- Selective, ??
+Flesh      --- Selective, 
 Flora      --- Absorbent, Amplifying, Critically Emissive
-Fungi     --- Imparting, , subCritically Receptive
+Fungi     --- Imparting, SubCritically Receptive
