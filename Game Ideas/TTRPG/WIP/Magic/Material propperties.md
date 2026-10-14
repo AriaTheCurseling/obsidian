@@ -20,13 +20,14 @@ How fast does it loose them when no longer actively applied?
 
 Boundless - - Singular           --- How many effects can it hold
 Fleeting - - Lasting                --- How fast effects are released
+Amplifying - - Diminishing    --- How strong effects are
+Absorbent - - Selective         --- How easily its given an effect
 
 Mnemonic -- keeps a piece of past properties
 Dispersive -- Shares its property
 
-Amplifying                           --- How strong effects 
-
-Absorbent - - Selective --- How easily its given an effect
+Absorbent -- Actively takes magical effects from its surroundings
+Imparting -- Actively spreads its magical effect
 
 Properties for subtraction
 - Removal
@@ -59,11 +60,7 @@ Metal      --- Singular,
 Crystal    --- Lasting, 
 Water     --- Fleeting, ?Chaotic?
 Ground
+
 Flesh      --- Selective
-Flora      --- Absorbent
-
-
-Topological Insulator
-
-
-Capacity
+Flora      --- Absorbent, Amplifying
+Fungi     --- Imparting
