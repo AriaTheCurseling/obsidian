@@ -7,7 +7,9 @@ Solid - Liquid - Gas
 
 Trasmutive - ?? - ???
 
-Mnemonic - Normal - Degrading
+Directional -
+Mnemonic -  - Burnout
+Changes -  - 
 
 Metal
 Crystal
