@@ -34,6 +34,8 @@ How does the material respond to magical-properties?
 Absorbent - Imparting --- Does it give or take?
 Receptive - Emissive --- Does it affect its surroundings or is it affected by them?
 
+Contaminating -- Emits its natural effects onto nearby negative materials
+
 Absorbent -- Actively takes magical effects from its surroundings
 Imparting -- Actively spreads its magical effect
 
@@ -77,7 +79,7 @@ Critical(x) -> X happens when critical
 Do properties change at capacity: yes, no, can't happen
 
 ##### Common Materials
-Metal      --- 
+Metal      --- Fleeting, Contaminating, Emits Diminishing
 Crystal    --- Lasting, Boundless
 Water     --- Fleeting, 
 Earth       ---
