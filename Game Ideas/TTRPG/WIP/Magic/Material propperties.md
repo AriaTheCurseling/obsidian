@@ -13,6 +13,15 @@ Mnemonic - - Transitory
 Critical       - - Saturating 
 
 
+Properties for additon
+Boundless - Poly - Singular   --- How many additions can it hold
+Slippery - Elastic - Tenacious 
+
+How much addition.
+How much subtraction.
+How tight.
+
+
 Mnemonic -> Hangs onto magic even after the spell is done
 Transitory -> 
 Critical(x) -> X happens when critical
