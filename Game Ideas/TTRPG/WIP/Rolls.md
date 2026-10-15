@@ -11,7 +11,9 @@ Costs vary depending on action type, magic might add a chaos die to a shared poo
 
 Could just add the value to next opponents roll? would work okayish. 
 
-You can appæy your skill to one of the three numbers, e
+You can appæy your skill to one of the three numbers, either reducing the cost, increasing the success, or reducing the...?? 
+
+For wymmetry reasons it would be ideal if the high dice wants to be small
 
 
 
