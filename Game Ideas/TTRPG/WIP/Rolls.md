@@ -16,4 +16,9 @@ You can appæy your skill to one of the three numbers, either reducing the cost,
 For wymmetry reasons it would be ideal if the high dice wants to be small
 
 
+Disadvantage - Cost and Success are merged 
+- 
+
+
+
 
