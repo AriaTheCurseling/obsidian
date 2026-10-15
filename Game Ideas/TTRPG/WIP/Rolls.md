@@ -1,8 +1,8 @@
 
 3d20 compare values
 
-The highest value the **time** 
-The middle value the **gain**
+The highest value the **duration** 
+The middle value the **quality**
 The lowest value the **risk**
 
 
