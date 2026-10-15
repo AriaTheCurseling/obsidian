@@ -3,7 +3,7 @@
 
 The highest value the **duration** 
 The middle value the **quality**
-The lowest value the **risk**
+The lowest value the **expense**
 
 
 
