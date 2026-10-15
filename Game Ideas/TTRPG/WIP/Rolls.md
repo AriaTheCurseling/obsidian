@@ -3,7 +3,7 @@
 
 The highest value is your **progress**
 The middle value is your **aptitude**
-The lowest value is your **cost**
+The lowest value is your **risk**
 
 
 
