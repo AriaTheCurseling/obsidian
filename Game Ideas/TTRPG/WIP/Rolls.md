@@ -2,7 +2,7 @@
 3d20 compare values
 
 The highest value the **time** 
-The middle value the **gain**
+The middle value this you **success**
 The lowest value the **risk**
 
 
