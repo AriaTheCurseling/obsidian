@@ -1,9 +1,9 @@
 
 3d20 compare values
 
-The highest value is your **duration**
-The middle value is your **success**
-The lowest value is your **rcons**
+The highest value is your **time** expended
+The middle value is your **gain** 
+The lowest value is your **risk**
 
 
 
