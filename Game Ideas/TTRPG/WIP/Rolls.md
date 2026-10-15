@@ -1,9 +1,9 @@
 
 3d20 compare values
 
-The highest value the **time** you use
-The middle value the **gain** you accomplish
-The lowest value the **risk** you take
+The highest value the **time** 
+The middle value the **gain**
+The lowest value the **risk**
 
 
 
