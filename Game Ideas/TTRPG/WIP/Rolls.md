@@ -20,7 +20,7 @@ Disadvantage - Cost and Success are merged
 - Do we roll two dice or 3 and choose? 
 
 
+Take your time - Set one die to 20 before rolling
 
-
-
+Cheap out - Set one d
 
