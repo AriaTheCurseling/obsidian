@@ -22,5 +22,5 @@ Disadvantage - Cost and Success are merged
 
 Take your time - Set one die to 20 before rolling
 
-Cheap out - Set one d
+Cheap out - Set one die to 1 before rolling
 
