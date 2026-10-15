@@ -1,9 +1,9 @@
 
 3d20 compare values
 
-The highest value is your **progress**
-The middle value is your **aptitude**
-The lowest value is your **risk**
+The highest value is your **duration**
+The middle value is your **success**
+The lowest value is your **rcons**
 
 
 
@@ -13,7 +13,7 @@ Could just add the value to next opponents roll? would work okayish.
 
 You can appæy your skill to one of the three numbers, either reducing the cost, increasing the success, or reducing the...?? 
 
-For wymmetry reasons it would be ideal if the high dice wants to be small
+For symmetry reasons it would be ideal if the high dice wants to be small
 
 
 Disadvantage - Cost and Success are merged 
