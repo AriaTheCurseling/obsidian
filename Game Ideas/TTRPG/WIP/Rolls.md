@@ -16,7 +16,7 @@ Signifies how well you do.
 Compare your success with the difficulty of the action to find its success level. 
 
 Outright failiure is rare, but a character might not get quite what they wanted. 
-###### Cost
+###### Strain
 Signifies a price to pay down the road. 
 
 This is tracked by adding a die to your character sheet; Use the biggest die size with fewer sides than your roll. 
