@@ -6,6 +6,8 @@ Astral projects during reset, can use this to look through a wall. or around a c
 
 Has a long ranged punch / interact. 
 
+Some grabby / pushy ability
+
 
 
 
