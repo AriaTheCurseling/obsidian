@@ -1,9 +1,11 @@
 
 
 
-I have discovered the most wonderful spell. Never again shall i misplace or forget something of mine
+I have discovered the most wonderful spell. 
 
+Never again shall i misplace or forget something of mine. I'm no longer capable of forgetting. 
 
+Sounds unbelievable right? 
 
 I've always been forgetful, my mother used to joke i'd forget my own hands if they weren't attached to me. 
 
