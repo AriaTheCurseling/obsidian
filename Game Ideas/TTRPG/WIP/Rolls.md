@@ -8,9 +8,9 @@ The lowest value determines **cost**
 The dice tell a story, if the duration is low, you aborted the action early out of caution, if the expense is high you overexcerted yourself. 
 
 ###### Duration
-Signifies how long it took you. 
+Signifies how long it took to finish. 
 
-
+I'm thinking i want effects in combat at extreme values. Outside of combat is far easier - 
 ###### Success
 Signifies how well you do. 
 
