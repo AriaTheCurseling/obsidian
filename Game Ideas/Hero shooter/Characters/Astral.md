@@ -15,8 +15,6 @@ Project and briefly control an astral projection, it continues whichever action 
 
 
 
-Main fire: 
-Alt fire: Blocks, change main fire to push
 
 
 
