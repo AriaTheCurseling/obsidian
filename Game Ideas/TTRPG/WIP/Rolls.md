@@ -12,9 +12,9 @@ The dice tell a story, if the duration is low, you aborted the action early out 
 ###### Quality
 The quality is how well you complete the action, its the value that opposes the tasks difficulty. 
 ###### Cost
-The cost is paid by adding a dice tp your sheet. The rolled value is ho
+The cost signifies that your action with have a price to pay down the road. 
 
-The expense signifies that your action with have a price to pay down the road. 
+Add a
 
 When the expense is greater than 3, you add a consequence die to your sheet with as many sides as the expense value, rounded down to nearest polyhedral die. (d4 to d12)
 
