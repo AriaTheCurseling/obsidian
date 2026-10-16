@@ -9,9 +9,11 @@ Sounds unbelievable right? Me, incapable of forgetting?
 
 Remember how mother always joked i'd forget my own hands if they weren't attached to me? 
 
-Every. Single. Time? 
+Every. Single. Day? 
 
-Oh how often she , how many times i've ignored it. 
+Oh how often she repeated that phrase, how often i ignored it. 
+
+I suppose i was 
 
 But then, it struck me. 
 
