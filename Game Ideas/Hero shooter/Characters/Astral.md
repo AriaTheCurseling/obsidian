@@ -10,7 +10,7 @@ Has a long ranged punch / interact.
 Violently swirls the montante around, creating a whirlwind of blades that pushes enemies back. 
 
 
-Leaves behind a projection that continues astrals last action. 
+Project and briefly control an astral projection, it continues whichever action you take with it. 
 
 
 
