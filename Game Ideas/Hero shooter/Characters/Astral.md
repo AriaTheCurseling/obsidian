@@ -1,12 +1,12 @@
 
-Hardlight character. 
+Hardlight character. Wields a montante
 
 
 Astral projects during reset, can use this to look through a wall. or around a corner
 
 Has a long ranged punch / interact. 
 
-Main fire: Punch
+Main fire: 
 Alt fire: Blocks, change main fire to push
 
 
