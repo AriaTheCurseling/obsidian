@@ -14,6 +14,8 @@ The quality is how well you complete the action, its the value that opposes the 
 ###### Cost
 The cost signifies that your action with have a price to pay down the road. 
 
+This is tracked by adding a die to your character sheet; Use the biggest die size with fewer
+
 To track this, you add a cost die to your character sheet. This cost die has as many sides as you just rolled, rounded down to the nearest standard die. 
 
 When the expense is greater than 3, you add a consequence die to your sheet with as many sides as the expense value, rounded down to nearest polyhedral die. (d4 to d12)
