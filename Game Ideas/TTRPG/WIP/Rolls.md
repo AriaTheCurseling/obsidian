@@ -8,7 +8,11 @@ The lowest value the **expense**
 The dice tell a story, if the duration is low, you aborted the action early out of caution, if the expense is high you overexcerted yourself. 
 
 ###### Expense
-The expense signifies that your action with have a price to pay down the road. The expense value d
+The expense signifies that your action with have a price to pay down the road. 
+
+When the expense
+
+The expense value determines how many sides 
 
 
 If the expense is higher than 4, you add a **consequence** dice to an appropriate place on your sheet. Choose the biggest die with fewer sides than your
