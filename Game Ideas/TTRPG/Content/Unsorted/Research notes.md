@@ -1,7 +1,7 @@
 
 
 
-I have discovered the most wonderful spell. 
+I have discovered the most wonderful spell. Never again shall i misplace or forget something of mine
 
 
 
