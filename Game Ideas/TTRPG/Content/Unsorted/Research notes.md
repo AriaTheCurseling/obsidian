@@ -17,6 +17,8 @@ but then, the other day i thought back and well, how come i never did forget my 
 
 Well, i decided to try. surely its possible? 
 
-And oh, isnt the answer wonderful. I never managed, no matter what i did, no matter which form of displacement i used. 
+And oh, isnt the answer wonderful. I never managed, no matter what i did, no matter which form of displacement i used, magic or mundane, i always knew of them, somewhere in the back of my mind. 
+
+
 
 Naturally, the next step was to 
