@@ -10,7 +10,9 @@ Signifies how long it took to finish.
 A low value means you finished quicker than expected, which can benefit you in various ways. 
 
 20 - 16: No benefit
-
+15 - 11: Minor benefit
+10 - 6: Major benefit
+5 - 1: New action
 
 In combat this might a moment of calm amidst the storm, you might take a breather to recover or keep your eyes peeled for attacks; During exploration and downtime it typically means you can get more done than you thought. 
 ###### Success
