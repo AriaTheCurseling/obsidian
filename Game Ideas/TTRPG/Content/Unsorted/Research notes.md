@@ -1,10 +1,11 @@
 
 
 
-I have discovered the most wonderful spell. I dont quite have words for it, but there's a 
+I have discovered the most wonderful spell. 
 
+I've always been forgetful, my mother used to joke i'd forget my own hands if they weren't attached to me. 
 
-I've always been forgetful
+And
 
 
 
