@@ -7,6 +7,12 @@ The lowest value the **expense**
 
 The dice tell a story, if the duration is low, you aborted the action early out of caution, if the expense is high you overexcerted yourself. 
 
+###### Expense
+expense is paid in steps, when looking at your expense value, grab
+
+
+##### notes
+
 Costs vary depending on action type, magic might add a chaos die to a shared pool based on its value - coule be fun to have an everexpanding chaos pool
 
 Could just add the value to next opponents roll? would work okayish. 
