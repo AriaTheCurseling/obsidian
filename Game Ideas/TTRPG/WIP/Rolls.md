@@ -1,5 +1,5 @@
 
-3d20 compare values
+3d20 system
 
 The highest value the **duration** 
 The middle value the **quality**
