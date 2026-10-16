@@ -16,10 +16,10 @@ You can apply your skill to one of the three numbers, either reducing the cost, 
 For symmetry reasons it would be ideal if the high dice wants to be small
 
 
-Disadvantage - Cost and Success are merged 
+Disadvantage combines quality and expense
 - Do we roll two dice or 3 and choose? 
 
-Advantage - Cost and
+Advantage combines duration and quality
 
 Take your time - Set one die to 20 before rolling
 
