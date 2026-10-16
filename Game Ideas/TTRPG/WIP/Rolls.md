@@ -10,7 +10,7 @@ The dice tell a story, if the duration is low, you aborted the action early out 
 ###### Duration
 Signifies how long it took to finish. 
 
-I'm thinking i want effects in combat at extreme values. Outside of combat is far easier - 
+I'm thinking i want effects in combat at extreme values. Outside of combat is far easier - a crafting roll 
 ###### Success
 Signifies how well you do. 
 
