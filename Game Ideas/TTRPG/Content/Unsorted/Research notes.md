@@ -9,7 +9,10 @@ I've always been forgetful, my mother used to joke i'd forget my own hands if th
 
 Oh how many times i've heard that anectdote, how many times i've ignored it. 
 
-But 
+But then, it struck me. 
+
+How come i dont forget my own hands? why do i always know where they are? 
+
 
 
 
