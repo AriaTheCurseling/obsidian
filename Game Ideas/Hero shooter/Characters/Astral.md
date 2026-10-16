@@ -7,7 +7,7 @@ Astral projects during reset, can use this to look through a wall. or around a c
 Has a long ranged punch / interact. 
 
 
-Spike shot, can be grapped. 
+Spike shot, can be grapped. On terrain works as dash, on enemies as CC. 
 
 
 
