@@ -23,5 +23,7 @@ Advantage combines duration and quality
 
 Take your time - Set one die to 20 before rolling
 
+Spare no expense
+
 Cheap out - Set one die to 1 before rolling
 
