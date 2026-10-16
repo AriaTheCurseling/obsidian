@@ -7,7 +7,7 @@ The lowest value determines **strain**
 ###### Duration
 Signifies how long it took to finish. 
 
-A low value means you finished quicker than expected, which can benefit you in various ways. These benefits are al
+A low value means you finished quicker than expected, which can benefit you in various ways. These benefits are always adjacent to the goal, you might have time to attack a second foe but you'll never get bonus damage. 
 
 20 - 16: No benefit
 15 - 11: Minor benefit
