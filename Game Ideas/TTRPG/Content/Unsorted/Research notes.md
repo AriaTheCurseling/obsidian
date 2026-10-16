@@ -13,13 +13,6 @@ Every. Single. Day?
 
 Oh how often she repeated that phrase, how often i ignored it. 
 
-I suppose i was 
+but then, the other day i thought back and well, how come i never did forget my hands? why do i always know where they are? 
 
-But then, it struck me. 
-
-How come i dont forget my own hands? why do i always know where they are? 
-
-
-
-
-i dont quite have word
+I then i sat there, tryi
