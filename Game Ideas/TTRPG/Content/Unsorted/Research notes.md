@@ -23,4 +23,4 @@ The rest of the story is self explanatory, i pulled on my anima, drawing out thi
 
 One by one i knew where they where, a constant knowledge in the back of my mind. 
 
-Ofcourse, i forgot
+Ofcourse, i forgot my hands for a while after that, but they've long since recovered. 
