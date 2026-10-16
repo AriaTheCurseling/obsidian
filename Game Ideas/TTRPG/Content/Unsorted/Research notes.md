@@ -7,9 +7,11 @@ Never again shall i misplace or forget something of mine. I'm no longer capable 
 
 Sounds unbelievable right? Me, incapable of forgetting? 
 
-Remember how mother always joked i'd forget my own hands if they weren't attached to me. 
+Remember how mother always joked i'd forget my own hands if they weren't attached to me? 
 
-Oh how many times i've heard that anectdote, how many times i've ignored it. 
+Every. Single. Time? 
+
+Oh how often she , how many times i've ignored it. 
 
 But then, it struck me. 
 
