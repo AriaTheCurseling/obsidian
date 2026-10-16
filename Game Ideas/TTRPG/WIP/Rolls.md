@@ -8,11 +8,13 @@ The lowest value determines **cost**
 The dice tell a story, if the duration is low, you aborted the action early out of caution, if the expense is high you overexcerted yourself. 
 
 ###### Duration
-Signi
+Signifies how long it took you. 
+
+
 ###### Success
 Signifies how well you do. 
 
-Compare it with the difficulty of the action to find out how successful is is. 
+Compare your success with the difficulty of the action to find its success level. 
 
 Outright failiure is rare, but a character might not get quite what they wanted. 
 ###### Cost
