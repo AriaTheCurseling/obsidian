@@ -7,7 +7,7 @@ Astral projects during reset, can use this to look through a wall. or around a c
 Has a long ranged punch / interact. 
 
 
-Violently swirls the montante around, creating a whirlwind of blades that pushes enemies back. 
+Violently swirls the montante around, creating a whirlwind of blades that pushes enemies back on hit. 
 
 
 Project and briefly control an astral projection, it continues whichever action you take with it. 
