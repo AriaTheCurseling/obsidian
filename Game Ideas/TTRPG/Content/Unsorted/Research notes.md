@@ -19,6 +19,4 @@ Well, i decided to try. surely its possible?
 
 And oh, isnt the answer wonderful. I never managed, no matter what i did, no matter which form of displacement i used, magic or mundane, i always knew of them, somewhere in the back of my mind. 
 
-
-
-Naturally, the next step was to 
+The rest of the story is 
