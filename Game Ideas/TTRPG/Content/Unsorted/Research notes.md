@@ -5,9 +5,9 @@ I have discovered the most wonderful spell.
 
 Never again shall i misplace or forget something of mine. I'm no longer capable of forgetting. 
 
-Sounds unbelievable right? 
+Sounds unbelievable right? Me, incapable of forgetting? 
 
-I've always been forgetful, my mother used to joke i'd forget my own hands if they weren't attached to me. 
+Remember how mother always joked i'd forget my own hands if they weren't attached to me. 
 
 Oh how many times i've heard that anectdote, how many times i've ignored it. 
 
