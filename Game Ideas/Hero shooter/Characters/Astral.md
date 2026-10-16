@@ -15,7 +15,7 @@ Cancel your current action and dash away leaving behind an after image, reactiva
 
 Main fire: Slash with your sword. 
 
-Alt fire: Grab whatever you're looking at, you get to push and pull it aroub
+Alt fire: Grab whatever you're looking at, you get to push and pull it around a bit. 
 
 
 
