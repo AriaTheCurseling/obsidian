@@ -19,4 +19,4 @@ Well, i decided to try. surely its possible?
 
 And oh, isnt the answer wonderful. I never managed, no matter what i did, no matter which form of displacement i used, magic or mundane, i always knew of them, somewhere in the back of my mind. 
 
-The rest of the story is 
+The rest of the story is self explanatory, i pulled on my anima, focusing on this innate knowledge  binsing
