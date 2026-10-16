@@ -30,6 +30,8 @@ This is tracked by adding a die to your character sheet; Use the biggest die siz
 ... 
 13 - 20: add a d12
 
+###### Doubles
+
 
 
 
