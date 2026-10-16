@@ -19,6 +19,7 @@ For symmetry reasons it would be ideal if the high dice wants to be small
 Disadvantage - Cost and Success are merged 
 - Do we roll two dice or 3 and choose? 
 
+Advantage - Cost and
 
 Take your time - Set one die to 20 before rolling
 
