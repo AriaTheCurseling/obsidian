@@ -19,8 +19,8 @@ This is tracked by adding a die to your character sheet; Use the biggest die siz
 1 - 4: no die is added
 5 - 6: add a d4
 7 - 8: add a d6
-
-
+... 
+13 - 20: add a d12
 ##### notes
 
 Costs vary depending on action type, magic might add a chaos die to a shared pool based on its value - coule be fun to have an everexpanding chaos pool
