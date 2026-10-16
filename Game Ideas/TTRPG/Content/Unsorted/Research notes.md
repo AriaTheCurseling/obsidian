@@ -17,5 +17,6 @@ but then, the other day i thought back and well, how come i never did forget my 
 
 Well, i decided to try. surely its possible? 
 
-And oh, isnt the answer wonderful. I never managed, no matter what i did, no matter which form of displacement i used i never did misplace them. 
+And oh, isnt the answer wonderful. I never managed, no matter what i did, no matter which form of displacement i used. 
 
+Naturally, the next step was to 
