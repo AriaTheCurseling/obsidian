@@ -10,7 +10,7 @@ The dice tell a story, if the duration is low, you aborted the action early out 
 ###### Duration
 Signifies how long it took to finish. 
 
-A low value means you finished quicker than expected, which gains you some benefit. In combat this might a moment of calm amidst the storm, 
+A low value means you finished quicker than expected, which gains you some benefit. In combat this might a moment of calm amidst the storm letting you improve your defence or recover; during exploration or downtime this 
 ###### Success
 Signifies how well you do. 
 
