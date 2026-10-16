@@ -13,7 +13,7 @@ Violently swirls the montante around, creating a whirlwind of blades that pushes
 Cancel your current action and dash away leaving behind an after image, reactivate to have the after image complete the action. 
 
 
-Empower your next attack to slice through
+Alt fire: Empower your next attack to slice through abilities. Makes whirlwind block shots. 
 
 
 
