@@ -10,7 +10,7 @@ The dice tell a story, if the duration is low, you aborted the action early out 
 ###### Expense
 The expense signifies that your action with have a price to pay down the road. 
 
-When the expense
+When the expense is greater than 3, you add a consequence die to your sheet with as many sides as the expense value, rounded down to nearest polyhedral 
 
 The expense value determines how many sides 
 
