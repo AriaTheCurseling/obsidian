@@ -8,7 +8,7 @@ The lowest value the **expense**
 The dice tell a story, if the duration is low, you aborted the action early out of caution, if the expense is high you overexcerted yourself. 
 
 ###### Expense
-
+Expense is paid with dice 
 
 That die is your expense die, add it where i makes sense for the action. 
 ##### notes
