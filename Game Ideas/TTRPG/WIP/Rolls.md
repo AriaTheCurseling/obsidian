@@ -25,7 +25,7 @@ Take your time - Set one die to 20 before rolling
 
 Spare no expense - Roll 3 set lowest to 20
 
-
+Apply no effort - Roll 3 set highest to 1
 
 Cheap out - Set one die to 1 before rolling
 
