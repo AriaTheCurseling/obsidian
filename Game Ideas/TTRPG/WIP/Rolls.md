@@ -8,7 +8,7 @@ The lowest value the **expense**
 The dice tell a story, if the duration is low, you aborted the action early out of caution, if the expense is high you overexcerted yourself. 
 
 ###### Expense
-expense is paid in steps, when looking at your expense value, grab
+expense is paid in steps, when looking at your expense value, grab the biggest die thats lower than the expense
 
 
 ##### notes
