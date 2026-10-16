@@ -7,9 +7,10 @@ The lowest value the **expense**
 
 The dice tell a story, if the duration is low, you aborted the action early out of caution, if the expense is high you overexcerted yourself. 
 
+###### Duration
 
 ###### Quality
-Thw quality is how well you complete the action, its the 
+The quality is how well you complete the action, its the value that opposes the tasks difficulty. 
 ###### Expense
 The expense signifies that your action with have a price to pay down the road. 
 
