@@ -11,7 +11,7 @@ The dice tell a story, if the duration is low, you aborted the action early out 
 
 
 ###### Success
-Signifies how well you accomplished the task, 
+Signifies how well you accomplished the task. Compare it with 
 
 The quality is how well you complete the action, its the value that opposes the tasks difficulty. 
 ###### Cost
