@@ -7,15 +7,15 @@ The lowest value the **expense**
 
 The dice tell a story, if the duration is low, you aborted the action early out of caution, if the expense is high you overexcerted yourself. 
 
+
+###### Quality
+Thw quality is how well you complete the action, its the 
 ###### Expense
 The expense signifies that your action with have a price to pay down the road. 
 
-When the expense is greater than 3, you add a consequence die to your sheet with as many sides as the expense value, rounded down to nearest polyhedral 
-
-The expense value determines how many sides 
+When the expense is greater than 3, you add a consequence die to your sheet with as many sides as the expense value, rounded down to nearest polyhedral die. (d4 to d12)
 
 
-If the expense is higher than 4, you add a **consequence** dice to an appropriate place on your sheet. Choose the biggest die with fewer sides than your
 ##### notes
 
 Costs vary depending on action type, magic might add a chaos die to a shared pool based on its value - coule be fun to have an everexpanding chaos pool
