@@ -9,11 +9,10 @@ The dice tell a story, if the duration is low, you aborted the action early out 
 
 ###### Duration
 
-
 ###### Success
-Signifies how well you accomplished the task. Compare it with the difficulty of the action to find out how successful the action is. 
+Signifies how well you accomplished the task. Compare it with the difficulty of the action to find out how successful is is. 
 
-
+Outright failiure is rare, but a character might not get quite what they wanted. 
 ###### Cost
 The cost signifies that your action with have a price to pay down the road. 
 
