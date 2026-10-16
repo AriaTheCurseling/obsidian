@@ -18,16 +18,6 @@ Cancel your current action and dash away leaving behind an after image, reactiva
 
 
 
-Afterimage. Leave behind a clone that keeps doing an action. 
-
-
-
-
-
-Spike shot, can be grapped. On terrain works as dash, on enemies as CC. 
-
-
-
 
 
 
