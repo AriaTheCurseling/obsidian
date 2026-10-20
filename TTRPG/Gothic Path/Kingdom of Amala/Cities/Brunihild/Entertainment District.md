@@ -26,6 +26,4 @@ Party's first contact in the organization: **Feenja** (age **42**, level **5**) 
 
 They deal in gambling, rumormongering, smuggling and blackmail. They are a well-informed criminal syndicate with multiple corrupt officials in their pockets. 
 
-Due to the actions of the ruler, thw corrupt officials are more careful and less overt in their corruption
-
-The organization could be dealing in gambling, loan sharking, armed robbery, blackmail, spreading rumours or drug trafficking depending on how grim you want your setting to be.
+Due to the actions of the ruler, thw corrupt officials are more careful and less overt in their corruption, much to the chagrin of the burning jesters. 
