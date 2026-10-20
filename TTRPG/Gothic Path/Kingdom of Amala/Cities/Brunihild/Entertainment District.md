@@ -24,6 +24,6 @@ Party's first contact in the organization: **Feenja** (age **42**, level **5**) 
 - Asset: **Local knowledge**
 - Attitude towards the party: (define after encountering them)
 
-They deal in 
+They deal in gambling, rumormongering, smuggling and blackmail. They are a well-informed criminal syndicate wktv
 
 The organization could be dealing in gambling, loan sharking, armed robbery, blackmail, spreading rumours or drug trafficking depending on how grim you want your setting to be.
