@@ -6,6 +6,9 @@ Plant talking - Mathias
 Being small - Mathias
 Carrying stuff - Casper
 
+Sneaking and thieving - Jamil
+
+
 The burning Jester
 Casper - Pit fighting, Addict, odd jobs
 Jamil - Provides undead and services
