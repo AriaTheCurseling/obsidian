@@ -24,4 +24,6 @@ Party's first contact in the organization: **Feenja** (age **42**, level **5**) 
 - Asset: **Local knowledge**
 - Attitude towards the party: (define after encountering them)
 
-The organization could be dealing in gambling, loan sharking, armed robbery, blackmail, spreading rumours and possibly slavery, prostitution or drug trafficking depending on how grim you want your setting to be.
+They deal in 
+
+The organization could be dealing in gambling, loan sharking, armed robbery, blackmail, spreading rumours or drug trafficking depending on how grim you want your setting to be.
