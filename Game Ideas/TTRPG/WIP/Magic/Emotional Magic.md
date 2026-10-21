@@ -2,6 +2,5 @@
 Fear
 Disgust
 Anger
-
-Happiness
+Surprise
 Joy
