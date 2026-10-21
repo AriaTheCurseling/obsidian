@@ -25,7 +25,6 @@ A lone rider rushing past
 - Carries little of value
 
 
+Actual play:
 
-
-
-Starts with Darax drinking in the bar, the tavernkeeper 
+Starts with Darax drinking in the bar, the tavernkeeper comes up to him and offers him a job.
