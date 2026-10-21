@@ -28,3 +28,11 @@ A lone rider rushing past
 Actual play:
 
 Starts with Darax drinking in the bar, the tavernkeeper comes up to him and offers him a job. Darax accepts and is led down into the basement after finishing his drink. Here, he meets John Doe and Pixie the feasom.
+
+-intro to
+
+Party is very scared of the decease asking first the jesters and then the nobles about whats going on.
+
+
+Morgwen Sunderman - random person
+knows John doe
