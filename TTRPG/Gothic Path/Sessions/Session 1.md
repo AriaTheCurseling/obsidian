@@ -25,7 +25,7 @@ A lone rider rushing past
 - Carries little of value
 
 
-Actual play:
+#### Actual play:
 
 Starts with Darax drinking in the bar, the tavernkeeper comes up to him and offers him a job. Darax accepts and is led down into the basement after finishing his drink. Here, he meets John Doe and Pixie the feasom.
 
