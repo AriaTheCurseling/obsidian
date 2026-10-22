@@ -8,3 +8,6 @@ Joy
 Curiosity
 Pride
 Envious
+
+Anticipation
+Ambition
