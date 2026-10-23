@@ -1,13 +1,13 @@
 
-Fear
-Disgust
-Anger
-Surprise
-Joy
+Fear > Protection
+Disgust > Cleansing
+Anger > Damage
+Surprise > 
+Joy > 
 -
-Curiosity
+Curiosity > Discovery
 Pride
 Envious
 
-Anticipation
-Ambition
+Anticipation > Future sight
+Ambition > Amplification, Fuel
