@@ -1,4 +1,12 @@
 
+
+
+Taking emergent properties is so easy, it happens on accident often
+
+
+
+
+
 Skill - Ars - Periria | Animation
 Emotion - Motus | Transmutation
 Faculty - Anima | Enchanting
