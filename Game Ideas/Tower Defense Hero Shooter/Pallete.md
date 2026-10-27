@@ -17,7 +17,7 @@ resources matter, expend only what you need at every step
 ##### loops
 ###### Resource Collection
 Finding and collecting resources
-- Required for buildings
+- Required for buildings to function
 - 
 ###### Base building 
 Building up a physical presence
@@ -30,4 +30,5 @@ Accomplishing various map specific tasks
 ###### Fighting
 Killing things and defending yourself
 - Dead enemies can be harvested
-- 
+- Destroy buildings
+- Interrupt objectives
