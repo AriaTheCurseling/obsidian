@@ -19,5 +19,6 @@ resources matter, expend only what you need at every step
 Finding and collecting resources
 ###### Base building 
 Building up a physical presence
+###### Completing Objectives
 
-Complet
+###### Fighting
