@@ -22,6 +22,8 @@ Finding and collecting resources
 Building up a physical presence
 ###### Completing Objectives
 Accomplishing various map specific tasks
-- Grants b
+- Grants buildings
+- Summons enemies
 ###### Fighting
 Killing things and defending yourself
+- Enemies drop resources
