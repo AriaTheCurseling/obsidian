@@ -21,8 +21,9 @@ Finding and collecting resources
 - 
 ###### Base building 
 Building up a physical presence
-- Supply players with tools
 - Creates conveyors for collection
+- Supply players with tools
+- Give players ammo and upgraded
 ###### Completing Objectives
 Accomplishing various map specific tasks
 - Grants buildings
