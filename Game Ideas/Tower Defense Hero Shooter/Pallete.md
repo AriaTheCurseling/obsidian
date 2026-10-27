@@ -18,4 +18,5 @@ resources matter, expend only what you need at every step
 ###### Resource Collection
 Finding and collecting resources
 ###### Base building 
-Bui
+Building up a physical presence
+
