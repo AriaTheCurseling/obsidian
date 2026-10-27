@@ -17,10 +17,11 @@ resources matter, expend only what you need at every step
 ##### loops
 ###### Resource Collection
 Finding and collecting resources
+- Fuels buildings
 ###### Base building 
 Building up a physical presence
 ###### Completing Objectives
 Accomplishing various map specific tasks
-- Gives unique resources
+- Grants b
 ###### Fighting
 Killing things and defending yourself
