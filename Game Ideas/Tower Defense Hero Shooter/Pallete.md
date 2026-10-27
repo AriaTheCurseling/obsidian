@@ -20,5 +20,7 @@ Finding and collecting resources
 ###### Base building 
 Building up a physical presence
 ###### Completing Objectives
-
+Accomplishing various map specific tasks
+- Gives unique resources
 ###### Fighting
+Killing things and defending yourself
