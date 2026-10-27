@@ -18,10 +18,11 @@ resources matter, expend only what you need at every step
 ###### Resource Collection
 Finding and collecting resources
 - Fuels buildings
+- 
 ###### Base building 
 Building up a physical presence
 - Supply players with tools
-- 
+- Creates conveyors for collection
 ###### Completing Objectives
 Accomplishing various map specific tasks
 - Grants buildings
