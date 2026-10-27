@@ -17,7 +17,7 @@ resources matter, expend only what you need at every step
 ##### loops
 ###### Resource Collection
 Finding and collecting resources
-- Fuels buildings
+- Required for buildings
 - 
 ###### Base building 
 Building up a physical presence
