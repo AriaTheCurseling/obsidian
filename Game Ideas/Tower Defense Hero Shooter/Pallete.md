@@ -29,4 +29,5 @@ Accomplishing various map specific tasks
 - Summons enemies
 ###### Fighting
 Killing things and defending yourself
+- Dead enemies can be harvested
 - 
