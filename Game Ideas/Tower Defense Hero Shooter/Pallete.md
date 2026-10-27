@@ -2,7 +2,7 @@
 
 
 
-Desired feel
+##### Desired feel
 
 strong interplay between multiple different gameplay loops
 
@@ -15,4 +15,5 @@ resources matter, expend only what you need at every step
 
 
 ##### loops
-
+###### Resource Collection
+###### Base building 
