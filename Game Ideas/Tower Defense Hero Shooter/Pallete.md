@@ -16,4 +16,6 @@ resources matter, expend only what you need at every step
 
 ##### loops
 ###### Resource Collection
+Finding and collecting resources
 ###### Base building 
+Bui
