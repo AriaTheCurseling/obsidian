@@ -20,3 +20,4 @@ Finding and collecting resources
 ###### Base building 
 Building up a physical presence
 
+Complet
