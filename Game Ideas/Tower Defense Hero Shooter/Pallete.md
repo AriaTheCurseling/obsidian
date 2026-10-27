@@ -20,10 +20,12 @@ Finding and collecting resources
 - Fuels buildings
 ###### Base building 
 Building up a physical presence
+- Supply players with tools
+- 
 ###### Completing Objectives
 Accomplishing various map specific tasks
 - Grants buildings
 - Summons enemies
 ###### Fighting
 Killing things and defending yourself
-- Enemies drop resources
+- 
