@@ -7,7 +7,7 @@ A skill about gambling
 
 shopper's eye - helps you find what you're looking to buy
 
-split - spit coins
+exact change - split coins into accurate sections 
 
 
 
