@@ -5,7 +5,7 @@ A skill that reveals what you can buy
 A skill that makes paying easier
 A skill about gambling
 
-spend - whispers where to get the most for the least, giv
+spend - whispers where your mon to get the most for the least, 
 
 know expense - you can tell how much others have payed for the same or similar items
 
@@ -13,7 +13,7 @@ eye for a deal - makes it easier to find what you're looking to buy
 
 exact change - you can pick up the exact amount of money you intend to
 
-coinflip - helps you decide things by flipping a coin, 
+coinflip - helps you decide things by flipping a coin
 
 
 
