@@ -5,7 +5,7 @@ A skill that makes paying easier
 A skill about gambling
 
 
-shopper's eye - makes it easier to find what you're looking to buy
+eye for a deal - makes it easier to find what you're looking to buy
 
 exact change - pick up the exact amount of money you inteded with little effort
 
