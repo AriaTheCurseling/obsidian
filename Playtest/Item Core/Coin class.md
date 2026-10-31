@@ -7,6 +7,7 @@ A skill about gambling
 
 shopper's eye - helps you find what you're looking to buy
 
+accurate split
 
 
 
