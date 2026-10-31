@@ -1,11 +1,6 @@
-A coin is a tool used to buy and attain things. A coin is a tool used to represent value and worth. A coin is used for gambling. 
+A coin is a tool used to buy and attain things
 
-A skill about loosing money
-A skill that reveals what you can buy
-A skill that makes paying easier
-A skill about gambling
-
-buy - guides you when buying things, helping you avoid scams and giving you a sense how 
+buy - guides you when buying things, helping you avoid scams and giving you a sense how likely a trader is to go back on their word. 
 
 know expense - you can tell how much others have payed for the same or similar items
 
