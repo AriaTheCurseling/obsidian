@@ -13,7 +13,7 @@ eye for a deal - makes it easier to find and pick out things for sale
 
 exact change - you can pick up the exact amount of money you intend to
 
-coinflip - helps you decide things by flipping a coin
+coinflip - 
 
 
 
