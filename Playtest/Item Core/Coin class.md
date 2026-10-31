@@ -5,7 +5,7 @@ A skill that reveals what you can buy
 A skill that makes paying easier
 A skill about gambling
 
-pay - 
+buy - guides you when buying things, helping you avoid scams and giving you a sense how 
 
 know expense - you can tell how much others have payed for the same or similar items
 
