@@ -9,7 +9,7 @@ spend - whispers where your money can be spend, where things are cheap and how t
 
 know expense - you can tell how much others have payed for the same or similar items
 
-eye for a deal - makes it easier to find what you're looking to buy
+eye for a deal - makes it easier to find and pick out things for sale
 
 exact change - you can pick up the exact amount of money you intend to
 
