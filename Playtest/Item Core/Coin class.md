@@ -1,2 +1,3 @@
 pay
-appraise
+know value
+
