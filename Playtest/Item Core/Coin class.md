@@ -9,7 +9,10 @@ shopper's eye - makes it easier to find what you're looking to buy
 
 exact change - pick up the exact amount of money you inteded with little effort
 
-v - lets you know what others have spent
+know expense - tells you ho
+
+
+
 
 
 
