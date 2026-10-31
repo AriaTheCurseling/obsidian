@@ -5,7 +5,7 @@ A skill that reveals what you can buy
 A skill that makes paying easier
 A skill about gambling
 
-spend - whispers where your money can be spend, where things are cheap and how to get the most for the least. 
+pay - makes paying a little easier, 
 
 know expense - you can tell how much others have payed for the same or similar items
 
