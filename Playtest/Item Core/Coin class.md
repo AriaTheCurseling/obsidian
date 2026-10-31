@@ -9,6 +9,7 @@ shopper's eye - helps you find what you're looking to buy
 
 
 
+
 pay - reveals what can be bought
 know value - 
 
