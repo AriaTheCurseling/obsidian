@@ -5,7 +5,7 @@ A skill that reveals what you can buy
 A skill that makes paying easier
 A skill about gambling
 
-pay - smoothes over payments, helping you know the lowest price
+pay - smoothes over payments, 
 
 know expense - you can tell how much others have payed for the same or similar items
 
