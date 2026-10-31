@@ -2,7 +2,7 @@ A coin is a tool used to buy and attain things. A coin is a tool used to represe
 
 A skill that reveals what you can buy
 A skill that makes paying easier
-A skill 
+A skill about gambling
 
 
 
