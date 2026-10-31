@@ -4,12 +4,15 @@ A skill that reveals what you can buy
 A skill that makes paying easier
 A skill about gambling
 
+spend - 
+
+know expense - you can tell how much others have payed for the same or similar items
 
 eye for a deal - makes it easier to find what you're looking to buy
 
-exact change - pick up the exact amount of money you inteded with little effort
+exact change - pick up the exact amount of money you inteded
 
-know expense - you can tell how much others have payed for the same or similar items
+
 
 
 
