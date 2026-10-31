@@ -1,3 +1,3 @@
-pay
-know value
+pay - reveals what can be bought
+know value - 
 
