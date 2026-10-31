@@ -5,7 +5,7 @@ A skill that makes paying easier
 A skill about gambling
 
 
-shopper's eye - helps you find ehat you're lo
+shopper's eye - helps you find what you're looking to buy
 
 
 
