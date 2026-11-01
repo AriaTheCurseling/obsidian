@@ -7,3 +7,4 @@ For example: Ice skating
 1 hour - Can confortably move with some control, prone to error if suprised 
 1 day - Can now stop and start easily, no longer requires full focus
 1 week - 
+1 month
