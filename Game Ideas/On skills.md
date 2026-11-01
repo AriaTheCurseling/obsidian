@@ -9,8 +9,12 @@ none - You struggle to keep your balance and move slowly across the ice
 1 week - Can reasonably wield uncombersome ranged weapons
 1 month - Can reasonably brawl and fight in melee on the ice
 
+Riding
+none - can sit on a 
+
 
 0
 1
 8
 56
+224
