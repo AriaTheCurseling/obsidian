@@ -1,4 +1,4 @@
-A coin is a tool used to buy and attain things, it is a tool used to contain value and to ease trade. 
+A coin is a tool used to buy and attain things, it is a tool used to contain value and ease trade. 
 
 buy - guides you when buying things, helping you avoid scams and giving you a sense how likely a trader is to go back on their word. 
 
