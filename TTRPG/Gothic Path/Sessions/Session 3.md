@@ -6,10 +6,12 @@ Emma -
 
 Other defenders:
 Leshy - Grana
+red leaves
 
 Rabbit - Sonja
 newer with the caravan
 
+Gossiping
 
-
-Gossiping 
+Leshy - Mallia
+blue rimmed leaves
