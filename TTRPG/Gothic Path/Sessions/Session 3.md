@@ -15,3 +15,8 @@ Gossiping
 
 Leshy - Mallia
 blue rimmed leaves
+
+
+
+---
+For next session: Add terrain types to legend
