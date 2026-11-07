@@ -1,4 +1,3 @@
-
 Fear > Protection
 Disgust > Cleansing
 Anger > Damage
