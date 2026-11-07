@@ -6,6 +6,8 @@ Tier 4 - Expert         (Costs 0 actions, requires roll)
 Tier 5 - Master        (Costs 0 actions, no roll)
 
 
+5 ft movement (sub-action)
+
 20 ft (walk)
 60 ft (run)
-100 ft (sprint)
+120 ft (sprint)
