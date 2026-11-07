@@ -5,8 +5,10 @@ Tier 3 - Skilled         (Costs 1 action, rarely fails)
 Tier 4 - Expert         (Costs 0 actions, often fails)
 Tier 5 - Master        (Costs 0 actions, rarely fails)
 
-
 5 ft movement (sub-action)
+
+15 ft free movement
+
 
 20 ft (walk)
 60 ft (run)
