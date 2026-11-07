@@ -1,9 +1,9 @@
-Tier 0 - Neophyte   (Costs 2 actions, Requires roll)
-Tier 1 - Beginner     (Costs 2 actions, No Roll)
-Tier 2 - Practiced     (Costs 1 action, requires roll)
-Tier 3 - Skilled         (Costs 1 action, no roll)
-Tier 4 - Expert         (Costs 0 actions, requires roll)
-Tier 5 - Master        (Costs 0 actions, no roll)
+Tier 0 - Neophyte   (Costs 2 actions, often fails)
+Tier 1 - Beginner     (Costs 2 actions, rarely fails)
+Tier 2 - Practiced     (Costs 1 action, often fails)
+Tier 3 - Skilled         (Costs 1 action, rarely fails)
+Tier 4 - Expert         (Costs 0 actions, often fails)
+Tier 5 - Master        (Costs 0 actions, rarely fails)
 
 
 5 ft movement (sub-action)
